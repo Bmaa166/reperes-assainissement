@@ -1,0 +1,30 @@
+# Repères Assainissement
+
+> Le guide indépendant de l’assainissement individuel en Loire-Atlantique et en Vendée
+
+Guide indépendant édité par BMA Digital Studio LLC. Il explique l’assainissement non collectif (ANC) : obligations à la vente, contrôle du SPANC, filières (épandage, filtre compact, micro-station, filtre planté), prix 2026, aides (éco-PTZ, TVA à 10 %, aides intercommunales) et contacts des SPANC de Loire-Atlantique et de Vendée. Chaque affirmation renvoie à une source officielle ou à au moins deux sources de prix concordantes.
+
+## Pages
+- [Repères Assainissement](https://reperes-assainissement.fr/): Vente, mise aux normes, micro-station ou filtre compact, aides 2026 : le guide indépendant de l’assainissement individuel en Loire-Atlantique et en Vendée.
+- [Prix d’un assainissement individuel en 2026](https://reperes-assainissement.fr/prix): Combien coûte un assainissement individuel en 2026 ? Prix par filière, étude de sol, redevances SPANC, entretien, avec un calculateur et des sources vérifiées.
+- [Quelle filière d’assainissement individuel choisir ?](https://reperes-assainissement.fr/filieres): Épandage, filtre à sable, tertre, filtre compact, micro-station, filtre planté : principe, emprise, entretien et prix de chaque filière d’assainissement.
+- [Micro-station ou filtre compact : le comparatif](https://reperes-assainissement.fr/micro-station-ou-filtre-compact): Prix, électricité, entretien, coût sur 15 ans, éco-PTZ, résidence secondaire : le comparatif sourcé entre micro-station et filtre compact.
+- [Vente ou achat d’une maison : ce que la loi impose pour l’assainissement](https://reperes-assainissement.fr/vente-achat-maison): Vendre ou acheter une maison en assainissement individuel : rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
+- [Le contrôle du SPANC : déroulé, tarifs et délais](https://reperes-assainissement.fr/spanc-controle): Les trois contrôles du SPANC, leur fréquence (10 ans maximum), les tarifs dans le 44 et le 85, les délais de travaux et la pénalité majorable à 400 %.
+- [Aides à l’assainissement individuel en 2026](https://reperes-assainissement.fr/aides): Aides 2026 à l’assainissement individuel en Loire-Atlantique et en Vendée : éco-PTZ de 10 000 €, TVA à 10 %, aides des intercommunalités, Anah.
+- [Entretien et vidange d’une installation d’assainissement](https://reperes-assainissement.fr/entretien-vidange): Vidange d’une fosse toutes eaux : la règle des 50 % de boues, le vidangeur agréé, les prix, l’entretien d’une micro-station et d’un filtre compact.
+- [Mise en conformité : les étapes, de l’étude de sol au contrôle final](https://reperes-assainissement.fr/etapes-travaux): Étude de sol, contrôle de conception du SPANC, devis, travaux, contrôle avant remblaiement : les étapes d’une mise en conformité de l’assainissement individuel.
+- [J’achète une maison avec une fosse non conforme : que faire ?](https://reperes-assainissement.fr/achat-maison-fosse-non-conforme): Vous achetez une maison avec un assainissement non conforme ? Les réflexes avant de signer, le calendrier pour tenir le délai d’un an, le budget et les aides.
+- [Odeurs, refoulement, débordement de fosse : que faire ?](https://reperes-assainissement.fr/odeurs-debordement-fosse): Odeurs, refoulement par les sanitaires, eaux qui ressortent au-dessus de l’épandage : les causes fréquentes, les risques et quoi faire, dans l’ordre.
+- [L’étude de sol et de filière : prix, utilité, déroulé](https://reperes-assainissement.fr/etude-de-sol): Étude de sol et de filière pour un assainissement individuel : à quoi elle sert, quand elle est exigée, combien elle coûte (350 à 800 €), son déroulé.
+- [Vérifier un devis d’assainissement : la checklist](https://reperes-assainissement.fr/verifier-devis): Agrément, étude de sol, contrôle du SPANC, dépose de l’ancienne fosse, TVA, décennale : la checklist pour vérifier et comparer un devis d’assainissement.
+- [L’assainissement individuel en Loire-Atlantique](https://reperes-assainissement.fr/loire-atlantique): Les 16 SPANC de Loire-Atlantique, leurs tarifs, l’aide de Nantes Métropole, les pénalités et les repères locaux de l’assainissement individuel dans le 44.
+- [L’assainissement individuel en Vendée](https://reperes-assainissement.fr/vendee): Les 19 SPANC de Vendée avec leurs téléphones, les tarifs des contrôles, les aides des intercommunalités en 2026 et les prix constatés par la Charte ANC Vendée.
+- [À propos et méthode](https://reperes-assainissement.fr/a-propos): Qui écrit ce guide, comment les informations sont vérifiées et pourquoi le site est indépendant de tout SPANC, collectivité ou fabricant.
+
+## Texte intégral
+- [Repères Assainissement — texte intégral](https://reperes-assainissement.fr/llms-full.txt)
+
+## Informations
+- Éditeur : BMA Digital Studio LLC — [mentions légales](https://reperes-assainissement.fr/mentions-legales)
+- Méthode et sources : [https://reperes-assainissement.fr/a-propos](https://reperes-assainissement.fr/a-propos)
