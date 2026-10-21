@@ -1,0 +1,51 @@
+name: Nettoyage SEO (titres et descriptions)
+# A lancer a la main : Actions > « Nettoyage SEO (titres et descriptions) » > Run workflow. Idempotent.
+# Raccourcit les descriptions trop longues (> 160 caracteres) des fiches SPANC et des annuaires de vidangeurs,
+# et le title de l'annuaire 44 (> 60 caracteres), puis pousse sur main.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Titres et descriptions
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          regles = [
+              (' : contact, tarifs des contrôles (conception, réalisation, périodique, vente), fréquence, aides et pénalités, sources officielles.',
+               ' : contact, tarifs des contrôles, fréquence, aides et pénalités, sources officielles.'),
+              ('La liste des entreprises agréées par la préfecture pour vidanger une fosse septique ou une micro-station en Loire-Atlantique, avec le numéro d’agrément, la commune et la date de la liste (6 novembre 2025).',
+               'Liste préfectorale des vidangeurs agréés en Loire-Atlantique pour fosse septique et micro-station : n° d’agrément, commune, liste du 6 novembre 2025.'),
+              ('La liste des entreprises agréées par la préfecture pour vidanger une fosse septique ou une micro-station en Vendée, avec le numéro d’agrément, la commune et la date de la liste (7 décembre 2022).',
+               'Liste préfectorale des vidangeurs agréés en Vendée pour fosse septique et micro-station : n° d’agrément, commune, liste du 7 décembre 2022.'),
+              ('Vidangeurs agréés en Loire-Atlantique : la liste préfectorale',
+               'Vidangeurs agréés Loire-Atlantique : liste préfectorale'),
+          ]
+          modifies = 0
+          for p in pathlib.Path('.').rglob('*.html'):
+              if '.git' in p.parts:
+                  continue
+              t = p.read_text(encoding='utf-8')
+              n = t
+              for a, b in regles:
+                  n = n.replace(a, b)
+              if n != t:
+                  p.write_text(n, encoding='utf-8')
+                  modifies += 1
+                  print('modifie :', p)
+          print('fichiers modifies :', modifies)
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "Rien a changer" && exit 0
+          git commit -m "SEO : titres et descriptions raccourcis (fiches SPANC, annuaires vidangeurs)"
+          git push
