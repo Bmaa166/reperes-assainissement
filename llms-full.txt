@@ -84,7 +84,7 @@ L’eau traitée s’infiltre dans le sol ou, si le sol ne le permet pas, rejoin
 Comparer les filières
 Votre département
 44 Loire-Atlantique
-Environ 85 000 installations recensées par la charte départementale. 16 intercommunalités gèrent chacune leur SPANC. Nantes Métropole, très majoritairement raccordée au tout-à-l’égout, en compte environ 7 000.
+Environ 85 000 installations recensées par la charte départementale. 17 SPANC intercommunaux couvrent le département (dont Redon Agglomération pour ses communes de Loire-Atlantique). Nantes Métropole, très majoritairement raccordée au tout-à-l’égout, en compte environ 7 000.
 Contacts, tarifs et aides →
 85 Vendée
 78 500 installations selon la Charte ANC Vendée. 19 SPANC intercommunaux, dont 17 proposaient une aide locale aux travaux en 2025.
@@ -140,7 +140,7 @@ Fourchettes relevées dans les tarifs publiés par des SPANC de Loire-Atlantique
 Étude de sol et de filière 350 à 800 € (souvent autour de 600 €) Avant le projet ; exigée par de nombreux SPANC
 Redevance du SPANC : contrôle de conception 60 à 175 € Avant les travaux
 Redevance du SPANC : contrôle de bonne exécution 90 à 190 € Pendant les travaux, avant remblaiement
-Contrôle du SPANC pour une vente 100 à 300 € Si le rapport a plus de 3 ans
+Contrôle du SPANC pour une vente environ 100 à 310 € Si le rapport a plus de 3 ans
 Dépose de l’ancien système 2 000 à 5 000 € Selon la complexité (repère d’une seule source)
 Ce que coûte l’installation sur la durée
 Le prix d’achat ne dit pas tout. Une installation se garde des décennies, et les coûts de fonctionnement changent le classement des filières.
@@ -277,7 +277,7 @@ Une maison qui n’est pas raccordée au tout-à-l’égout ne se vend pas sans 
 1 mois délai du notaire pour informer le SPANC de la vente
 Côté vendeur : ce qu’il faut fournir
 Le document établi par le SPANC après contrôle de l’installation, daté de moins de 3 ans au jour de la signature de l’acte (le délai court depuis la date de la visite).
-S’il est absent ou trop ancien, le contrôle est à la charge du vendeur : comptez environ 100 à 300 € selon les territoires.
+S’il est absent ou trop ancien, le contrôle est à la charge du vendeur : comptez environ 100 à 310 € selon les territoires.
 Ce document est joint au dossier de diagnostic technique annexé à la promesse ou, à défaut, à l’acte de vente.
 Sans document valide, le vendeur ne peut pas s’exonérer de la garantie des vices cachés sur ce point.
 Uniquement le SPANC Aucun diagnostiqueur immobilier n’est habilité à faire ce contrôle. Le SPANC peut confier les visites à un prestataire, mais le document reste celui du SPANC.
@@ -352,7 +352,7 @@ Q : Peut-on refuser la visite du SPANC ?
 R : Le refus expose à la même pénalité que l’absence de travaux : une somme au moins égale à la redevance, majorable jusqu’à 400 %.
 
 Q : Combien coûte un contrôle du SPANC ?
-R : Cela dépend du territoire. Dans les SPANC de Loire-Atlantique et de Vendée que j’ai relevés : 60 à 175 € pour la conception, 90 à 190 € pour la bonne exécution, 100 à 300 € pour une vente, et pour le contrôle périodique soit un forfait (environ 100 à 190 €), soit une redevance annuelle (environ 30 à 50 € par an).
+R : Cela dépend du territoire. Dans les SPANC de Loire-Atlantique et de Vendée que j’ai relevés : 60 à 175 € pour la conception, 90 à 190 € pour la bonne exécution, environ 100 à 310 € pour une vente, et pour le contrôle périodique soit un forfait (environ 100 à 190 €), soit une redevance annuelle (environ 30 à 50 € par an).
 
 Q : Y a-t-il des dérogations en zone rurale ?
 R : Non : la réglementation ne prévoit aucune dérogation aux travaux, même en zone rurale ou de montagne, selon une réponse ministérielle publiée en janvier 2023.
@@ -572,7 +572,7 @@ URL : https://reperes-assainissement.fr/loire-atlantique
 
 En Loire-Atlantique, l’assainissement individuel concerne surtout les communes rurales et périurbaines. Chaque intercommunalité gère son propre SPANC, avec ses tarifs, sa fréquence de contrôle et, parfois, ses aides.
 ≈ 85 000 installations dans le département (charte de 2015, non actualisée)
-16 intercommunalités, chacune avec son SPANC
+17 SPANC, dont celui de Redon Agglomération pour ses communes du 44
 ≈ 7 000 installations seulement à Nantes Métropole
 Les SPANC par intercommunalité
 Mode de gestion relevé dans la base nationale SISPEA (données 2024). La mairie de votre commune peut aussi vous orienter. Intercommunalité Gestion du SPANC Page officielle
@@ -3084,7 +3084,7 @@ Pour comparer avec les autres territoires, voir les SPANC de Vendée et le déro
 Fréquence des contrôles
 Tous les 8 ans (installations conformes), tous les 4 ans (non conformes). La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
 Aides aux travaux
-Aides 2026 sur un plafond de travaux de 11 000 € TTC : 50 % (maximum 5 500 €) pour les ménages très modestes, 35 % (maximum 3 850 €) pour les ménages modestes et 20 % (maximum 2 200 €) pour les autres, selon le revenu fiscal de référence Anah. Cumul possible avec Vendée Eau et l'éco-PTZ dans la limite de 80 %.
+Aides 2026 sur un plafond de travaux de 11 000 € TTC : 50 % (maximum 5 500 €) pour les ménages très modestes, 35 % (maximum 3 850 €) pour les ménages modestes et 20 % (maximum 2 200 €) pour les autres, selon le revenu fiscal de référence Anah. Cumul possible avec l'éco-PTZ, dans la limite de 80 % d'aides publiques.
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
 Pénalités en cas de non-conformité
 Pénalités 2026 (conseil communautaire du 19/05/2022, calculées sur le HT) pour les installations de moins de 20 EH : obstacle au contrôle 200,00 € (deux fois le contrôle de bon fonctionnement) aux premier et deuxième refus, 500,00 € (cinq fois) dès le troisième ; non-mise en conformité ou absence d'installation 336,38 € ou 840,95 € ; conception de plus d'un an 227,28 € ou 568,20 € ; réalisation sans autorisation 227,28 €. Les pénalités 1 à 3 sont appliquées annuellement.
@@ -3096,7 +3096,7 @@ Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 En 2026, le contrôle de vente d'une installation de moins de 20 EH coûte 154,55 € HT, soit 170 € TTC. Un supplément de 60 € HT par heure s'applique aux ventes multi-logements.
 Y a-t-il une aide pour les travaux de réhabilitation ?
-Oui, en 2026, sur un plafond de travaux de 11 000 € TTC : 50 % pour les ménages très modestes (maximum 5 500 €), 35 % pour les ménages modestes (maximum 3 850 €) et 20 % pour les autres (maximum 2 200 €), cumulables avec Vendée Eau et l'éco-PTZ dans la limite de 80 %.
+Oui, en 2026, sur un plafond de travaux de 11 000 € TTC : 50 % pour les ménages très modestes (maximum 5 500 €), 35 % pour les ménages modestes (maximum 3 850 €) et 20 % pour les autres (maximum 2 200 €), cumulables avec l'éco-PTZ dans la limite de 80 % d'aides publiques.
 Tous les combien a lieu le contrôle périodique ?
 Tous les 8 ans pour les installations conformes et tous les 4 ans pour les installations non conformes. Le contrôle de bon fonctionnement coûte 100 € HT, soit 110 € TTC, pour une installation de moins de 20 EH.
 Limites de cette fiche. Liste des communes issue du règlement de 2017, à confirmer sur une source 2026. Si vous constatez une erreur, écrivez-moi .
