@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img" aria-labelledby="t d">
+<defs><clipPath id="c"><rect width="720" height="380" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<title id="t">Schéma d'une installation d'assainissement individuel</title>
+<desc id="d">Les eaux usées de la maison passent dans une fosse toutes eaux (prétraitement), puis dans un dispositif de traitement (épandage, filtre ou micro-station), avant l'évacuation de l'eau traitée par infiltration dans le sol ou vers un exutoire.</desc>
+<rect width="720" height="380" rx="18" fill="#f5fafb"/>
+<rect y="190" width="720" height="190" fill="#efe6d6"/><rect y="182" width="720" height="14" fill="#9bcf9f"/>
+<g transform="translate(40 70)"><path d="M0 60 L70 0 L140 60 Z" fill="#0e7c86"/><rect x="12" y="60" width="116" height="66" fill="#fff" stroke="#0e7c86" stroke-width="3"/><rect x="30" y="76" width="28" height="24" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/><rect x="80" y="84" width="30" height="42" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/></g>
+<path d="M160 200 L250 236" stroke="#3d525c" stroke-width="8" stroke-linecap="round"/>
+<rect x="250" y="216" width="130" height="80" rx="16" fill="#fff" stroke="#0e7c86" stroke-width="4"/>
+<rect x="256" y="262" width="118" height="28" rx="10" fill="#c9b79c"/>
+<rect x="296" y="200" width="38" height="18" fill="#0e7c86"/>
+<path d="M380 244 L440 252" stroke="#3d525c" stroke-width="8" stroke-linecap="round"/>
+<rect x="440" y="236" width="170" height="56" rx="8" fill="#f2e3c4" stroke="#f2a516" stroke-width="3"/>
+<g stroke="#f2a516" stroke-width="3"><line x1="452" y1="256" x2="598" y2="256"/><line x1="452" y1="272" x2="598" y2="272"/></g>
+<g fill="#14a3a8"><path d="M470 304 q6 12 0 18 q-6-6 0-18z"/><path d="M520 310 q6 12 0 18 q-6-6 0-18z"/><path d="M570 304 q6 12 0 18 q-6-6 0-18z"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="360" y="44" font-size="23" font-weight="700" fill="#13232b">Comment fonctionne une installation</text>
+ <text x="110" y="232" font-size="14" font-weight="700" fill="#13232b">Maison</text><text x="110" y="250" font-size="12.5" fill="#3d525c">eaux usées</text>
+ <g transform="translate(315 128)"><rect x="-72" y="-22" width="144" height="58" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/><text y="-2" font-size="13" font-weight="700" fill="#0e7c86">1. Prétraitement</text><text y="16" font-size="12.5" fill="#3d525c">fosse toutes eaux</text><text y="31" font-size="12" fill="#61747d">boues à vidanger</text></g>
+ <g transform="translate(525 128)"><rect x="-90" y="-22" width="180" height="58" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/><text y="-2" font-size="13" font-weight="700" fill="#0e7c86">2. Traitement</text><text y="16" font-size="12.5" fill="#3d525c">épandage, filtre</text><text y="31" font-size="12" fill="#61747d">ou micro-station</text></g>
+ <text x="525" y="352" font-size="13" font-weight="700" fill="#13232b">3. Évacuation</text><text x="525" y="369" font-size="12" fill="#3d525c">infiltration ou exutoire, selon le SPANC</text>
+</g>
+<g stroke="#0e7c86" stroke-width="2" stroke-dasharray="4 4"><line x1="315" y1="164" x2="315" y2="212"/><line x1="525" y1="164" x2="525" y2="232"/></g>
+</g>
+</svg>
