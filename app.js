@@ -337,4 +337,26 @@
     window.addEventListener('scroll', function () { if (!t2) { t2 = true; requestAnimationFrame(upm); } }, { passive: true });
     upm();
   }
+
+  /* ---------- 12. Accueil : votre commune -> votre fiche SPANC (liste officielle geo.api.gouv.fr, octobre 2026) ---------- */
+  var cq = document.getElementById('commune-q');
+  if (cq) {
+    var nz = function (s) { return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/œ/g, 'oe').replace(/[^a-z0-9]+/g, ' ').trim(); };
+    var copts = [].slice.call(document.querySelectorAll('#communes-ra option'));
+    var cr = document.getElementById('commune-r');
+    var cgo = function () {
+      var v = nz(cq.value); cr.textContent = '';
+      if (v.length < 2) return;
+      var hit = copts.filter(function (o) { return nz(o.value) === v; })[0];
+      if (!hit) { var c = copts.filter(function (o) { return nz(o.value).indexOf(v) === 0; }); if (c.length === 1) hit = c[0]; }
+      if (hit) {
+        var a = document.createElement('a'); a.href = '/spanc/' + hit.getAttribute('data-s');
+        a.textContent = hit.value + ' dépend du SPANC ' + hit.getAttribute('data-n') + ' : voir sa fiche →';
+        cr.appendChild(a);
+      } else if (v.length > 3 && !copts.some(function (o) { return nz(o.value).indexOf(v) === 0; })) {
+        cr.textContent = 'Commune introuvable dans la Loire-Atlantique et la Vendée : vérifiez l’orthographe.';
+      }
+    };
+    cq.addEventListener('input', cgo); cq.addEventListener('change', cgo);
+  }
 })();
