@@ -275,4 +275,4 @@ input[type=text],input[type=email],input[type=tel],textarea{font:inherit;padding
 .related{margin-top:2.4em}
 .related .card h3{font-size:1.02rem}
 .related .card p{font-size:.92rem}
-.ill{margin:28px 0}.ill img{display:block;width:100%;height:auto;border-radius:14px}
+.ill{max-width:760px;margin:28px auto}.ill img{display:block;width:100%;height:auto;border-radius:14px}
