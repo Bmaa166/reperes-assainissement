@@ -1,0 +1,50 @@
+name: Illustrations des pages (images avec alt)
+# Guide Google IA (juillet 2026) : images utiles et pertinentes, avec un texte alternatif.
+# Ajoute des illustrations SVG claires et les insere dans les pages. Idempotent (une page deja illustree est ignoree).
+# Se lance seul au push sur la branche images-ia ; ne pousse jamais sur main.
+on:
+  workflow_dispatch:
+  push:
+    branches: [images-ia]
+
+permissions:
+  contents: write
+
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Images et insertion
+        run: |
+          python3 - <<'PY'
+          import base64, json, pathlib
+          cfg = json.loads(base64.b64decode("eyJpbWdkaXIiOiAiaW1nIiwgImZpbGVzIjogeyJpbnN0YWxsYXRpb24tYXNzYWluaXNzZW1lbnQuc3ZnIjogIlBITjJaeUI0Yld4dWN6MGlhSFIwY0RvdkwzZDNkeTUzTXk1dmNtY3ZNakF3TUM5emRtY2lJSFpwWlhkQ2IzZzlJakFnTUNBM01qQWdNemd3SWlCM2FXUjBhRDBpTnpJd0lpQm9aV2xuYUhROUlqTTRNQ0lnY205c1pUMGlhVzFuSWlCaGNtbGhMV3hoWW1Wc2JHVmtZbms5SW5RZ1pDSStDanhrWldaelBqeGpiR2x3VUdGMGFDQnBaRDBpWXlJK1BISmxZM1FnZDJsa2RHZzlJamN5TUNJZ2FHVnBaMmgwUFNJek9EQWlJSEo0UFNJeE9DSXZQand2WTJ4cGNGQmhkR2crUEM5a1pXWnpQZ284WnlCamJHbHdMWEJoZEdnOUluVnliQ2dqWXlraVBnbzhkR2wwYkdVZ2FXUTlJblFpUGxOamFNT3BiV0VnWkNkMWJtVWdhVzV6ZEdGc2JHRjBhVzl1SUdRbllYTnpZV2x1YVhOelpXMWxiblFnYVc1a2FYWnBaSFZsYkR3dmRHbDBiR1UrQ2p4a1pYTmpJR2xrUFNKa0lqNU1aWE1nWldGMWVDQjFjOE9wWlhNZ1pHVWdiR0VnYldGcGMyOXVJSEJoYzNObGJuUWdaR0Z1Y3lCMWJtVWdabTl6YzJVZ2RHOTFkR1Z6SUdWaGRYZ2dLSEJ5dzZsMGNtRnBkR1Z0Wlc1MEtTd2djSFZwY3lCa1lXNXpJSFZ1SUdScGMzQnZjMmwwYVdZZ1pHVWdkSEpoYVhSbGJXVnVkQ0FvdzZsd1lXNWtZV2RsTENCbWFXeDBjbVVnYjNVZ2JXbGpjbTh0YzNSaGRHbHZiaWtzSUdGMllXNTBJR3dudzZsMllXTjFZWFJwYjI0Z1pHVWdiQ2RsWVhVZ2RISmhhWFREcVdVZ2NHRnlJR2x1Wm1sc2RISmhkR2x2YmlCa1lXNXpJR3hsSUhOdmJDQnZkU0IyWlhKeklIVnVJR1Y0ZFhSdmFYSmxMand2WkdWell6NEtQSEpsWTNRZ2QybGtkR2c5SWpjeU1DSWdhR1ZwWjJoMFBTSXpPREFpSUhKNFBTSXhPQ0lnWm1sc2JEMGlJMlkxWm1GbVlpSXZQZ284Y21WamRDQjVQU0l4T1RBaUlIZHBaSFJvUFNJM01qQWlJR2hsYVdkb2REMGlNVGt3SWlCbWFXeHNQU0lqWldabE5tUTJJaTgrUEhKbFkzUWdlVDBpTVRneUlpQjNhV1IwYUQwaU56SXdJaUJvWldsbmFIUTlJakUwSWlCbWFXeHNQU0lqT1dKalpqbG1JaTgrQ2p4bklIUnlZVzV6Wm05eWJUMGlkSEpoYm5Oc1lYUmxLRFF3SURjd0tTSStQSEJoZEdnZ1pEMGlUVEFnTmpBZ1REY3dJREFnVERFME1DQTJNQ0JhSWlCbWFXeHNQU0lqTUdVM1l6ZzJJaTgrUEhKbFkzUWdlRDBpTVRJaUlIazlJall3SWlCM2FXUjBhRDBpTVRFMklpQm9aV2xuYUhROUlqWTJJaUJtYVd4c1BTSWpabVptSWlCemRISnZhMlU5SWlNd1pUZGpPRFlpSUhOMGNtOXJaUzEzYVdSMGFEMGlNeUl2UGp4eVpXTjBJSGc5SWpNd0lpQjVQU0kzTmlJZ2QybGtkR2c5SWpJNElpQm9aV2xuYUhROUlqSTBJaUJtYVd4c1BTSWpaVFptTm1ZMklpQnpkSEp2YTJVOUlpTXdaVGRqT0RZaUlITjBjbTlyWlMxM2FXUjBhRDBpTWlJdlBqeHlaV04wSUhnOUlqZ3dJaUI1UFNJNE5DSWdkMmxrZEdnOUlqTXdJaUJvWldsbmFIUTlJalF5SWlCbWFXeHNQU0lqWlRabU5tWTJJaUJ6ZEhKdmEyVTlJaU13WlRkak9EWWlJSE4wY205clpTMTNhV1IwYUQwaU1pSXZQand2Wno0S1BIQmhkR2dnWkQwaVRURTJNQ0F5TURBZ1RESTFNQ0F5TXpZaUlITjBjbTlyWlQwaUl6TmtOVEkxWXlJZ2MzUnliMnRsTFhkcFpIUm9QU0k0SWlCemRISnZhMlV0YkdsdVpXTmhjRDBpY205MWJtUWlMejRLUEhKbFkzUWdlRDBpTWpVd0lpQjVQU0l5TVRZaUlIZHBaSFJvUFNJeE16QWlJR2hsYVdkb2REMGlPREFpSUhKNFBTSXhOaUlnWm1sc2JEMGlJMlptWmlJZ2MzUnliMnRsUFNJak1HVTNZemcySWlCemRISnZhMlV0ZDJsa2RHZzlJalFpTHo0S1BISmxZM1FnZUQwaU1qVTJJaUI1UFNJeU5qSWlJSGRwWkhSb1BTSXhNVGdpSUdobGFXZG9kRDBpTWpnaUlISjRQU0l4TUNJZ1ptbHNiRDBpSTJNNVlqYzVZeUl2UGdvOGNtVmpkQ0I0UFNJeU9UWWlJSGs5SWpJd01DSWdkMmxrZEdnOUlqTTRJaUJvWldsbmFIUTlJakU0SWlCbWFXeHNQU0lqTUdVM1l6ZzJJaTgrQ2p4d1lYUm9JR1E5SWswek9EQWdNalEwSUV3ME5EQWdNalV5SWlCemRISnZhMlU5SWlNelpEVXlOV01pSUhOMGNtOXJaUzEzYVdSMGFEMGlPQ0lnYzNSeWIydGxMV3hwYm1WallYQTlJbkp2ZFc1a0lpOCtDanh5WldOMElIZzlJalEwTUNJZ2VUMGlNak0ySWlCM2FXUjBhRDBpTVRjd0lpQm9aV2xuYUhROUlqVTJJaUJ5ZUQwaU9DSWdabWxzYkQwaUkyWXlaVE5qTkNJZ2MzUnliMnRsUFNJalpqSmhOVEUySWlCemRISnZhMlV0ZDJsa2RHZzlJak1pTHo0S1BHY2djM1J5YjJ0bFBTSWpaakpoTlRFMklpQnpkSEp2YTJVdGQybGtkR2c5SWpNaVBqeHNhVzVsSUhneFBTSTBOVElpSUhreFBTSXlOVFlpSUhneVBTSTFPVGdpSUhreVBTSXlOVFlpTHo0OGJHbHVaU0I0TVQwaU5EVXlJaUI1TVQwaU1qY3lJaUI0TWowaU5UazRJaUI1TWowaU1qY3lJaTgrUEM5blBnbzhaeUJtYVd4c1BTSWpNVFJoTTJFNElqNDhjR0YwYUNCa1BTSk5ORGN3SURNd05DQnhOaUF4TWlBd0lERTRJSEV0TmkwMklEQXRNVGg2SWk4K1BIQmhkR2dnWkQwaVRUVXlNQ0F6TVRBZ2NUWWdNVElnTUNBeE9DQnhMVFl0TmlBd0xURTRlaUl2UGp4d1lYUm9JR1E5SWswMU56QWdNekEwSUhFMklERXlJREFnTVRnZ2NTMDJMVFlnTUMweE9Ib2lMejQ4TDJjK0NqeG5JR1p2Ym5RdFptRnRhV3g1UFNKQmNtbGhiQ3hJWld4MlpYUnBZMkVzYzJGdWN5MXpaWEpwWmlJZ2RHVjRkQzFoYm1Ob2IzSTlJbTFwWkdSc1pTSStDaUE4ZEdWNGRDQjRQU0l6TmpBaUlIazlJalEwSWlCbWIyNTBMWE5wZW1VOUlqSXpJaUJtYjI1MExYZGxhV2RvZEQwaU56QXdJaUJtYVd4c1BTSWpNVE15TXpKaUlqNURiMjF0Wlc1MElHWnZibU4wYVc5dWJtVWdkVzVsSUdsdWMzUmhiR3hoZEdsdmJqd3ZkR1Y0ZEQ0S0lEeDBaWGgwSUhnOUlqRXhNQ0lnZVQwaU1qTXlJaUJtYjI1MExYTnBlbVU5SWpFMElpQm1iMjUwTFhkbGFXZG9kRDBpTnpBd0lpQm1hV3hzUFNJak1UTXlNekppSWo1TllXbHpiMjQ4TDNSbGVIUStQSFJsZUhRZ2VEMGlNVEV3SWlCNVBTSXlOVEFpSUdadmJuUXRjMmw2WlQwaU1USXVOU0lnWm1sc2JEMGlJek5rTlRJMVl5SStaV0YxZUNCMWM4T3BaWE04TDNSbGVIUStDaUE4WnlCMGNtRnVjMlp2Y20wOUluUnlZVzV6YkdGMFpTZ3pNVFVnTVRJNEtTSStQSEpsWTNRZ2VEMGlMVGN5SWlCNVBTSXRNaklpSUhkcFpIUm9QU0l4TkRRaUlHaGxhV2RvZEQwaU5UZ2lJSEo0UFNJeE1DSWdabWxzYkQwaUkyWm1aaUlnYzNSeWIydGxQU0lqWkdSbE9HVmhJaUJ6ZEhKdmEyVXRkMmxrZEdnOUlqSWlMejQ4ZEdWNGRDQjVQU0l0TWlJZ1ptOXVkQzF6YVhwbFBTSXhNeUlnWm05dWRDMTNaV2xuYUhROUlqY3dNQ0lnWm1sc2JEMGlJekJsTjJNNE5pSStNUzRnVUhMRHFYUnlZV2wwWlcxbGJuUThMM1JsZUhRK1BIUmxlSFFnZVQwaU1UWWlJR1p2Ym5RdGMybDZaVDBpTVRJdU5TSWdabWxzYkQwaUl6TmtOVEkxWXlJK1ptOXpjMlVnZEc5MWRHVnpJR1ZoZFhnOEwzUmxlSFErUEhSbGVIUWdlVDBpTXpFaUlHWnZiblF0YzJsNlpUMGlNVElpSUdacGJHdzlJaU0yTVRjME4yUWlQbUp2ZFdWeklNT2dJSFpwWkdGdVoyVnlQQzkwWlhoMFBqd3ZaejRLSUR4bklIUnlZVzV6Wm05eWJUMGlkSEpoYm5Oc1lYUmxLRFV5TlNBeE1qZ3BJajQ4Y21WamRDQjRQU0l0T1RBaUlIazlJaTB5TWlJZ2QybGtkR2c5SWpFNE1DSWdhR1ZwWjJoMFBTSTFPQ0lnY25nOUlqRXdJaUJtYVd4c1BTSWpabVptSWlCemRISnZhMlU5SWlOa1pHVTRaV0VpSUhOMGNtOXJaUzEzYVdSMGFEMGlNaUl2UGp4MFpYaDBJSGs5SWkweUlpQm1iMjUwTFhOcGVtVTlJakV6SWlCbWIyNTBMWGRsYVdkb2REMGlOekF3SWlCbWFXeHNQU0lqTUdVM1l6ZzJJajR5TGlCVWNtRnBkR1Z0Wlc1MFBDOTBaWGgwUGp4MFpYaDBJSGs5SWpFMklpQm1iMjUwTFhOcGVtVTlJakV5TGpVaUlHWnBiR3c5SWlNelpEVXlOV01pUHNPcGNHRnVaR0ZuWlN3Z1ptbHNkSEpsUEM5MFpYaDBQangwWlhoMElIazlJak14SWlCbWIyNTBMWE5wZW1VOUlqRXlJaUJtYVd4c1BTSWpOakUzTkRka0lqNXZkU0J0YVdOeWJ5MXpkR0YwYVc5dVBDOTBaWGgwUGp3dlp6NEtJRHgwWlhoMElIZzlJalV5TlNJZ2VUMGlNelV5SWlCbWIyNTBMWE5wZW1VOUlqRXpJaUJtYjI1MExYZGxhV2RvZEQwaU56QXdJaUJtYVd4c1BTSWpNVE15TXpKaUlqNHpMaUREaVhaaFkzVmhkR2x2Ymp3dmRHVjRkRDQ4ZEdWNGRDQjRQU0kxTWpVaUlIazlJak0yT1NJZ1ptOXVkQzF6YVhwbFBTSXhNaUlnWm1sc2JEMGlJek5rTlRJMVl5SSthVzVtYVd4MGNtRjBhVzl1SUc5MUlHVjRkWFJ2YVhKbExDQnpaV3h2YmlCc1pTQlRVRUZPUXp3dmRHVjRkRDRLUEM5blBnbzhaeUJ6ZEhKdmEyVTlJaU13WlRkak9EWWlJSE4wY205clpTMTNhV1IwYUQwaU1pSWdjM1J5YjJ0bExXUmhjMmhoY25KaGVUMGlOQ0EwSWo0OGJHbHVaU0I0TVQwaU16RTFJaUI1TVQwaU1UWTBJaUI0TWowaU16RTFJaUI1TWowaU1qRXlJaTgrUEd4cGJtVWdlREU5SWpVeU5TSWdlVEU5SWpFMk5DSWdlREk5SWpVeU5TSWdlVEk5SWpJek1pSXZQand2Wno0S1BDOW5QZ284TDNOMlp6NEsifSwgIml0ZW1zIjogW3sicGFnZSI6ICJpbmRleC5odG1sIiwgIm1vZGUiOiAiYWZ0ZXIiLCAibWFya2VyIjogIjwvaDI+IiwgInN0YXJ0IjogImlkPVwiY29tbWVudC1mb25jdGlvbm5lLXVuZS1pbnN0YWxsYXRpb25cIiIsICJmaWciOiAiPGZpZ3VyZSBjbGFzcz1cImlsbFwiPjxpbWcgc3JjPVwiL2ltZy9pbnN0YWxsYXRpb24tYXNzYWluaXNzZW1lbnQuc3ZnXCIgYWx0PVwiU2NoXHUwMGU5bWEgZCd1bmUgaW5zdGFsbGF0aW9uIGQnYXNzYWluaXNzZW1lbnQgaW5kaXZpZHVlbCA6IGZvc3NlIHRvdXRlcyBlYXV4IChwclx1MDBlOXRyYWl0ZW1lbnQpLCB0cmFpdGVtZW50IHBhciBcdTAwZTlwYW5kYWdlLCBmaWx0cmUgb3UgbWljcm8tc3RhdGlvbiwgcHVpcyBcdTAwZTl2YWN1YXRpb24gZGUgbCdlYXUgdHJhaXRcdTAwZTllXCIgd2lkdGg9XCI3MjBcIiBoZWlnaHQ9XCIzODBcIiBsb2FkaW5nPVwibGF6eVwiIGRlY29kaW5nPVwiYXN5bmNcIj48L2ZpZ3VyZT4iLCAic3JjIjogIi9pbWcvaW5zdGFsbGF0aW9uLWFzc2Fpbmlzc2VtZW50LnN2ZyJ9XSwgImNzcyI6ICJzdHlsZS5jc3MifQ=="))
+          d = pathlib.Path(cfg["imgdir"]); d.mkdir(parents=True, exist_ok=True)
+          for n, b in cfg["files"].items():
+              (d / n).write_bytes(base64.b64decode(b)); print("image :", d / n)
+          for it in cfg["items"]:
+              p = pathlib.Path(it["page"]); t = p.read_text(encoding="utf-8")
+              if it["src"] in t:
+                  print("deja present :", p); continue
+              s = t.find(it["start"]) if it["start"] else 0
+              if s < 0: raise SystemExit("repere de depart introuvable : %s" % p)
+              i = t.find(it["marker"], s)
+              if i < 0: raise SystemExit("repere introuvable : %s" % p)
+              if it["mode"] == "after": i += len(it["marker"])
+              t = t[:i] + "\n" + it["fig"] + "\n" + t[i:]
+              p.write_text(t, encoding="utf-8"); print("page :", p)
+          if cfg["css"]:
+              c = pathlib.Path(cfg["css"]); ct = c.read_text(encoding="utf-8")
+              if ".ill{" not in ct:
+                  c.write_text(ct.rstrip() + "\n.ill{margin:28px 0}.ill img{display:block;width:100%;height:auto;border-radius:14px}\n", encoding="utf-8"); print("css :", c)
+          PY
+      - name: Commit sur la branche (jamais sur main)
+        if: github.ref == 'refs/heads/images-ia'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "Rien a changer" && exit 0
+          git commit -m "Illustrations claires avec texte alternatif (guide Google IA)"
+          git push
