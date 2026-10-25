@@ -1,0 +1,49 @@
+name: Variantes de recherche (fosse septique) sur les fiches SPANC
+# 25/10/2026 : Search Console montre des recherches "assainissement <commune>", "prix assainissement individuel"...
+# mais le mot "fosse septique" n'apparait sur aucune fiche SPANC. Ajoute une phrase utile et vraie dans le chapo
+# (fosse septique / fosse toutes eaux / micro-station + lien vers les vidangeurs agrees) et la variante dans la description.
+# A lancer a la main : Actions > Run workflow. Idempotent.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  variantes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Modifier les fiches
+        run: |
+          python3 - <<'PY'
+          import glob, re
+          n = 0
+          for f in sorted(glob.glob('spanc/*.html')):
+              h = open(f, encoding='utf-8').read()
+              if 'au tout-à-l’égout relève de ce service' in h:
+                  continue
+              m = re.search(r'<p class="lead">(.*?)</p>', h, re.S)
+              if not m:
+                  print('pas de chapo', f); continue
+              lead = m.group(1)
+              if '(Vendée)' in lead:
+                  lien = '<a href="/vidangeurs-agrees-vendee">vidangeurs agréés en Vendée</a>'
+              else:
+                  lien = '<a href="/vidangeurs-agrees-loire-atlantique">vidangeurs agréés en Loire-Atlantique</a>'
+              ajout = ' Fosse septique, fosse toutes eaux ou micro-station : toute installation non raccordée au tout-à-l’égout relève de ce service. Pour vider une fosse septique, voir les ' + lien + '.'
+              h = h[:m.end(1)] + ajout + h[m.end(1):]
+              d = re.search(r'<meta name="description" content="([^"]*)"', h)
+              if d:
+                  old = d.group(1)
+                  new = old.replace(' : contact, tarifs des contrôles,', ' : contrôle de fosse septique, contact, tarifs,', 1)
+                  if len(new) > 160:
+                      new = new.replace(' fréquence,', '', 1)
+                  if new != old and len(new) <= 160:
+                      h = h.replace('content="' + old + '"', 'content="' + new + '"')
+              open(f, 'w', encoding='utf-8').write(h)
+              n += 1
+          print(n, 'fiches modifiees')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then echo 'Rien a changer'; else git commit -m 'Fiches SPANC : variante fosse septique (chapo + description) et lien vidangeurs' && git push; fi
