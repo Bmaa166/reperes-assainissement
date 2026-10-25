@@ -1,0 +1,24 @@
+name: Version du CSS (cache navigateur et Cloudflare)
+# 25/10/2026 : style.css est servi avec un cache "immutable" d'un an, cle = /style.css?v=XXXX.
+# Sans changement du ?v=, une modification de style.css n'arrive jamais chez les visiteurs.
+# Ce workflow recalcule l'empreinte de style.css a chaque modification et met a jour le ?v= de toutes les pages.
+on:
+  push:
+    branches: [main]
+    paths: ['style.css']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mettre a jour style.css?v= dans les pages
+        run: |
+          h=$(sha1sum style.css | cut -c1-8)
+          grep -rlE 'style\.css\?v=[A-Za-z0-9._-]+' --include='*.html' . | xargs -r sed -i -E "s#style\.css\?v=[A-Za-z0-9._-]+#style.css?v=$h#g"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then echo 'Rien a changer'; else git commit -m "Cache : style.css?v=$h sur toutes les pages" && git push; fi
