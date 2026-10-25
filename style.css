@@ -276,3 +276,6 @@ input[type=text],input[type=email],input[type=tel],textarea{font:inherit;padding
 .related .card h3{font-size:1.02rem}
 .related .card p{font-size:.92rem}
 .ill{max-width:760px;margin:28px auto}.ill img{display:block;width:100%;height:auto;border-radius:14px}
+
+/* 25/10/2026 : mobile/Safari — une URL longue dans une cellule de tableau faisait déborder la page (spanc/clisson-sevre-et-maine). Coupure autorisée sur mobile */
+@media (max-width:620px){.table-wrap td,.table-wrap th,.table-wrap caption{overflow-wrap:anywhere}}
