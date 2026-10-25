@@ -277,7 +277,7 @@
       if (!p.value.trim()) return bad(p, 'Indiquez votre prénom.');
       if (tel.value.replace(/[^0-9]/g, '').length < 9) return bad(tel, 'Indiquez un numéro de téléphone valide.');
       if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em.value.trim())) return bad(em, 'Indiquez un email valide.');
-      if (!c.checked) return bad(c, 'Cochez la case d’accord pour que je puisse vous proposer un professionnel.');
+      if (!c.checked) return bad(c, 'Cochez la case d’accord pour que nous puissions vous proposer un professionnel.');
       var d = {}; $$('input,select', form).forEach(function (x) { if (x.name) d[x.name] = x.type === 'checkbox' ? x.checked : x.value.trim(); });
       d.page = location.pathname; d.site = location.hostname; d.delai_saisie = Math.round((Date.now() - t0) / 1000);
       var btn = $('button[type=submit]', lf); btn.disabled = true; btn.textContent = 'Envoi…';
@@ -286,7 +286,7 @@
         .then(function (r) {
           if (!r || !r.ok) throw new Error('refus');
           form.style.display = 'none'; bar2.style.width = '100%';
-          msg.innerHTML = '<div class="result"><div class="big sm">Merci, votre demande est bien reçue.</div><ul><li>Je vous écris par email pour vous présenter le professionnel proposé, avec son nom.</li><li>Votre demande ne lui est transmise que si vous répondez oui.</li><li>Vous pouvez demander la suppression de vos données à tout moment.</li></ul></div>';
+          msg.innerHTML = '<div class="result"><div class="big sm">Merci, votre demande est bien reçue' + (r.ref ? ' (' + r.ref + ')' : '') + '.</div><ul><li>Je vous recontacte sous 24 h ouvrées pour faire le point sur votre projet.</li><li>Un email de confirmation vient de vous être envoyé.</li><li>Vous pouvez demander la suppression de vos données à tout moment.</li></ul></div>';
         })
         .catch(function () { btn.disabled = false; btn.textContent = 'Envoyer ma demande'; msg.innerHTML = '<div class="note warn">L’envoi n’a pas fonctionné. Réessayez dans un instant, ou écrivez-moi via la page <a href="/mentions-legales">mentions légales</a>.</div>'; });
     });
