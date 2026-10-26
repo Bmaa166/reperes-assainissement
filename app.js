@@ -1,4 +1,4 @@
-/* Guides Clair — outils interactifs (aucune donnée envoyée, tout est calculé dans le navigateur) */
+/* Guides Clair — outils interactifs (calculs dans le navigateur ; seul le formulaire de demande de devis envoie des données, avec consentement) */
 (function () {
   'use strict';
   var fmt = function (n) { return Math.round(n).toLocaleString('fr-FR') + ' €'; };
@@ -268,7 +268,8 @@
       var cp = $('#ld-cp', lf); if (!/^[0-9]{5}$/.test(cp.value.trim())) return bad(cp, 'Indiquez un code postal à 5 chiffres.');
       return true;
     };
-    $('[data-next]', lf).addEventListener('click', function () { if (ok1()) go(1); });
+    go(0);
+    $('[data-next]', lf).addEventListener('click', function () { if (ok1()) { go(1); var f2 = $('#ld-prenom', lf); if (f2) f2.focus(); } });
     $('[data-prev]', lf).addEventListener('click', function () { go(0); });
     form.addEventListener('submit', function (e) {
       e.preventDefault();
@@ -289,6 +290,15 @@
           msg.innerHTML = '<div class="result"><div class="big sm">Merci, votre demande est bien reçue' + (r.ref ? ' (' + r.ref + ')' : '') + '.</div><ul><li>Je vous recontacte sous 24 h ouvrées pour faire le point sur votre projet.</li><li>Un email de confirmation vient de vous être envoyé.</li><li>Vous pouvez demander la suppression de vos données à tout moment.</li></ul></div>';
         })
         .catch(function () { btn.disabled = false; btn.textContent = 'Envoyer ma demande'; msg.innerHTML = '<div class="note warn">L’envoi n’a pas fonctionné. Réessayez dans un instant, ou écrivez-moi via la page <a href="/mentions-legales">mentions légales</a>.</div>'; });
+    });
+  }
+  /* ---------- 7 bis. Préremplir la demande avec l'estimation du simulateur ---------- */
+  if (lf) {
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest ? e.target.closest('a[href="#demande"]') : null; if (!a) return;
+      var tool = a.closest('.tool'); if (!tool || tool === lf) return;
+      var big = $('.result .big', tool), pr = $('#ld-precisions', lf);
+      if (big && pr && !pr.value) { pr.value = ('Estimation du simulateur : ' + big.textContent.replace(/\s+/g, ' ').trim()).slice(0, 300); }
     });
   }
   /* ---------- 8. Barre de lecture ---------- */

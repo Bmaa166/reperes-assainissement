@@ -279,3 +279,13 @@ input[type=text],input[type=email],input[type=tel],textarea{font:inherit;padding
 
 /* 25/10/2026 : mobile/Safari — une URL longue dans une cellule de tableau faisait déborder la page (spanc/clisson-sevre-et-maine). Coupure autorisée sur mobile */
 @media (max-width:620px){.table-wrap td,.table-wrap th,.table-wrap caption{overflow-wrap:anywhere}}
+/* Demande de devis : réassurance, étapes, accroche (26/10/2026) */
+.lead-pros{list-style:none;padding:0;margin:10px 0 4px;display:flex;flex-wrap:wrap;gap:6px 16px}
+.lead-pros li{position:relative;padding-left:22px;font-weight:600;color:var(--ink-2);font-size:.95rem}
+.lead-pros li::before{content:"✓";position:absolute;left:0;top:0;color:var(--ok);font-weight:800}
+.step-l{font-size:.82rem;font-weight:700;letter-spacing:.02em;text-transform:uppercase;color:var(--brand);margin:0 0 10px}
+.lead-teaser{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;margin:18px 0 22px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--radius);background:var(--bg-2)}
+.lead-teaser .btn{margin:0}
+.lead-teaser span{font-size:.9rem;color:var(--muted)}
+#demande{scroll-margin-top:84px}
+@media (max-width:640px){.ill{overflow-x:auto;-webkit-overflow-scrolling:touch;margin-left:-4px;margin-right:-4px}.ill img{min-width:640px}.ill::after{content:"← Faites glisser pour voir tout le schéma →";display:block;text-align:center;font-size:.8rem;color:var(--muted);margin-top:6px;position:sticky;left:0;width:calc(100vw - 40px)}}
