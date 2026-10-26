@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img" aria-labelledby="t d">
+<title id="t">Quand et comment vidanger sa fosse ?</title>
+<desc id="d">La fosse se vidange dès que les boues dépassent 50 % du volume utile. Trois règles : uniquement un vidangeur agréé par le préfet (agrément de 10 ans) ; garder son volet du bordereau remis en 3 volets, qui peut être demandé lors du contrôle du SPANC ; compter environ 200 à 350 € par vidange, avec une TVA à 10 % dans un logement de plus de 2 ans. Pour une micro-station ou un filtre compact, le seuil est fixé par l’avis d’agrément, souvent autour de 30 %. La règle « au moins tous les 4 ans » ne s’applique plus.</desc>
+<defs><clipPath id="c"><rect width="720" height="380" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="380" fill="#f5fafb"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">Quand et comment vidanger sa fosse ?</text>
+<rect x="50" y="76" width="240" height="170" rx="22" fill="#fff" stroke="#0e7c86" stroke-width="4"/>
+<rect x="54" y="112" width="232" height="130" rx="4" fill="#e6f6f6"/>
+<path d="M54 178 H286 V224 Q286 242 268 242 H72 Q54 242 54 224 Z" fill="#d9c7a8"/>
+<line x1="44" y1="177" x2="296" y2="177" stroke="#f2a516" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="170" y="104" font-size="13" fill="#61747d" text-anchor="middle">Volume utile</text>
+<text x="170" y="150" font-size="14" font-weight="700" fill="#0e7c86" text-anchor="middle">Eaux</text>
+<rect x="214" y="160" width="66" height="24" rx="12" fill="#f2a516"/>
+<text x="247" y="177" font-size="13.5" font-weight="700" fill="#fff" text-anchor="middle">50 %</text>
+<text x="170" y="216" font-size="14" font-weight="700" fill="#13232b" text-anchor="middle">Boues</text>
+<text x="170" y="274" font-size="14.5" font-weight="700" fill="#13232b" text-anchor="middle">Vidange dès que les boues</text>
+<text x="170" y="294" font-size="14.5" font-weight="700" fill="#13232b" text-anchor="middle">dépassent 50 % du volume utile</text>
+<rect x="326" y="66" width="370" height="68" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="358" cy="100" r="17" fill="#fff" stroke="#0e7c86" stroke-width="3"/><text x="358" y="106.12" font-size="17" font-weight="700" fill="#0e7c86" text-anchor="middle">1</text>
+<text x="388" y="95" font-size="15" font-weight="700" fill="#13232b">Uniquement un vidangeur agréé</text>
+<text x="388" y="117" font-size="13.5" fill="#3d525c">par le préfet, agrément de 10 ans</text>
+<rect x="326" y="144" width="370" height="68" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="358" cy="178" r="17" fill="#fff" stroke="#0e7c86" stroke-width="3"/><text x="358" y="184.12" font-size="17" font-weight="700" fill="#0e7c86" text-anchor="middle">2</text>
+<text x="388" y="173" font-size="15" font-weight="700" fill="#13232b">Gardez votre bordereau</text>
+<text x="388" y="195" font-size="13.5" fill="#3d525c">remis en 3 volets : un pour vous</text>
+<rect x="326" y="222" width="370" height="68" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<circle cx="358" cy="256" r="17" fill="#fff" stroke="#0e7c86" stroke-width="3"/><text x="358" y="262.12" font-size="17" font-weight="700" fill="#0e7c86" text-anchor="middle">3</text>
+<text x="388" y="251" font-size="15" font-weight="700" fill="#13232b">Environ 200 à 350 € par vidange</text>
+<text x="388" y="273" font-size="13.5" fill="#3d525c">TVA à 10 % (logement de plus de 2 ans)</text>
+<rect x="24" y="312" width="672" height="56" rx="12" fill="#e6f6f6"/>
+<text x="44" y="335" font-size="13.5" fill="#13232b">Micro-station, filtre compact : seuil fixé par l’agrément, souvent autour de 30 %</text>
+<text x="44" y="356" font-size="13.5" font-weight="700" fill="#0e7c86">La règle « au moins tous les 4 ans » ne s’applique plus</text>
+</g>
+</svg>

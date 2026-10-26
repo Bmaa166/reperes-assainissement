@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" role="img" aria-labelledby="t d">
+<title id="t">Micro-station ou filtre compact : le comparatif</title>
+<desc id="d">Micro-station : 8 000 à 11 000 € posée, emprise très faible, électricité en continu, contrat d’entretien conseillé de 100 à 250 € par an et vidanges plus fréquentes, non éligible à l’éco-PTZ, déconseillée en résidence secondaire. Filtre compact : 8 000 à 12 000 € posé, environ 5 à 20 m² d’emprise, pas d’électricité sauf poste de relevage, média renouvelé tous les 10 à 15 ans (1 500 à 3 000 €), éligible à l’éco-PTZ jusqu’à 10 000 €, possible en résidence secondaire selon le modèle.</desc>
+<defs><clipPath id="c"><rect width="720" height="400" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="400" fill="#f5fafb"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">Micro-station ou filtre compact : le comparatif</text>
+<rect x="196" y="60" width="246" height="36" rx="10" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/>
+<text x="319" y="84" font-size="15" font-weight="700" fill="#0e7c86" text-anchor="middle">Micro-station</text>
+<rect x="450" y="60" width="246" height="36" rx="10" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<text x="573" y="84" font-size="15" font-weight="700" fill="#b5600b" text-anchor="middle">Filtre compact</text>
+<text x="30" y="129" font-size="13.5" font-weight="700" fill="#13232b">Prix posé</text>
+<rect x="196" y="104" width="246" height="40" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="319" y="129" font-size="13.5" font-weight="700" fill="#13232b" text-anchor="middle">8 000 à 11 000 €</text>
+<rect x="450" y="104" width="246" height="40" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="573" y="129" font-size="13.5" font-weight="700" fill="#13232b" text-anchor="middle">8 000 à 12 000 €</text>
+<text x="30" y="175" font-size="13.5" font-weight="700" fill="#13232b">Emprise</text>
+<rect x="196" y="150" width="246" height="40" rx="10" fill="#e8f6ee" stroke="#dde8ea" stroke-width="2"/>
+<text x="319" y="175" font-size="13.5" fill="#3d525c" text-anchor="middle">Très faible</text>
+<rect x="450" y="150" width="246" height="40" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="573" y="175" font-size="13.5" fill="#3d525c" text-anchor="middle">Environ 5 à 20 m²</text>
+<text x="30" y="221" font-size="13.5" font-weight="700" fill="#13232b">Électricité</text>
+<rect x="196" y="196" width="246" height="40" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="319" y="221" font-size="13.5" fill="#3d525c" text-anchor="middle">Oui, en continu</text>
+<rect x="450" y="196" width="246" height="40" rx="10" fill="#e8f6ee" stroke="#dde8ea" stroke-width="2"/>
+<text x="573" y="221" font-size="13.5" fill="#3d525c" text-anchor="middle">Non (sauf poste de relevage)</text>
+<text x="30" y="273" font-size="13.5" font-weight="700" fill="#13232b">Entretien</text>
+<rect x="196" y="242" width="246" height="52" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="319" y="264" font-size="13" fill="#3d525c" text-anchor="middle">Contrat conseillé : 100 à 250 €/an</text>
+<text x="319" y="282" font-size="13" fill="#3d525c" text-anchor="middle">vidanges plus fréquentes</text>
+<rect x="450" y="242" width="246" height="52" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="573" y="264" font-size="13" fill="#3d525c" text-anchor="middle">Média renouvelé tous les 10 à 15 ans</text>
+<text x="573" y="282" font-size="13" fill="#3d525c" text-anchor="middle">(1 500 à 3 000 €)</text>
+<text x="30" y="325" font-size="13.5" font-weight="700" fill="#13232b">Éco-PTZ</text>
+<rect x="196" y="300" width="246" height="40" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="319" y="325" font-size="13.5" fill="#3d525c" text-anchor="middle">Non éligible</text>
+<rect x="450" y="300" width="246" height="40" rx="10" fill="#e8f6ee" stroke="#dde8ea" stroke-width="2"/>
+<text x="573" y="325" font-size="13.5" fill="#3d525c" text-anchor="middle">Éligible (jusqu’à 10 000 €)</text>
+<text x="30" y="371" font-size="13.5" font-weight="700" fill="#13232b">Résidence secondaire</text>
+<rect x="196" y="346" width="246" height="40" rx="10" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="319" y="371" font-size="13.5" fill="#3d525c" text-anchor="middle">Déconseillée</text>
+<rect x="450" y="346" width="246" height="40" rx="10" fill="#e8f6ee" stroke="#dde8ea" stroke-width="2"/>
+<text x="573" y="371" font-size="13.5" fill="#3d525c" text-anchor="middle">Possible selon le modèle</text>
+</g>
+</svg>

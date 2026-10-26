@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" role="img" aria-labelledby="t d">
+<title id="t">Fosse non conforme : le compte à rebours d’un an</title>
+<desc id="d">Calendrier indicatif après la signature de l’acte : mois 1 à 2, étude de sol et de filière ; mois 2 à 4, dépôt du projet et avis favorable du SPANC ; mois 3 à 5, devis comparés ; mois 5 à 9, travaux avec la visite du SPANC avant remblaiement ; mois 9 à 12, marge de sécurité. Budget le plus courant : 8 000 à 12 000 €. Le notaire envoie au SPANC une attestation de vente dans le mois.</desc>
+<defs><clipPath id="c"><rect width="720" height="400" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="400" fill="#f5fafb"/>
+<text x="30" y="42" font-size="21" font-weight="700" fill="#13232b">Fosse non conforme : le compte à rebours d’un an</text>
+<text x="30" y="66" font-size="13" fill="#61747d">Calendrier indicatif après la signature de l’acte</text>
+<rect x="236.0" y="78" width="37.7" height="226" fill="#eaf3f4"/>
+<rect x="311.3" y="78" width="37.7" height="226" fill="#eaf3f4"/>
+<rect x="386.7" y="78" width="37.7" height="226" fill="#eaf3f4"/>
+<rect x="462.0" y="78" width="37.7" height="226" fill="#eaf3f4"/>
+<rect x="537.3" y="78" width="37.7" height="226" fill="#eaf3f4"/>
+<rect x="612.7" y="78" width="37.7" height="226" fill="#eaf3f4"/>
+<text x="222" y="108" font-size="13.5" fill="#13232b" text-anchor="end">Étude de sol et de filière</text>
+<rect x="238" y="88" width="71.3" height="30" rx="15" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/>
+<text x="317.3" y="108" font-size="13" font-weight="700" fill="#0e7c86">Mois 1 à 2</text>
+<text x="222" y="150" font-size="13.5" fill="#13232b" text-anchor="end">Avis du SPANC (conception)</text>
+<rect x="275.7" y="130" width="109" height="30" rx="15" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/>
+<text x="330.2" y="150" font-size="13" font-weight="700" fill="#0e7c86" text-anchor="middle">Mois 2 à 4</text>
+<text x="222" y="192" font-size="13.5" fill="#13232b" text-anchor="end">Devis comparés</text>
+<rect x="313.3" y="172" width="109" height="30" rx="15" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/>
+<text x="367.8" y="192" font-size="13" font-weight="700" fill="#0e7c86" text-anchor="middle">Mois 3 à 5</text>
+<text x="222" y="234" font-size="13.5" fill="#13232b" text-anchor="end">Travaux et visite du SPANC</text>
+<rect x="388.7" y="214" width="184.3" height="30" rx="15" fill="#e6f6f6" stroke="#0e7c86" stroke-width="2"/>
+<text x="480.8" y="234" font-size="13" font-weight="700" fill="#0e7c86" text-anchor="middle">Mois 5 à 9</text>
+<text x="222" y="276" font-size="13.5" fill="#13232b" text-anchor="end">Marge de sécurité</text>
+<rect x="539.3" y="256" width="146.7" height="30" rx="15" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<text x="612.7" y="276" font-size="13" font-weight="700" fill="#b5600b" text-anchor="middle">Mois 9 à 12</text>
+<line x1="236" y1="304" x2="688" y2="304" stroke="#0e7c86" stroke-width="3"/>
+<text x="236" y="324" font-size="13" font-weight="700" fill="#3d525c">Signature</text>
+<text x="688" y="324" font-size="13" font-weight="700" fill="#3d525c" text-anchor="end">1 an</text>
+<rect x="24" y="334" width="330" height="54" rx="12" fill="#e6f6f6"/>
+<text x="44" y="357" font-size="15" font-weight="700" fill="#0e7c86">8 000 à 12 000 €</text>
+<text x="44" y="377" font-size="13" fill="#3d525c">le budget le plus courant</text>
+<rect x="366" y="334" width="330" height="54" rx="12" fill="#e6f6f6"/>
+<text x="386" y="357" font-size="14" font-weight="700" fill="#0e7c86">Le notaire prévient le SPANC</text>
+<text x="386" y="377" font-size="13" fill="#3d525c">attestation de vente dans le mois</text>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img" aria-labelledby="t d">
+<title id="t">Vendre ou acheter une maison : les délais de l’assainissement</title>
+<desc id="d">Le vendeur fournit un rapport du SPANC de moins de 3 ans à la signature, compté depuis la date de la visite. Le notaire envoie au SPANC une attestation de vente dans le mois. Si l’installation n’est pas conforme, l’acheteur doit faire les travaux dans un délai d’un an après l’acte de vente. Sans travaux, pénalité au moins égale à la redevance, majorable jusqu’à 400 %. Rapport absent ou trop ancien : contrôle à la charge du vendeur, environ 100 à 310 €.</desc>
+<defs><clipPath id="c"><rect width="720" height="380" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="380" fill="#f5fafb"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">Vendre ou acheter : les délais à retenir</text>
+<line x1="70" y1="118" x2="650" y2="118" stroke="#cfe5e7" stroke-width="6" stroke-linecap="round"/>
+<circle cx="84" cy="118" r="8" fill="#fff" stroke="#14a3a8" stroke-width="4"/>
+<text x="84" y="96" font-size="13.5" font-weight="700" fill="#61747d" text-anchor="middle">Visite du SPANC</text>
+<circle cx="330" cy="118" r="11" fill="#fff" stroke="#13232b" stroke-width="4"/>
+<text x="330" y="96" font-size="13.5" font-weight="700" fill="#13232b" text-anchor="middle">Signature de l’acte</text>
+<circle cx="470" cy="118" r="8" fill="#fff" stroke="#0e7c86" stroke-width="4"/>
+<text x="470" y="96" font-size="13.5" font-weight="700" fill="#0e7c86" text-anchor="middle">1 mois</text>
+<circle cx="636" cy="118" r="8" fill="#fff" stroke="#0e7c86" stroke-width="4"/>
+<text x="636" y="96" font-size="13.5" font-weight="700" fill="#0e7c86" text-anchor="middle">1 an</text>
+<path d="M92 140 V148 H322 V140" fill="none" stroke="#f2a516" stroke-width="2.5"/>
+<text x="207" y="166" font-size="13.5" font-weight="700" fill="#b5600b" text-anchor="middle">moins de 3 ans</text>
+<path d="M338 140 V148 H628 V140" fill="none" stroke="#0e7c86" stroke-width="2.5"/>
+<text x="483" y="166" font-size="13.5" font-weight="700" fill="#0e7c86" text-anchor="middle">travaux de l’acheteur si non conforme</text>
+<rect x="24" y="184" width="212" height="104" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="130" y="210" font-size="15" font-weight="700" fill="#13232b" text-anchor="middle">Vendeur</text>
+<text x="130" y="234" font-size="13" fill="#3d525c" text-anchor="middle">Fournit le rapport du SPANC</text>
+<text x="130" y="252" font-size="13" fill="#3d525c" text-anchor="middle">de moins de 3 ans, compté</text>
+<text x="130" y="270" font-size="13" fill="#3d525c" text-anchor="middle">depuis la date de la visite</text>
+<rect x="254" y="184" width="212" height="104" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="360" y="210" font-size="15" font-weight="700" fill="#13232b" text-anchor="middle">Notaire</text>
+<text x="360" y="234" font-size="13" fill="#3d525c" text-anchor="middle">Envoie au SPANC une</text>
+<text x="360" y="252" font-size="13" fill="#3d525c" text-anchor="middle">attestation de vente</text>
+<text x="360" y="270" font-size="13" fill="#3d525c" text-anchor="middle">dans le mois</text>
+<rect x="484" y="184" width="212" height="104" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="590" y="210" font-size="15" font-weight="700" fill="#13232b" text-anchor="middle">Acheteur</text>
+<text x="590" y="234" font-size="13" fill="#3d525c" text-anchor="middle">Si non conforme : travaux</text>
+<text x="590" y="252" font-size="13" fill="#3d525c" text-anchor="middle">dans un délai d’un an</text>
+<text x="590" y="270" font-size="13" fill="#3d525c" text-anchor="middle">après l’acte de vente</text>
+<rect x="24" y="302" width="672" height="62" rx="12" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<text x="44" y="327" font-size="13.5" font-weight="700" fill="#b5600b">Sans travaux : pénalité au moins égale à la redevance, majorable jusqu’à 400 %</text>
+<text x="44" y="349" font-size="13" fill="#13232b">Rapport absent ou trop ancien : contrôle à la charge du vendeur, environ 100 à 310 €</text>
+</g>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" role="img" aria-labelledby="t d">
+<title id="t">Odeurs, refoulement, débordement de fosse : que faire ?</title>
+<desc id="d">Odeurs dans la maison ou le jardin : ventilation insuffisante ou fosse saturée, vérifier la date de la dernière vidange et la ventilation. Eaux qui remontent par les toilettes ou la douche : fosse pleine ou préfiltre colmaté, faire intervenir un vidangeur agréé (environ 200 à 350 €). Eau qui ressort au-dessus de l’épandage : drains bouchés ou épandage inadapté, faire diagnostiquer le traitement. Ne descendez jamais dans une fosse : l’hydrogène sulfuré (H2S) peut être mortel à forte dose.</desc>
+<defs><clipPath id="c"><rect width="720" height="400" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="400" fill="#f5fafb"/>
+<text x="30" y="42" font-size="21" font-weight="700" fill="#13232b">Odeurs, refoulement, débordement : que faire ?</text>
+<text x="38" y="80" font-size="13.5" font-weight="700" fill="#61747d">Ce que vous constatez</text>
+<text x="288" y="80" font-size="13.5" font-weight="700" fill="#61747d">Cause fréquente</text>
+<text x="508" y="80" font-size="13.5" font-weight="700" fill="#61747d">Le bon réflexe</text>
+<rect x="24" y="92" width="236" height="66" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="38" y="120" font-size="13.5" font-weight="700" fill="#13232b">Odeurs dans la maison</text>
+<text x="38" y="140" font-size="13.5" fill="#13232b">ou le jardin</text>
+<rect x="274" y="92" width="206" height="66" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="288" y="120" font-size="13.5" fill="#3d525c">Ventilation insuffisante,</text>
+<text x="288" y="140" font-size="13.5" fill="#3d525c">fosse saturée</text>
+<rect x="494" y="92" width="202" height="66" rx="12" fill="#e6f6f6"/>
+<text x="508" y="120" font-size="13.5" font-weight="700" fill="#0e7c86">Vérifier la dernière vidange</text>
+<text x="508" y="140" font-size="13.5" font-weight="700" fill="#0e7c86">et la ventilation</text>
+<rect x="24" y="168" width="236" height="66" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="38" y="196" font-size="13.5" font-weight="700" fill="#13232b">Eaux qui remontent par</text>
+<text x="38" y="216" font-size="13.5" fill="#13232b">les toilettes ou la douche</text>
+<rect x="274" y="168" width="206" height="66" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="288" y="196" font-size="13.5" fill="#3d525c">Fosse pleine,</text>
+<text x="288" y="216" font-size="13.5" fill="#3d525c">préfiltre colmaté</text>
+<rect x="494" y="168" width="202" height="66" rx="12" fill="#e6f6f6"/>
+<text x="508" y="196" font-size="13.5" font-weight="700" fill="#0e7c86">Vidangeur agréé :</text>
+<text x="508" y="216" font-size="13.5" font-weight="700" fill="#0e7c86">environ 200 à 350 €</text>
+<rect x="24" y="244" width="236" height="66" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="38" y="272" font-size="13.5" font-weight="700" fill="#13232b">Eau qui ressort au-dessus</text>
+<text x="38" y="292" font-size="13.5" fill="#13232b">de l’épandage</text>
+<rect x="274" y="244" width="206" height="66" rx="12" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="288" y="272" font-size="13.5" fill="#3d525c">Drains bouchés,</text>
+<text x="288" y="292" font-size="13.5" fill="#3d525c">épandage inadapté</text>
+<rect x="494" y="244" width="202" height="66" rx="12" fill="#e6f6f6"/>
+<text x="508" y="272" font-size="13.5" font-weight="700" fill="#0e7c86">Faire diagnostiquer</text>
+<text x="508" y="292" font-size="13.5" font-weight="700" fill="#0e7c86">le traitement</text>
+<rect x="24" y="326" width="672" height="60" rx="12" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<path d="M62 338 L82 372 H42 Z" fill="#f2a516" stroke="#f2a516" stroke-width="4" stroke-linejoin="round"/>
+<text x="62" y="368" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">!</text>
+<text x="100" y="351" font-size="14.5" font-weight="700" fill="#b5600b">Ne descendez jamais dans une fosse</text>
+<text x="100" y="372" font-size="13" fill="#13232b">L’hydrogène sulfuré (H2S) qui donne les odeurs peut être mortel à forte dose</text>
+</g>
+</svg>

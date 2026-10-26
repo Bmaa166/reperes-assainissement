@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img" aria-labelledby="t d">
+<title id="t">L’étude de sol et de filière en chiffres</title>
+<desc id="d">Une étude de sol et de filière coûte 350 à 800 €, souvent autour de 600 €, soit au plus 10 % du coût des travaux selon le ministère. Une perméabilité de 15 à 500 mm/h permet un épandage dans le sol en place. L’étude vérifie la perméabilité par des tests de percolation, la présence de la nappe, la place et la pente du terrain, et dimensionne la filière. Distances à respecter : 5 m des fondations, 3 m des limites, 35 m d’un captage d’eau potable.</desc>
+<defs><clipPath id="c"><rect width="720" height="380" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
+<rect width="720" height="380" fill="#f5fafb"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#13232b">L’étude de sol et de filière en chiffres</text>
+<rect x="24" y="58" width="212" height="104" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="130" y="90" font-size="22" font-weight="700" fill="#0e7c86" text-anchor="middle">350 à 800 €</text>
+<text x="130" y="113" font-size="13" fill="#3d525c" text-anchor="middle">le prix d’une étude,</text>
+<text x="130" y="131" font-size="13" fill="#3d525c" text-anchor="middle">souvent autour de 600 €</text>
+<rect x="254" y="58" width="212" height="104" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="360" y="90" font-size="22" font-weight="700" fill="#0e7c86" text-anchor="middle">≤ 10 %</text>
+<text x="360" y="113" font-size="13" fill="#3d525c" text-anchor="middle">du coût des travaux,</text>
+<text x="360" y="131" font-size="13" fill="#3d525c" text-anchor="middle">selon le ministère</text>
+<rect x="484" y="58" width="212" height="104" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="590" y="90" font-size="22" font-weight="700" fill="#0e7c86" text-anchor="middle">15 à 500 mm/h</text>
+<text x="590" y="113" font-size="13" fill="#3d525c" text-anchor="middle">perméabilité qui permet</text>
+<text x="590" y="131" font-size="13" fill="#3d525c" text-anchor="middle">un épandage dans le sol</text>
+<rect x="24" y="176" width="330" height="190" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="44" y="204" font-size="15" font-weight="700" fill="#13232b">Ce qu’elle vérifie</text>
+<circle cx="54" cy="231" r="10" fill="#e6f6f6"/><path d="M49 231 l4 4 l7 -8" fill="none" stroke="#0e7c86" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="74" y="236" font-size="13.5" fill="#3d525c">Perméabilité (tests de percolation)</text>
+<circle cx="54" cy="265" r="10" fill="#e6f6f6"/><path d="M49 265 l4 4 l7 -8" fill="none" stroke="#0e7c86" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="74" y="270" font-size="13.5" fill="#3d525c">Présence de la nappe</text>
+<circle cx="54" cy="299" r="10" fill="#e6f6f6"/><path d="M49 299 l4 4 l7 -8" fill="none" stroke="#0e7c86" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="74" y="304" font-size="13.5" fill="#3d525c">Place et pente du terrain</text>
+<circle cx="54" cy="333" r="10" fill="#e6f6f6"/><path d="M49 333 l4 4 l7 -8" fill="none" stroke="#0e7c86" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="74" y="338" font-size="13.5" fill="#3d525c">Dimensionnement de la filière</text>
+<rect x="366" y="176" width="330" height="190" rx="14" fill="#fff" stroke="#dde8ea" stroke-width="2"/>
+<text x="386" y="204" font-size="15" font-weight="700" fill="#13232b">Distances à respecter</text>
+<rect x="386" y="216" width="64" height="30" rx="15" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<text x="418" y="237" font-size="15" font-weight="700" fill="#b5600b" text-anchor="middle">5 m</text>
+<text x="464" y="237" font-size="13.5" fill="#3d525c">des fondations</text>
+<rect x="386" y="256" width="64" height="30" rx="15" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<text x="418" y="277" font-size="15" font-weight="700" fill="#b5600b" text-anchor="middle">3 m</text>
+<text x="464" y="277" font-size="13.5" fill="#3d525c">des limites</text>
+<rect x="386" y="296" width="64" height="30" rx="15" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
+<text x="418" y="317" font-size="15" font-weight="700" fill="#b5600b" text-anchor="middle">35 m</text>
+<text x="464" y="317" font-size="13.5" fill="#3d525c">d’un captage d’eau potable</text>
+</g>
+</svg>
