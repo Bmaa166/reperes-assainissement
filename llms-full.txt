@@ -138,8 +138,8 @@ Fosse + tertre d’infiltration Sur devis Plus cher qu’un épandage, aucun pri
 Les frais annexes
 Fourchettes relevées dans les tarifs publiés par des SPANC de Loire-Atlantique et de Vendée. Poste Montant Quand
 Étude de sol et de filière 350 à 800 € (souvent autour de 600 €) Avant le projet ; exigée par de nombreux SPANC
-Redevance du SPANC : contrôle de conception 60 à 175 € Avant les travaux
-Redevance du SPANC : contrôle de bonne exécution 90 à 190 € Pendant les travaux, avant remblaiement
+Redevance du SPANC : contrôle de conception 40 à 175 € Avant les travaux
+Redevance du SPANC : contrôle de bonne exécution 78 à 190 € Pendant les travaux, avant remblaiement
 Contrôle du SPANC pour une vente environ 100 à 310 € Si le rapport a plus de 3 ans
 Dépose de l’ancien système 2 000 à 5 000 € Selon la complexité (repère d’une seule source)
 Ce que coûte l’installation sur la durée
@@ -352,7 +352,7 @@ Q : Peut-on refuser la visite du SPANC ?
 R : Le refus expose à la même pénalité que l’absence de travaux : une somme au moins égale à la redevance, majorable jusqu’à 400 %.
 
 Q : Combien coûte un contrôle du SPANC ?
-R : Cela dépend du territoire. Dans les SPANC de Loire-Atlantique et de Vendée que j’ai relevés : 60 à 175 € pour la conception, 90 à 190 € pour la bonne exécution, environ 100 à 310 € pour une vente, et pour le contrôle périodique soit un forfait (environ 100 à 190 €), soit une redevance annuelle (environ 30 à 50 € par an).
+R : Cela dépend du territoire. Dans les SPANC de Loire-Atlantique et de Vendée que j’ai relevés : 40 à 175 € pour la conception, 78 à 190 € pour la bonne exécution, environ 100 à 310 € pour une vente, et pour le contrôle périodique soit un forfait (environ 75 à 190 €), soit une redevance annuelle (environ 15 à 55 € par an).
 
 Q : Y a-t-il des dérogations en zone rurale ?
 R : Non : la réglementation ne prévoit aucune dérogation aux travaux, même en zone rurale ou de montagne, selon une réponse ministérielle publiée en janvier 2023.
@@ -445,10 +445,10 @@ URL : https://reperes-assainissement.fr/etapes-travaux
 
 Créer ou refaire une installation d’assainissement suit toujours le même ordre. Le sauter, c’est risquer un avis défavorable du SPANC… une fois la tranchée creusée.
 L’étude de sol et de filière Un bureau d’études analyse le terrain (perméabilité, nappe, pente, place) et recommande une filière dimensionnée. Comptez 350 à 800 €. Elle est exigée par de nombreux SPANC.
-Le dossier de conception au SPANC Vous déposez le projet au SPANC, qui rend un avis. Un avis favorable est obligatoire avant tout travaux. Redevance : environ 60 à 175 €.
+Le dossier de conception au SPANC Vous déposez le projet au SPANC, qui rend un avis. Un avis favorable est obligatoire avant tout travaux. Redevance : environ 40 à 175 €.
 Les devis Faites chiffrer le projet validé par plusieurs entreprises, sur la même base. Vérifiez l’agrément du dispositif et la TVA à 10 % si le logement a plus de 2 ans.
 Les travaux Prévenez le SPANC à l’avance pour sa visite (au moins une semaine à Nantes Métropole, 48 h dans le Pays de Saint-Gilles, par exemple).
-Le contrôle de bonne exécution Le SPANC contrôle l’installation avant remblaiement . Redevance : environ 90 à 190 €.
+Le contrôle de bonne exécution Le SPANC contrôle l’installation avant remblaiement . Redevance : environ 78 à 190 €.
 L’entretien et les contrôles périodiques Vidanges au seuil, puis contrôle du SPANC au plus tous les 10 ans.
 Vous construisez ? Pour un permis de construire, l’attestation de conformité du projet d’assainissement délivrée par le SPANC doit être jointe à la demande.
 Les chartes qualité de Loire-Atlantique et de Vendée
@@ -1081,7 +1081,7 @@ Clisson Sèvre et Maine Agglo — Tarifs des services ANC (page officielle)
 ## SPANC Erdre et Gesvres : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/erdre-et-gesvres
 
-Accueil › Loire-Atlantique › Erdre et Gesvres Le SPANC de Erdre et Gesvres
+Accueil › Loire-Atlantique › Erdre et Gesvres Le SPANC d’Erdre et Gesvres
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Erdre et Gesvres (Loire-Atlantique).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
@@ -1453,7 +1453,7 @@ Grand Lieu Communauté — Plaquette SPANC (2016)
 ## SPANC Estuaire et Sillon : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/estuaire-et-sillon
 
-Accueil › Loire-Atlantique › Estuaire et Sillon Le SPANC de Estuaire et Sillon
+Accueil › Loire-Atlantique › Estuaire et Sillon Le SPANC d’Estuaire et Sillon
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Estuaire et Sillon (Loire-Atlantique).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
@@ -1518,7 +1518,7 @@ Aymen B. — J’écris ce guide à partir des textes officiels (Code de la sant
 Sources consultées
 CC Estuaire et Sillon — Tarifs et informations des installations d'assainissement des particuliers (page officielle)
 CC Estuaire et Sillon — Règlement de service assainissement non collectif (2023)
-CC Estuaire et Sillon — Rapport d'activité ANC 2024, annexe RPQS (non lisible)
+CC Estuaire et Sillon — Rapport d'activité ANC 2024, annexe RPQS (PDF scanné)
 
 ## SPANC Pontchâteau – Saint-Gildas : tarifs, contact
 URL : https://reperes-assainissement.fr/spanc/pontchateau-saint-gildas
@@ -1638,7 +1638,7 @@ Pour comparer avec les autres territoires, voir les SPANC de Loire-Atlantique et
 Fréquence des contrôles
 Tous les 7 ans (règlement art. 12) ; contrôle administratif annuel pour les installations de plus de 20 EH. La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
 Aides aux travaux
-Aide à la réhabilitation de 10 % à 75 % du montant subventionnable (de 3 000 € à 11 000 € TTC) : 75 % pour les ménages très modestes, 50 % pour les ménages modestes, 25 % pour les ménages intermédiaires et les bailleurs, 10 % au-delà. Filières éligibles : filtre à sable, tranchées d'infiltration, filtre planté (microstations exclues). La demande se fait avant les travaux (règlement du 19/12/2020, plafonds au 01/01/2025).
+Aide à la réhabilitation de 10 % à 75 % du montant subventionnable (de 3 000 € à 11 000 € TTC) : 75 % pour les ménages très modestes, 50 % pour les ménages modestes, 25 % pour les ménages intermédiaires et les bailleurs, 10 % au-delà. Filières éligibles : filtre à sable, tranchées d'infiltration, filtre planté (micro-stations exclues). La demande se fait avant les travaux (règlement du 19/12/2020, plafonds au 01/01/2025).
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
 Pénalités en cas de non-conformité
 Pénalité de 400 % du coût du contrôle de bon fonctionnement (règlement art. 23.2, 24.2, 26.2, 27 et 31) ; retard de paiement majoré de 25 % (art. 32). Le PV du conseil du 27/11/2025 indique que les pénalités forfaitaires restent identiques, sans montant chiffré.
@@ -1823,7 +1823,7 @@ Pays de Blain Communauté — Règlement de service du SPANC (2024)
 ## SPANC CC de Nozay : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/nozay
 
-Accueil › Loire-Atlantique › CC de Nozay Le SPANC de CC de Nozay
+Accueil › Loire-Atlantique › CC de Nozay Le SPANC de la CC de Nozay
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur CC de Nozay (Loire-Atlantique).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
@@ -1903,7 +1903,7 @@ Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainis
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 220 € HT (< 20 EH) / 400 € HT (> 20 EH) (HT, 2023).
-Contrôle périodique : 8 ans maximum entre deux contrôles pour les communes de Loire-Atlantique et du Morbihan (4 ans pour les microstations) ; la page ANC indique « tous les 4 à 8 ans en fonction du type de filière ».
+Contrôle périodique : 8 ans maximum entre deux contrôles pour les communes de Loire-Atlantique et du Morbihan (4 ans pour les micro-stations) ; la page ANC indique « tous les 4 à 8 ans en fonction du type de filière ».
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
 Sommaire
 Contacter le SPANC
@@ -1934,7 +1934,7 @@ Contre-visite —
 Tarifs de la régie 2023 relevés dans le RPQS ANC 2022 ; tarifs 2025/2026 non trouvés.
 Pour comparer avec les autres territoires, voir les SPANC de Loire-Atlantique et le déroulé d’un contrôle .
 Fréquence des contrôles
-8 ans maximum entre deux contrôles pour les communes de Loire-Atlantique et du Morbihan (4 ans pour les microstations) ; la page ANC indique « tous les 4 à 8 ans en fonction du type de filière ». La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
+8 ans maximum entre deux contrôles pour les communes de Loire-Atlantique et du Morbihan (4 ans pour les micro-stations) ; la page ANC indique « tous les 4 à 8 ans en fonction du type de filière ». La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
 Aides aux travaux
 Aide de 20 % du montant des travaux pour les propriétaires occupants (résidence principale) aux revenus très modestes, pour une installation contrôlée non conforme (règlement a_2025_101). Plafond non trouvé.
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
@@ -1951,7 +1951,7 @@ Pour les communes de Loire-Atlantique gérées en régie, le contrôle en cas de
 Qui contacter pour le SPANC ?
 Le service Eau/Assainissement de Redon Agglomération répond au 02 99 70 34 34 du lundi au vendredi de 9h à 12h, et par email à eau.assainissement@redon-agglomeration.bzh. Il est situé 3 rue Charles Sillard, 35600 Redon.
 Tous les combien l'installation est-elle contrôlée ?
-Pour les communes de Loire-Atlantique et du Morbihan, la périodicité entre deux contrôles est de 8 ans maximum, ramenée à 4 ans pour les microstations.
+Pour les communes de Loire-Atlantique et du Morbihan, la périodicité entre deux contrôles est de 8 ans maximum, ramenée à 4 ans pour les micro-stations.
 Limites de cette fiche. Tarifs postérieurs à 2023 non trouvés. Tarif de la contre-visite non trouvé. Plafond de l'aide de 20 % non trouvé. Montant des pénalités non trouvé. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Loire-Atlantique
@@ -2003,7 +2003,7 @@ Tarifs des contrôles
 Tarifs non publiés en ligne : le règlement renvoie aux délibérations du conseil communautaire, sans montants ; aucun PDF tarifaire public identifié. Demandez la grille en vigueur au service (coordonnées ci-dessus) ; les montants sont fixés chaque année par délibération.
 Repères : voir les tarifs relevés en Vendée .
 Fréquence des contrôles
-Tous les 8 ans (installations conformes ou défauts d'entretien/usure) ; tous les 4 ans (absence d'installation ou non-conformité avec danger avéré). Le contrôle de vente doit dater de moins de 3 ans.. La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
+Tous les 8 ans (installations conformes ou défauts d'entretien/usure) ; tous les 4 ans (absence d'installation ou non-conformité avec danger avéré). Le contrôle de vente doit dater de moins de 3 ans. La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
 Aides aux travaux
 Aucune aide locale identifiée. Seul l'éco-prêt à taux zéro (éco-PTZ) est mentionné par l'Agglomération pour les travaux d'assainissement.
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
@@ -2045,7 +2045,7 @@ La Roche-sur-Yon Agglomération — Rapport annuel sur le prix et la qualité du
 ## SPANC Les Sables d'Olonne Agglo : tarifs, contact
 URL : https://reperes-assainissement.fr/spanc/les-sables-d-olonne-agglomeration
 
-Accueil › Vendée › Les Sables d'Olonne Agglomération Le SPANC de Les Sables d'Olonne Agglomération
+Accueil › Vendée › Les Sables d'Olonne Agglomération Le SPANC des Sables d'Olonne Agglomération
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Les Sables d'Olonne Agglomération (Vendée).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
@@ -2063,7 +2063,7 @@ Les Sables d'Olonne Agglomération fait partie des intercommunalités de Vendée
 Contacter le SPANC
 Le SPANC est le service public qui contrôle les installations d’assainissement individuel. Sur Les Sables d'Olonne Agglomération, c’est lui qui valide un projet, vérifie les travaux, contrôle les installations existantes et délivre le rapport exigé pour une vente.
 Coordonnées publiées par la collectivité. Vérifiez les horaires avant de vous déplacer.
-Service SPANC (service Cycle de l'eau – Assainissement non collectif) de Les Sables d'Olonne Agglomération
+Service SPANC (service Cycle de l'eau – Assainissement non collectif) des Sables d'Olonne Agglomération
 Mode de gestion Agglomération, pouvant recourir à des prestataires publics ou privés (règlement, art. 1) ; nom du prestataire non trouvé
 Téléphone 02 51 23 16 00
 E-mail assainissement@lsoagglo.fr
@@ -2086,7 +2086,7 @@ Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % 
 Pénalités en cas de non-conformité
 100 € en cas de manquement à la réglementation, portée à 300 € si les travaux ne sont pas réalisés dans les délais ou en cas de refus d'accès. Le règlement de 2017 prévoit par ailleurs la pénalité de l'article L1331-8 majorée de 100 % et une majoration de 25 % en cas de retard de paiement.
 Communes concernées
-7 communes dépendent de ce SPANC : Liste issue du règlement du 03/03/2017, antérieur à la fusion des communes ; liste actuelle non vérifiée sur une source officielle. Les Sables d'Olonne, Olonne-sur-Mer, Le Château-d'Olonne, Sainte-Foy, L'Île-d'Olonne, Vairé, Saint-Mathurin.
+5 communes dépendent de ce SPANC : Les Sables-d'Olonne (commune nouvelle née en 2019 de la fusion des Sables-d'Olonne, d'Olonne-sur-Mer et du Château-d'Olonne), Sainte-Foy, L'Île-d'Olonne, Vairé et Saint-Mathurin (source : BANATIC, ministère de l'Intérieur).
 Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 Le contrôle de vente est facturé 140 €. Le diagnostic ou contrôle de bon fonctionnement coûte 100 €, la conception 40 € et l'exécution 100 € (année et mention HT/TTC non précisées sur la page).
@@ -2187,11 +2187,11 @@ Terres de Montaigu — Procès-verbal du conseil d'agglomération de décembre 2
 Terres de Montaigu — Procès-verbal du bureau d'agglomération du 28/11/2024 (PDF)
 Terres de Montaigu — FAQ assainissement
 
-## SPANC Challans Gois Communauté : tarifs, contact, aides
+## SPANC Challans-Gois Communauté : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/challans-gois
 
-Accueil › Vendée › Challans Gois Communauté Le SPANC de Challans Gois Communauté
-Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Challans Gois Communauté (Vendée).
+Accueil › Vendée › Challans-Gois Communauté Le SPANC de Challans-Gois Communauté
+Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Challans-Gois Communauté (Vendée).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
 Contrôle en cas de vente : 150 € (2024).
@@ -2205,12 +2205,12 @@ Aides aux travaux
 Pénalités en cas de non-conformité
 Chiffres locaux
 Communes concernées
-Challans Gois Communauté fait partie des intercommunalités de Vendée qui gèrent leur propre service public d’assainissement non collectif. Cette fiche rassemble ce que la collectivité publie : coordonnées, tarifs, fréquence des contrôles, aides et pénalités. Chaque information renvoie à sa source en bas de page.
+Challans-Gois Communauté fait partie des intercommunalités de Vendée qui gèrent leur propre service public d’assainissement non collectif. Cette fiche rassemble ce que la collectivité publie : coordonnées, tarifs, fréquence des contrôles, aides et pénalités. Chaque information renvoie à sa source en bas de page.
 Contacter le SPANC
-Le SPANC est le service public qui contrôle les installations d’assainissement individuel. Sur Challans Gois Communauté, c’est lui qui valide un projet, vérifie les travaux, contrôle les installations existantes et délivre le rapport exigé pour une vente.
+Le SPANC est le service public qui contrôle les installations d’assainissement individuel. Sur Challans-Gois Communauté, c’est lui qui valide un projet, vérifie les travaux, contrôle les installations existantes et délivre le rapport exigé pour une vente.
 Coordonnées publiées par la collectivité. Vérifiez les horaires avant de vous déplacer.
-Service Service Public d'Assainissement Non Collectif (SPANC) de Challans Gois Communauté
-Mode de gestion Exploitation par Challans Gois Communauté (SPIC) ; SARP Ouest mandatée en renfort pour les contrôles de bon fonctionnement
+Service Service Public d'Assainissement Non Collectif (SPANC) de Challans-Gois Communauté
+Mode de gestion Exploitation par Challans-Gois Communauté (SPIC) ; SARP Ouest mandatée en renfort pour les contrôles de bon fonctionnement
 Téléphone 02 51 93 56 73
 E-mail assainissement@challansgois.fr
 Adresse 16 rue du Parc de Pont Habert, CS 50337, 85300 Sallertaine
@@ -2259,17 +2259,17 @@ Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, nég
 AB
 Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
 Sources consultées
-Challans Gois Communauté — Contrôles de l'assainissement individuel (page officielle)
-Challans Gois Communauté — Règlement de service du SPANC (en vigueur au 01/01/2025, PDF)
-Challans Gois Communauté — Note d'information usager sur les tarifs du SPANC 2024 (PDF)
-Challans Gois Communauté — Actualité : le SPANC fait évoluer son accueil
-Challans Gois Communauté — Aides financières pour l'assainissement individuel
-Challans Gois Communauté — Rapport d'activité 2023 (PDF)
+Challans-Gois Communauté — Contrôles de l'assainissement individuel (page officielle)
+Challans-Gois Communauté — Règlement de service du SPANC (en vigueur au 01/01/2025, PDF)
+Challans-Gois Communauté — Note d'information usager sur les tarifs du SPANC 2024 (PDF)
+Challans-Gois Communauté — Actualité : le SPANC fait évoluer son accueil
+Challans-Gois Communauté — Aides financières pour l'assainissement individuel
+Challans-Gois Communauté — Rapport d'activité 2023 (PDF)
 
 ## SPANC Océan Marais de Monts : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/ocean-marais-de-monts
 
-Accueil › Vendée › Océan Marais de Monts Le SPANC de Océan Marais de Monts
+Accueil › Vendée › Océan Marais de Monts Le SPANC d’Océan Marais de Monts
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Océan Marais de Monts (Vendée).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
@@ -2372,7 +2372,7 @@ Contrôle en cas de vente 183,60 € (cession immobilière)
 Contre-visite 124,00 €
 Diagnostic initial : 162,30 €
 Tarifs 2025 pour mémoire : classe 1 39,60 €/an ; classe 2 24,70 €/an ; classe 3 14,00 €/an ; conception neuf 96,70 € ; exécution neuf 181,80 € ; conception réhabilitation 79,90 € ; exécution réhabilitation 145,00 € ; contre-visite 122,90 € ; cession 181,80 € ; diagnostic initial 160,70 €
-HT/TTC non précisé sur la fiche 2026 ; le rapport annuel 2022 qualifiait les montants de TTC. La délibération des tarifs 2026 est un PDF scanné non lisible.
+HT/TTC non précisé sur la fiche 2026 ; le rapport annuel 2022 qualifiait les montants de TTC. La délibération des tarifs 2026 est un PDF scanné.
 Pour comparer avec les autres territoires, voir les SPANC de Vendée et le déroulé d’un contrôle .
 Fréquence des contrôles
 Classe 1 : tous les 4 ans ; classe 2 : tous les 6 ans ; classe 3 : tous les 10 ans (délibération 2021_07_D15, applicable au 01/01/2022). La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
@@ -2380,7 +2380,7 @@ Aides aux travaux
 Aides 2026 à la réhabilitation des installations existantes de moins de 20 EH et de plus de 15 ans, pour une résidence principale ou une location à l'année, réservées aux ménages modestes et très modestes (plafonds Anah). Étude : 60 % plafonnée à 500 € TTC (maximum 300 €). Travaux plafonnés à 10 000 € TTC : 20 % (maximum 2 000 €) si le bien est acquis depuis 4 ans ou plus ; 30 % (maximum 3 000 €, ménages modestes) ou 40 % (maximum 4 000 €, ménages très modestes) si le bien est acquis depuis moins de 4 ans. Cumul possible avec l'Anah et l'éco-PTZ ; travaux à réaliser sous 12 mois.
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
 Pénalités en cas de non-conformité
-Selon le règlement 2026 : absence d'installation, pénalité de l'article L1331-8 (montant non précisé) ; obstacle au contrôle (refus d'accès, troisième absence ou report), somme L1331-8 majorée de 100 % ; non-conformité non corrigée dans les délais (1 an après acquisition, 4 ans après mise en demeure), pénalité L1331-8 ; retard de paiement majoré de 25 %. La délibération 2022_10_D02 instaurant les pénalités est un PDF scanné non lisible.
+Selon le règlement 2026 : absence d'installation, pénalité de l'article L1331-8 (montant non précisé) ; obstacle au contrôle (refus d'accès, troisième absence ou report), somme L1331-8 majorée de 100 % ; non-conformité non corrigée dans les délais (1 an après acquisition, 4 ans après mise en demeure), pénalité L1331-8 ; retard de paiement majoré de 25 %. La délibération 2022_10_D02 instaurant les pénalités est un PDF scanné.
 Chiffres locaux
 7 632 dispositifs au 31/12/2022 (dont 29 de 20 à 200 EH) ; 7 555 recensés en 2021
 44,77 % d'installations conformes au 31/12/2022
@@ -2555,7 +2555,7 @@ Pays de Fontenay-Vendée — Fiche tarifs au 01/01/2022 (PDF)
 Pays de Fontenay-Vendée — Actualité : évolution des tarifs et de la redevance du SPANC
 Pays de Fontenay-Vendée — Formulaire de subvention 2025 (PDF)
 ANIL — Aide à l'assainissement non collectif, Pays de Fontenay-Vendée
-Pays de Fontenay-Vendée — Règlement de service ANC 2024 (PDF non lisible)
+Pays de Fontenay-Vendée — Règlement de service ANC 2024 (PDF scanné)
 
 ## SPANC Vendée Sèvre Autise : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/vendee-sevre-autise
@@ -2621,7 +2621,7 @@ Aymen B. — J’écris ce guide à partir des textes officiels (Code de la sant
 Sources consultées
 Vendée Sèvre Autise — Assainissement non collectif (page officielle)
 ANIL — Aide à l'assainissement non collectif, Vendée Sèvre Autise
-Vendée Sèvre Autise — Règlement de service ANC (PDF non lisible)
+Vendée Sèvre Autise — Règlement de service ANC (PDF scanné)
 
 ## SPANC Pays de la Châtaigneraie : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/pays-de-la-chataigneraie
@@ -2793,7 +2793,7 @@ Aides aux travaux
 Aide de 35 % du montant TTC des travaux, plafonnée à 3 000 € par logement (1 500 € par logement en opération groupée), sans condition de revenus, pour une installation non conforme ou absente (jusqu'à 199 EH), selon la délibération D17 du 23/02/2023. La fiche ANIL (à jour au 23/03/2026) précise : maison individuelle, résidence principale, construction de plus de 2 ans, travaux sous 12 mois en cas d'achat.
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
 Pénalités en cas de non-conformité
-Les pénalités de l'article L1331-8 sont appliquées depuis le 03/10/2022 (délibération D34 du 28/09/2022) en cas d'obstacle au contrôle (dès la deuxième absence), d'absence d'installation, de vente non conforme ou de non-mise en conformité. Les montants ne sont pas publiés en ligne (règlement 2026 en PDF non lisible).
+Les pénalités de l'article L1331-8 sont appliquées depuis le 03/10/2022 (délibération D34 du 28/09/2022) en cas d'obstacle au contrôle (dès la deuxième absence), d'absence d'installation, de vente non conforme ou de non-mise en conformité. Les montants ne sont pas publiés en ligne (règlement 2026 en PDF scanné).
 Chiffres locaux
 2 659 installations en 2024 (19,26 % de couverture, 5 885 habitants)
 Communes concernées
@@ -2805,7 +2805,7 @@ Y a-t-il une aide pour les travaux de mise en conformité ?
 Oui, une aide de 35 % du montant TTC des travaux, plafonnée à 3 000 € par logement, est proposée sans condition de revenus pour une installation non conforme ou absente (délibération D17 du 23/02/2023).
 Qui contacter au SPANC du Pays des Herbiers ?
 Le SPANC est joignable au 02 51 66 82 27, 6 rue du Tourniquet aux Herbiers. Les demandes de contrôle se font par formulaire en ligne.
-Limites de cette fiche. Grille tarifaire 2025 publiée uniquement en image non lisible : aucun montant relevé. Montants des pénalités non trouvés (règlement 2026 non lisible). Adresse électronique non trouvée (formulaire en ligne). Deux numéros de téléphone selon les sources (page SPANC et fiche ANIL). Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Grille tarifaire 2025 publiée uniquement en image : aucun montant relevé. Montants des pénalités non trouvés (règlement 2026 en PDF scanné). Adresse électronique non trouvée (formulaire en ligne). Deux numéros de téléphone selon les sources (page SPANC et fiche ANIL). Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -2823,7 +2823,7 @@ Pays des Herbiers — RPQS assainissement non collectif 2024 (PDF)
 ANIL — Aide à l'assainissement non collectif, Pays des Herbiers
 Pays des Herbiers — Formulaire de demande de contrôle ANC
 Pays des Herbiers — Grille tarifaire ANC 2025 (image)
-Pays des Herbiers — Règlement du SPANC 2026 (PDF non lisible)
+Pays des Herbiers — Règlement du SPANC 2026 (PDF scanné)
 
 ## SPANC Pays de Saint-Fulgent-Les Essarts : tarifs et contact
 URL : https://reperes-assainissement.fr/spanc/pays-de-saint-fulgent-les-essarts
@@ -2875,7 +2875,7 @@ Tous les combien a lieu le contrôle périodique ?
 Tous les 8 ans pour les installations conformes, 6 ans pour les non conformes et 4 ans pour les non conformes présentant un risque sanitaire. Les contrôles sont réalisés par la SAUR pour le compte de la Communauté de communes.
 Y a-t-il une aide pour les travaux ?
 Oui, une subvention de 800 € est proposée aux propriétaires d'une maison individuelle dont l'installation est classée non conforme, cumulable avec l'Anah et l'éco-PTZ.
-Limites de cette fiche. Année des tarifs non précisée ; HT/TTC non précisé. Pénalités non trouvées (règlement en PDF non lisible). Nombre d'installations non trouvé. Liste des 12 communes non trouvée. Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Année des tarifs non précisée ; HT/TTC non précisé. Pénalités non trouvées (règlement en PDF scanné). Nombre d'installations non trouvé. Liste des 12 communes non trouvée. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -2892,7 +2892,7 @@ Pays de Saint-Fulgent-Les Essarts — Les contrôles obligatoires (page officiel
 Pays de Saint-Fulgent-Les Essarts — Assainissement non collectif, fosse septique (page officielle)
 ANIL — Aide à l'assainissement non collectif, Pays de Saint-Fulgent-Les Essarts
 Pays de Saint-Fulgent-Les Essarts — Les aides financières
-Pays de Saint-Fulgent-Les Essarts — Règlement du service d'assainissement non collectif (PDF non lisible)
+Pays de Saint-Fulgent-Les Essarts — Règlement du service d'assainissement non collectif (PDF scanné)
 
 ## SPANC Pays de Chantonnay : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/pays-de-chantonnay
@@ -2928,7 +2928,7 @@ Contrôle de réalisation (bonne exécution) 145 € (réalisation / bonne exéc
 Contrôle périodique de bon fonctionnement —
 Contrôle en cas de vente —
 Contre-visite —
-Conception et réalisation confirmées dans le dossier de subvention 2024-2027 ; HT/TTC non précisé. Les tarifs du contrôle périodique, de la vente et de la contre-visite ne figurent que dans une image (grille 2023) non lisible.
+Conception et réalisation confirmées dans le dossier de subvention 2024-2027 ; HT/TTC non précisé. Les tarifs du contrôle périodique, de la vente et de la contre-visite ne figurent que dans une image (grille 2023).
 Pour comparer avec les autres territoires, voir les SPANC de Vendée et le déroulé d’un contrôle .
 Fréquence des contrôles
 Tous les 4 ans (non conformes à risque), 6 ans (non conformes) ou 8 ans (conformes, neuves ou réhabilitées), selon la délibération n° 2013-116 du 16/06/2013. La loi fixe un maximum de 10 ans entre deux contrôles (article L2224-8 du CGCT) ; chaque SPANC choisit une fréquence inférieure ou égale dans son règlement.
@@ -2946,7 +2946,7 @@ Tous les combien a lieu le contrôle périodique ?
 Tous les 8 ans pour les installations conformes, neuves ou réhabilitées, 6 ans pour les non conformes et 4 ans pour les non conformes à risque. Les contrôles sont réalisés par SAUR pour le compte de la Communauté de communes.
 Combien coûtent les contrôles d'une installation neuve ?
 Le contrôle de conception coûte 60 € et le contrôle de réalisation 145 € (mention HT/TTC non précisée). Les tarifs du contrôle périodique et de vente ne sont pas lisibles en ligne.
-Limites de cette fiche. Tarifs du contrôle périodique, de la vente et de la contre-visite non trouvés (grille 2023 en image non lisible). Taux de majoration des pénalités non publiés. Nombre d'installations non trouvé. HT/TTC des tarifs de conception et réalisation non précisé. Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Tarifs du contrôle périodique, de la vente et de la contre-visite non trouvés (grille 2023 publiée en image). Taux de majoration des pénalités non publiés. Nombre d'installations non trouvé. HT/TTC des tarifs de conception et réalisation non précisé. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -3188,7 +3188,7 @@ Pays de Mortagne — Délibération D23_127 mise à jour des pénalités financi
 ## SPANC Île de Noirmoutier : tarifs, contact, aides
 URL : https://reperes-assainissement.fr/spanc/ile-de-noirmoutier
 
-Accueil › Vendée › Île de Noirmoutier Le SPANC de Île de Noirmoutier
+Accueil › Vendée › Île de Noirmoutier Le SPANC de l’Île de Noirmoutier
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Île de Noirmoutier (Vendée).
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
@@ -3399,7 +3399,7 @@ Accueil › Loire-Atlantique › Vidangeurs agréés Vidangeurs agréés en Loir
 La liste officielle des entreprises autorisées à vidanger une fosse, une micro-station ou un filtre, et comment la vérifier.
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 13 min
 En bref
-27 entreprises figurent dans la liste préfectorale du 6 novembre 2025, dont 22 avec un agrément en cours à cette date.
+27 entreprises figurent dans la liste préfectorale du 6 novembre 2025, dont 22 avec un agrément encore en cours en octobre 2026.
 Seul un vidangeur agréé peut collecter et éliminer les boues : exigez le bordereau de suivi des matières de vidange.
 Vérifiez le numéro d’agrément sur le document officiel avant de commander.
 Sommaire
@@ -3410,7 +3410,7 @@ Bureaux d’études de sol
 Une vidange n’est pas une simple prestation de pompage : les matières collectées doivent être tracées et traitées. C’est pourquoi seules les entreprises agréées par la préfecture peuvent intervenir. Cette page reprend la liste publiée pour la Loire-Atlantique, explique comment la vérifier et donne les prix relevés.
 La liste préfectorale (2025)
 L’agrément est délivré par le préfet pour dix ans au plus (arrêté du 7 septembre 2009). Il garantit que l’entreprise élimine les boues dans une filière autorisée. La préfecture publie la liste sur sa page consacrée à l’assainissement non collectif ; le tableau ci-dessous en est la transcription, avec les agréments échus conservés tels quels par la préfecture.
-Liste préfectorale du 6 novembre 2025. Liste préfectorale « Publiliste_vidangeurs_agréés_44 » (3 pages, mise en ligne le 06/11/2025) : 27 lignes, dont 4 agréments échus conservés dans le tableau (Challancin, SODI, Vidange Rapide Martin, Havard Yannick), soit 23 agréments en cours à la date de la liste ; A.A.E.M. est arrivé à échéance le 10/08/2026 (renouvellement non visible). Version antérieure du 17/03/2023 toujours en ligne ; ORTEC SERVICE ENVIRONNEMENT (Clisson) et Vidange Guémenéenne (Guémené-Penfao) ne figurent plus dans la liste 2025.
+Liste préfectorale du 6 novembre 2025. Liste préfectorale (3 pages, mise en ligne le 06/11/2025) : 27 lignes, dont 4 agréments échus conservés dans le tableau (Challancin, SODI, Vidange Rapide Martin, Havard Yannick), soit 23 agréments en cours à la date de la liste ; A.A.E.M. est arrivé à échéance le 10/08/2026 (renouvellement non visible). Version antérieure du 17/03/2023 toujours en ligne ; ORTEC SERVICE ENVIRONNEMENT (Clisson) et Vidange Guémenéenne (Guémené-Penfao) ne figurent plus dans la liste 2025.
 Entreprise Commune N° d’agrément Validité Statut
 Société ORTEC ENVIRONNEMENT OUEST Orvault (2 route de la Garenne, 44700) + agence Saint-Nazaire (11 rue Denis Papin, ZI de Brais, 44600) 2022-R-440001 09/06/2022 → 09/06/2032 en cours
 Entreprise GUY CHALLANCIN La Chapelle-Heulin (5 rue des Ragonnières, 44330) 2010-N-440002 / 2013-M-440002 / 2020-M3-440002 25/11/2011 → 25/11/2021 — ÉCHU (non renouvelé selon la liste) échu
@@ -3469,12 +3469,12 @@ ASSAINISSEMENT ETUD'SOL Férel (Morbihan) (35 Kernoil, 56130)
 OCE ENVIRONNEMENT Challans (Vendée) (Pôle Activ'Océan, 85300)
 Questions fréquentes
 Combien de vidangeurs sont agréés en Loire-Atlantique ?
-La liste préfectorale du 6 novembre 2025 compte 27 entreprises, dont 22 avec un agrément en cours à cette date. Des entreprises d’autres départements peuvent aussi intervenir si elles détiennent un agrément valide.
+La liste préfectorale du 6 novembre 2025 compte 27 entreprises, dont 22 avec un agrément encore en cours en octobre 2026. Des entreprises d’autres départements peuvent aussi intervenir si elles détiennent un agrément valide.
 Que risque-t-on avec un vidangeur non agréé ?
 Le SPANC peut considérer l’entretien comme non justifié faute de bordereau de suivi, et les boues risquent d’être éliminées illégalement. L’agrément préfectoral est obligatoire pour toute entreprise qui vidange une installation d’assainissement non collectif.
 Où trouver la version la plus récente de la liste ?
 Sur le site de la préfecture de Loire-Atlantique, rubrique assainissement non collectif. La liste est mise à jour au fil des agréments délivrés ou échus ; la date de la version utilisée ici est indiquée en haut de page.
-Limites de cette page. 44 : la liste préfectorale du 06/11/2025 est la référence ; vérifier sur la page préfectorale si une version plus récente est parue (la page « Politiques publiques » affiche encore la version du 17/03/2023). 44 : A.A.E.M. (2016-N-440022) est arrivé à échéance le 10/08/2026 ; le renouvellement n'est pas visible dans la liste du 06/11/2025. 85 : la liste préfectorale date du 07/12/2022 (déposée le 05/06/2023) ; aucune liste plus récente n'est en ligne sur vendee.gouv.fr au 21/10/2026. Pour les renouvellements intervenus depuis (Gaubert, Application Hygiène Services, Menanteau, G-Net, ABA), contacter la DDTM 85 (contact indiqué dans le diaporama CAPEB 2024 : alexandre.libeau@vendee.gouv.fr, 02 51 44 33 27) ou consulter le recueil des actes administratifs. Les numéros de téléphone et mails proviennent exclusivement des PDF préfectoraux ou des listes CAPEB ; aucun n'a été ajouté d'une autre source. Les coquilles des documents sources sont reproduites telles quelles et signalées « (sic) ». Aucun SPANC du 44 ou du 85 ne publie de liste « maison » de bureaux d'études ; les listes reprises sont celles de la Charte pour un ANC de qualité (CAPEB/CNATP). Tarifs : aucune source ANIL/ADIL ni UFC-Que Choisir trouvée pour le 44/85 ; le seul repère est le tableau indicatif CAPEB Vendée 2024 (280 à 350 € TTC / vidange), complété par une grille commerciale non officielle. Les vidangeurs agréés dans un département peuvent exercer dans toute la France (portail interministériel ANC) : consulter aussi les listes des départements limitrophes. Fichiers PDF lus intégralement via le navigateur (pdf.js) ; les accès directs (curl/WebFetch) aux PDF des préfectures échouaient.
+Limites de cette page. 44 : la liste préfectorale du 06/11/2025 est la référence ; vérifier sur la page préfectorale si une version plus récente est parue (la page « Politiques publiques » affiche encore la version du 17/03/2023). 44 : A.A.E.M. (2016-N-440022) est arrivé à échéance le 10/08/2026 ; le renouvellement n'est pas visible dans la liste du 06/11/2025. 85 : la liste préfectorale date du 07/12/2022 (déposée le 05/06/2023) ; aucune liste plus récente n'est en ligne sur vendee.gouv.fr au 21/10/2026. Pour les renouvellements intervenus depuis (Gaubert, Application Hygiène Services, Menanteau, G-Net, ABA), contacter la DDTM 85 ou consulter le recueil des actes administratifs. Les numéros de téléphone et mails proviennent exclusivement des PDF préfectoraux ou des listes CAPEB ; aucun n'a été ajouté d'une autre source. Les coquilles des documents sources sont reproduites telles quelles et signalées « (sic) ». Aucun SPANC du 44 ou du 85 ne publie de liste « maison » de bureaux d'études ; les listes reprises sont celles de la Charte pour un ANC de qualité (CAPEB/CNATP). Tarifs : aucune source ANIL/ADIL ni UFC-Que Choisir trouvée pour le 44/85 ; le seul repère est le tableau indicatif CAPEB Vendée 2024 (280 à 350 € TTC / vidange), complété par une grille commerciale non officielle. Les vidangeurs agréés dans un département peuvent exercer dans toute la France (portail interministériel ANC) : consulter aussi les listes des départements limitrophes.
 À lire aussi
 L’assainissement individuel en Loire-Atlantique
 Tous les SPANC de Loire-Atlantique : contacts, tarifs des contrôles, aides et pénalités.
@@ -3489,7 +3489,7 @@ Aymen B. — J’écris ce guide à partir des textes officiels (Code de la sant
 Sources consultées
 Portail interministériel ANC — liens vers les listes de vidangeurs agréés (mis à jour le 16/04/2026)
 Préfecture de la Loire-Atlantique — page Assainissement Non Collectif
-Préfecture de la Loire-Atlantique — Publiliste_vidangeurs_agréés_44 (PDF, 06/11/2025)
+Préfecture de la Loire-Atlantique — liste des vidangeurs agréés (PDF, 06/11/2025)
 Préfecture de la Loire-Atlantique — page Liste vidangeurs agréés (version 2023, mise à jour 27/07/2023)
 Préfecture de la Loire-Atlantique — 20230317_liste_vidangeurs_agréés_44 (PDF, version antérieure)
 CC Châteaubriant-Derval — relais de la liste 44 (version 2023/2024)
@@ -3520,7 +3520,7 @@ Accueil › Vendée › Vidangeurs agréés Vidangeurs agréés en Vendée
 La liste officielle des entreprises autorisées à vidanger une fosse, une micro-station ou un filtre, et comment la vérifier.
 Par Aymen B. Mis à jour le 21/10/2026 Lecture : 15 min
 En bref
-26 entreprises figurent dans la liste préfectorale du 7 décembre 2022, dont 19 avec un agrément en cours à cette date.
+26 entreprises figurent dans la liste préfectorale du 7 décembre 2022, dont 19 avec un agrément encore en cours en octobre 2026 (7 à vérifier).
 Seul un vidangeur agréé peut collecter et éliminer les boues : exigez le bordereau de suivi des matières de vidange.
 Vérifiez le numéro d’agrément sur le document officiel avant de commander.
 Sommaire
@@ -3605,12 +3605,12 @@ SAUR SAS La Roche-sur-Yon (71 rue du Commerce, 85033)
 VENDEE HYDROCURAGE SAS Saint-Jean-de-Monts (7 rue des Chevilles, 85160)
 Questions fréquentes
 Combien de vidangeurs sont agréés en Vendée ?
-La liste préfectorale du 7 décembre 2022 compte 26 entreprises, dont 19 avec un agrément en cours à cette date. Des entreprises d’autres départements peuvent aussi intervenir si elles détiennent un agrément valide.
+La liste préfectorale du 7 décembre 2022 compte 26 entreprises, dont 19 avec un agrément encore en cours en octobre 2026 (7 à vérifier). Des entreprises d’autres départements peuvent aussi intervenir si elles détiennent un agrément valide.
 Que risque-t-on avec un vidangeur non agréé ?
 Le SPANC peut considérer l’entretien comme non justifié faute de bordereau de suivi, et les boues risquent d’être éliminées illégalement. L’agrément préfectoral est obligatoire pour toute entreprise qui vidange une installation d’assainissement non collectif.
 Où trouver la version la plus récente de la liste ?
 Sur le site de la préfecture de Vendée, rubrique assainissement non collectif. La liste est mise à jour au fil des agréments délivrés ou échus ; la date de la version utilisée ici est indiquée en haut de page.
-Limites de cette page. 85 : la liste préfectorale date du 07/12/2022 (déposée le 05/06/2023) ; aucune liste plus récente n'est en ligne sur vendee.gouv.fr au 21/10/2026. Pour les renouvellements intervenus depuis (Gaubert, Application Hygiène Services, Menanteau, G-Net, ABA), contacter la DDTM 85 (contact indiqué dans le diaporama CAPEB 2024 : alexandre.libeau@vendee.gouv.fr, 02 51 44 33 27) ou consulter le recueil des actes administratifs. 85 : pour SARL DURAND VIDANGE et SARL ADVL (agréments 49 échus en 2021 d'après le tableau), aucun renouvellement n'est indiqué dans le tableau préfectoral du 07/12/2022. 85 : la liste CAPEB d'octobre 2026 (14 vidangeurs engagés dans la charte, dont ALCEM TP et DAMIEN DUGAST absents du tableau préfectoral) atteste seulement l'engagement dans la charte, sans numéro d'agrément ; ce n'est pas la liste préfectorale. Le guide du SPANC du Pays de Pouzauges (avril 2023) cite des vidangeurs locaux supplémentaires (AAVC Macouin Guy « 85-2010-0013 », Liaigre Philippe, Sanitra-Fourrier « 2011-N-49-0004 ») et des bureaux d'études (MONTEMONT EURL, SOBREO – Pouzauges) non recoupés avec la préfecture ; ils ne sont pas repris dans les listes. Les numéros de téléphone et mails proviennent exclusivement des PDF préfectoraux ou des listes CAPEB ; aucun n'a été ajouté d'une autre source. Les coquilles des documents sources sont reproduites telles quelles et signalées « (sic) ». Aucun SPANC du 44 ou du 85 ne publie de liste « maison » de bureaux d'études ; les listes reprises sont celles de la Charte pour un ANC de qualité (CAPEB/CNATP). Tarifs : aucune source ANIL/ADIL ni UFC-Que Choisir trouvée pour le 44/85 ; le seul repère est le tableau indicatif CAPEB Vendée 2024 (280 à 350 € TTC / vidange), complété par une grille commerciale non officielle. Les vidangeurs agréés dans un département peuvent exercer dans toute la France (portail interministériel ANC) : consulter aussi les listes des départements limitrophes. Fichiers PDF lus intégralement via le navigateur (pdf.js) ; les accès directs (curl/WebFetch) aux PDF des préfectures échouaient.
+Limites de cette page. 85 : la liste préfectorale date du 07/12/2022 (déposée le 05/06/2023) ; aucune liste plus récente n'est en ligne sur vendee.gouv.fr au 21/10/2026. Pour les renouvellements intervenus depuis (Gaubert, Application Hygiène Services, Menanteau, G-Net, ABA), contacter la DDTM 85 ou consulter le recueil des actes administratifs. 85 : pour SARL DURAND VIDANGE et SARL ADVL (agréments 49 échus en 2021 d'après le tableau), aucun renouvellement n'est indiqué dans le tableau préfectoral du 07/12/2022. 85 : la liste CAPEB d'octobre 2026 (14 vidangeurs engagés dans la charte, dont ALCEM TP et DAMIEN DUGAST absents du tableau préfectoral) atteste seulement l'engagement dans la charte, sans numéro d'agrément ; ce n'est pas la liste préfectorale. Le guide du SPANC du Pays de Pouzauges (avril 2023) cite des vidangeurs locaux supplémentaires (AAVC Macouin Guy « 85-2010-0013 », Liaigre Philippe, Sanitra-Fourrier « 2011-N-49-0004 ») et des bureaux d'études (MONTEMONT EURL, SOBREO – Pouzauges) non recoupés avec la préfecture ; ils ne sont pas repris dans les listes. Les numéros de téléphone et mails proviennent exclusivement des PDF préfectoraux ou des listes CAPEB ; aucun n'a été ajouté d'une autre source. Les coquilles des documents sources sont reproduites telles quelles et signalées « (sic) ». Aucun SPANC du 44 ou du 85 ne publie de liste « maison » de bureaux d'études ; les listes reprises sont celles de la Charte pour un ANC de qualité (CAPEB/CNATP). Tarifs : aucune source ANIL/ADIL ni UFC-Que Choisir trouvée pour le 44/85 ; le seul repère est le tableau indicatif CAPEB Vendée 2024 (280 à 350 € TTC / vidange), complété par une grille commerciale non officielle. Les vidangeurs agréés dans un département peuvent exercer dans toute la France (portail interministériel ANC) : consulter aussi les listes des départements limitrophes.
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée : contacts, tarifs des contrôles, aides et pénalités.
@@ -3625,7 +3625,7 @@ Aymen B. — J’écris ce guide à partir des textes officiels (Code de la sant
 Sources consultées
 Portail interministériel ANC — liens vers les listes de vidangeurs agréés (mis à jour le 16/04/2026)
 Préfecture de la Loire-Atlantique — page Assainissement Non Collectif
-Préfecture de la Loire-Atlantique — Publiliste_vidangeurs_agréés_44 (PDF, 06/11/2025)
+Préfecture de la Loire-Atlantique — liste des vidangeurs agréés (PDF, 06/11/2025)
 Préfecture de la Loire-Atlantique — page Liste vidangeurs agréés (version 2023, mise à jour 27/07/2023)
 Préfecture de la Loire-Atlantique — 20230317_liste_vidangeurs_agréés_44 (PDF, version antérieure)
 CC Châteaubriant-Derval — relais de la liste 44 (version 2023/2024)
