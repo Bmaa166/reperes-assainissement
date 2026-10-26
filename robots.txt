@@ -1,34 +1,45 @@
 User-agent: *
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: Googlebot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: Bingbot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: GPTBot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: Claude-SearchBot
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /cdn-cgi/
 
 User-agent: Applebot
 Allow: /
+Disallow: /cdn-cgi/
 
 Sitemap: https://reperes-assainissement.fr/sitemap.xml
