@@ -2,6 +2,8 @@
 (function () {
   'use strict';
   var fmt = function (n) { return Math.round(n).toLocaleString('fr-FR') + ' €'; };
+  /* Typographie française des textes générés : insécable avant : et €, fine avant ; ? ! %, fine entre les milliers */
+  var ty = function (s) { return String(s).replace(/(\d) (?=\d{3}(?!\d))/g, '$1\u202f').replace(/ ([:€»])/g, '\u00a0$1').replace(/« /g, '«\u00a0').replace(/ ([;?!%])/g, '\u202f$1'); };
   var rng = function (a, b) { return a === b ? fmt(a) : fmt(a) + ' à ' + fmt(b); };
   var rngT = function (a, b) { return rng(Math.floor(a / 100) * 100, Math.ceil(b / 100) * 100); };
   var $ = function (s, r) { return (r || document).querySelector(s); };
@@ -296,9 +298,10 @@
   if (lf) {
     document.addEventListener('click', function (e) {
       var a = e.target.closest ? e.target.closest('a[href="#demande"]') : null; if (!a) return;
+      if (a.hasAttribute('data-precis')) return;
       var tool = a.closest('.tool'); if (!tool || tool === lf) return;
       var big = $('.result .big', tool), pr = $('#ld-precisions', lf);
-      if (big && pr && !pr.value) { pr.value = ('Estimation du simulateur : ' + big.textContent.replace(/\s+/g, ' ').trim()).slice(0, 300); }
+      if (big && pr && (!pr.value || pr.dataset.auto === '1')) { pr.value = ('Estimation du simulateur : ' + big.textContent.replace(/\s+/g, ' ').trim()).slice(0, 300); pr.dataset.auto = '1'; }
     });
   }
   /* ---------- 8. Barre de lecture ---------- */
@@ -369,4 +372,217 @@
     };
     cq.addEventListener('input', cgo); cq.addEventListener('change', cgo);
   }
+  /* ---------- 13. Simulateur « Quelles aides pour votre assainissement ? » ----------
+     Plafonds de revenus Anah 2026 hors Île-de-France (guide des aides de l'Anah, édition septembre 2026).
+     Aides locales : reprises des fiches /spanc/* (fiches ANIL et documents des collectivités, dates indiquées sur chaque fiche).
+     Anah : délibération n° 2026-23 du 26/06/2026 (dossiers déposés depuis le 01/09/2026). Calcul fait dans le navigateur : rien n'est envoyé. */
+  var ANAH26 = { tmo: [[17363, 25393, 30540, 35676, 40835], 5151], mo: [[22259, 32553, 39148, 45735, 52348], 6598], int: [[31185, 45842, 55196, 64550, 73907], 9357] };
+  var plafA = function (k, n) { var t = ANAH26[k]; return n <= 5 ? t[0][n - 1] : t[0][4] + (n - 5) * t[1]; };
+  var catOf = function (n, r) { if (!n || r === null) return null; return r <= plafA('tmo', n) ? 'tmo' : (r <= plafA('mo', n) ? 'mo' : (r <= plafA('int', n) ? 'int' : 'sup')); };
+  var CATL = { tmo: 'ménage très modeste', mo: 'ménage modeste', int: 'ménage aux revenus intermédiaires', sup: 'ménage aux revenus supérieurs' };
+  var sa = $('[data-tool="aides-anc"]');
+  if (sa) {
+    var NO = function (w) { return { k: 'no', why: w }; };
+    var NC = 'réservée aux installations déclarées non conformes (ou absentes) par le SPANC';
+    var ht = function (m) { return m / 1.1; };
+    var byCat = function (p, rates, base, caps) {
+      if (!p.cat) { var rs = []; Object.keys(rates).forEach(function (k) { if (rates[k]) rs.push(rates[k]); }); return { k: 'rng', lo: Math.min.apply(null, rs) * base, hi: Math.min(Math.max.apply(null, rs) * base, caps ? Math.max.apply(null, Object.keys(caps).map(function (k) { return caps[k]; })) : Infinity), why: 'taux selon vos revenus : indiquez votre revenu fiscal pour préciser' }; }
+      var r = rates[p.cat]; if (!r) return null;
+      return { k: 'val', v: Math.min(r * base, caps && caps[p.cat] ? caps[p.cat] : Infinity), why: Math.round(r * 100) + ' % de ' + fmt(base) + ' de travaux retenus' };
+    };
+    var LOC = {
+      'nantes-metropole': { t: '15 % des travaux (30 % pour les ménages modestes), 50 % (65 %) si la non-conformité est jugée prioritaire ; travaux plafonnés à 8 000 € HT selon la métropole (10 500 € HT selon l’ANIL) ; dispositif 2025-2030.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); var b = Math.min(ht(p.m), 8000); return { k: 'rng', lo: 0.15 * b, hi: 0.65 * b, why: 'le taux dépend de vos revenus et de la priorité de la non-conformité : à confirmer auprès du service' }; } },
+      'grand-lieu': { t: 'Depuis le 01/07/2025 : 35 % (très modestes), 25 % (modestes) ou 15 % (modestes + 10 %) de travaux plafonnés à 10 000 € TTC, pour des travaux d’au moins 3 000 € TTC validés par le SPANC.',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.m < 3000) return NO('travaux d’au moins 3 000 € TTC exigés');
+          var b = Math.min(p.m, 10000);
+          if (!p.cat) return { k: 'rng', lo: 0.15 * b, hi: 0.35 * b, why: 'taux selon vos revenus : indiquez votre revenu fiscal pour préciser' };
+          var r = p.cat === 'tmo' ? 0.35 : (p.cat === 'mo' ? 0.25 : (p.mo11 ? 0.15 : 0));
+          return r ? { k: 'val', v: r * b, why: Math.round(r * 100) + ' % de ' + fmt(b) + ' de travaux retenus' } : NO('réservée aux revenus sous le plafond « modeste » de l’Anah majoré de 10 %');
+        } },
+      'sud-estuaire': { t: '75 % (très modestes), 50 % (modestes), 25 % (intermédiaires et bailleurs) ou 10 % (autres) d’un montant de 3 000 à 11 000 € TTC ; micro-stations exclues (règlement du 19/12/2020, plafonds de revenus au 01/01/2025).',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.f === 'micro') return NO('micro-stations exclues'); if (p.m < 3000) return NO('montant subventionnable d’au moins 3 000 € TTC');
+          var b = Math.min(p.m, 11000);
+          if (p.st === 'pb') return { k: 'val', v: 0.25 * b, why: '25 % de ' + fmt(b) + ' (taux des bailleurs)' };
+          return byCat(p, { tmo: 0.75, mo: 0.5, int: 0.25, sup: 0.1 }, b);
+        } },
+      'sud-retz-atlantique': { t: 'En 2025 : jusqu’à 3 000 € (revenus modestes) ou 4 000 € (très modestes, grille Anah), filière économe en énergie avec infiltration des eaux traitées ; budget annuel limité.',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.f === 'micro') return NO('filière économe en énergie exigée');
+          if (!p.cat) return { k: 'max', v: 4000, why: 'selon vos revenus (modestes ou très modestes)' };
+          if (p.cat === 'tmo') return { k: 'max', v: Math.min(4000, p.m), why: 'plafond des ménages très modestes' };
+          if (p.cat === 'mo') return { k: 'max', v: Math.min(3000, p.m), why: 'plafond des ménages modestes' };
+          return NO('réservée aux ménages modestes et très modestes');
+        } },
+      'pornic-agglo': { t: 'De 800 à 6 000 € selon les plafonds de ressources de l’Anah, avec un palier pour les propriétaires occupants quel que soit leur revenu (conseil communautaire du 02/02/2023).',
+        c: function (p) { if (p.z === 'vol') return NO(NC); return { k: 'rng', lo: 800, hi: Math.min(6000, p.m), why: 'montant selon vos revenus : barème à demander au SPANC' }; } },
+      'sevre-et-loire': { t: '30 % plafonnés à 3 000 € (sous le plafond Anah) ou 20 % plafonnés à 2 000 € (plafond Anah majoré de 10 %), pour des travaux de 3 000 à 10 000 € TTC (conditions de 2021, à confirmer).',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.m < 3000) return NO('travaux d’au moins 3 000 € TTC exigés');
+          var b = Math.min(p.m, 10000);
+          if (!p.cat) return { k: 'rng', lo: Math.min(0.2 * b, 2000), hi: Math.min(0.3 * b, 3000), why: 'taux selon vos revenus' };
+          if (p.cat === 'tmo' || p.cat === 'mo') return { k: 'val', v: Math.min(0.3 * b, 3000), why: '30 % de ' + fmt(b) + ', plafonné à 3 000 € (conditions de 2021)' };
+          if (p.mo11) return { k: 'val', v: Math.min(0.2 * b, 2000), why: '20 % de ' + fmt(b) + ', plafonné à 2 000 € (conditions de 2021)' };
+          return NO('réservée aux revenus sous le plafond Anah majoré de 10 %');
+        } },
+      'nozay': { t: 'En 2025 : 40 % des travaux TTC compris entre 3 000 et 7 000 €, soit 2 800 € au plus, pour les propriétaires occupants sous plafonds de revenu (dossier monté avec SOLIHA).',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.st === 'pb' || p.st === 'rs') return NO('réservée aux propriétaires occupants'); if (p.m < 3000) return NO('travaux d’au moins 3 000 € TTC exigés');
+          var v = Math.min(0.4 * Math.min(p.m, 7000), 2800);
+          if (p.r === null) return { k: 'max', v: v, why: 'sous condition de revenus : indiquez votre revenu fiscal pour vérifier' };
+          var pl = [22015, 32197, 38719, 45234, 51775], lim = p.n <= 5 ? pl[p.n - 1] : pl[4] + (p.n - 5) * 6525;
+          return p.r <= lim ? { k: 'val', v: v, why: '40 % de ' + fmt(Math.min(p.m, 7000)) } : NO('revenu fiscal au-dessus du plafond de la CC (' + fmt(lim) + ' pour ' + p.n + ' pers.)');
+        } },
+      'erdre-et-gesvres': { t: 'Forfait de 3 000 € pour un propriétaire occupant (ou bailleur conventionné) sous les plafonds Anah « modestes », installation non conforme, demande avant travaux (dossier de 2017, à confirmer).',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.st === 'rs') return NO('réservée aux propriétaires occupants et aux bailleurs conventionnés');
+          if (p.st === 'pb') return { k: 'unk', why: 'seulement pour un logement conventionné : à vérifier avec le service' };
+          if (!p.cat) return { k: 'max', v: 3000, why: 'sous condition de revenus (plafonds Anah « modestes »)' };
+          return (p.cat === 'tmo' || p.cat === 'mo') ? { k: 'val', v: Math.min(3000, p.m), why: 'forfait' } : NO('réservée aux ménages modestes et très modestes');
+        } },
+      'redon-agglomeration': { t: '20 % des travaux pour les propriétaires occupants (résidence principale) aux revenus très modestes ; plafond non publié.',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.st === 'pb' || p.st === 'rs') return NO('réservée aux propriétaires occupants');
+          if (!p.cat) return { k: 'unk', why: 'réservée aux ménages très modestes : indiquez votre revenu fiscal' };
+          return p.cat === 'tmo' ? { k: 'max', v: 0.2 * p.m, why: '20 % des travaux, plafond non publié' } : NO('réservée aux ménages très modestes');
+        } },
+      'carene-saint-nazaire': { t: 'Aides locales pouvant être soumises à conditions de revenus, gérées par le service Habitat de la CARENE (02 51 76 10 00) ; montant non publié.',
+        c: function () { return { k: 'unk', why: 'montant non publié : service Habitat de la CARENE, 02 51 76 10 00' }; } },
+      'pays-des-herbiers': { t: '35 % des travaux TTC, plafonnés à 3 000 €, sans condition de revenus, pour une résidence principale de plus de 2 ans dont l’installation est non conforme ou absente (délibération du 23/02/2023, fiche ANIL du 23/03/2026).',
+        c: function (p) { if (p.z === 'vol') return NO(NC); if (p.st === 'rs') return NO('réservée aux résidences principales'); return { k: 'val', v: Math.min(0.35 * p.m, 3000), why: '35 % des travaux, plafonnés à 3 000 €' }; } },
+      'pays-de-pouzauges': { t: 'De 5 à 40 % des travaux, plafonnés entre 500 et 4 000 € selon les ressources, pour un propriétaire occupant ou bailleur, après étude de filière (fiche ANIL du 23/03/2026).',
+        c: function (p) { if (p.z === 'vol') return NO(NC); if (p.st === 'rs') return NO('réservée aux propriétaires occupants ou bailleurs'); return { k: 'rng', lo: Math.min(500, 0.05 * p.m), hi: Math.min(4000, 0.4 * p.m), why: 'taux selon vos ressources : barème à demander au SPANC' }; } },
+      'pays-de-fontenay-vendee': { t: 'Forfait de 2 000 € par installation réhabilitée, pour un bien acquis avant le 01/01/2011 (hors résidence secondaire), étude par un bureau d’études charté, dossier avant travaux.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); if (p.st === 'rs') return NO('résidences secondaires exclues'); if (p.a !== '15') return NO('réservée aux biens acquis avant le 01/01/2011'); return { k: 'val', v: Math.min(2000, p.m), why: 'forfait' }; } },
+      'pays-de-la-chataigneraie': { t: '10 % ou 50 % selon le type de travaux, sur une base plafonnée à 8 000 € TTC (étude et travaux) ; justificatifs sous 12 mois (fiche ANIL du 26/03/2026).',
+        c: function (p) { if (p.z === 'vol') return NO(NC); var b = Math.min(p.m, 8000); return { k: 'rng', lo: 0.1 * b, hi: 0.5 * b, why: 'taux selon le type de travaux, à confirmer par le SPANC' }; } },
+      'pays-de-chantonnay': { t: 'Forfait de 1 000 € par propriétaire du 01/01/2024 au 31/12/2027, sans condition de revenus, y compris après une vente ; demande avant la signature du devis.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); return { k: 'val', v: Math.min(1000, p.m), why: 'forfait' }; } },
+      'pays-de-saint-fulgent-les-essarts': { t: 'Subvention de 800 € pour un propriétaire occupant ou bailleur d’une maison dont l’installation est non conforme (fiche ANIL du 26/03/2026).',
+        c: function (p) { if (p.z === 'vol') return NO(NC); if (p.st === 'rs') return NO('réservée aux propriétaires occupants ou bailleurs'); return { k: 'val', v: Math.min(800, p.m), why: 'forfait' }; } },
+      'vendee-sevre-autise': { t: 'Subvention de 700 € pour un logement de plus de 15 ans, hors mise aux normes consécutive à une vente, après diagnostic préalable (fiche ANIL du 25/03/2026).',
+        c: function (p) { if (p.z === 'vente' || p.st === 'acq') return NO('mise aux normes après une vente exclue'); return { k: 'val', v: Math.min(700, p.m), why: 'forfait, logement de plus de 15 ans' }; } },
+      'pays-de-saint-gilles-croix-de-vie': { t: 'Aides 2026 sur 11 000 € TTC de travaux au plus : 50 % (très modestes), 35 % (modestes), 20 % (autres) ; bien acquis avant le 01/01/2011 (guide du SPANC de mai 2026).',
+        c: function (p) { if (p.z === 'vol') return NO(NC); if (p.a !== '15') return NO('réservée aux biens acquis avant le 01/01/2011'); return byCat(p, { tmo: 0.5, mo: 0.35, int: 0.2, sup: 0.2 }, Math.min(p.m, 11000)); } },
+      'vendee-grand-littoral': { t: 'Aides 2026 pour les ménages modestes et très modestes, installation de plus de 15 ans, résidence principale ou location à l’année : 20 % de 10 000 € TTC au plus (bien acquis depuis 4 ans ou plus), 30 % ou 40 % (acquis depuis moins de 4 ans), plus 60 % de l’étude (300 € au plus).',
+        c: function (p) {
+          if (p.z === 'vol') return NO(NC); if (p.st === 'rs') return NO('résidences secondaires exclues');
+          var b = Math.min(p.m, 10000), recent = p.a === '0' || p.a === '1' || p.a === '2';
+          if (!p.cat) return { k: 'rng', lo: 0.2 * b, hi: (recent ? 0.4 : 0.2) * b, why: 'réservée aux ménages modestes et très modestes' };
+          if (p.cat !== 'tmo' && p.cat !== 'mo') return NO('réservée aux ménages modestes et très modestes');
+          var r = recent ? (p.cat === 'tmo' ? 0.4 : 0.3) : 0.2;
+          return { k: 'val', v: r * b, why: Math.round(r * 100) + ' % de ' + fmt(b) + (recent ? ' (bien acquis depuis moins de 4 ans)' : ' (bien acquis depuis 4 ans ou plus)') + ', plus jusqu’à 300 € pour l’étude' };
+        } },
+      'les-sables-d-olonne-agglomeration': { t: 'Jusqu’à 7 000 € selon les ressources du foyer (délibération de novembre 2021) ; conditions détaillées non publiées en ligne.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); return { k: 'max', v: Math.min(7000, p.m), why: 'selon vos ressources : conditions à demander au SPANC' }; } },
+      'challans-gois': { t: '60 % des études et travaux plafonnés à 10 000 € (6 000 € au plus) pour les ménages modestes et très modestes, 10 % (1 000 € au plus) pour les autres ; logement achevé avant le 01/01/2011, installation non conforme imposant des travaux.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); return byCat(p, { tmo: 0.6, mo: 0.6, int: 0.1, sup: 0.1 }, Math.min(p.m, 10000)); } },
+      'ile-de-noirmoutier': { t: '20, 30 ou 40 % d’un plafond de travaux de 8 000 € TTC, sans condition de revenus, pour un propriétaire depuis au moins 2 ans.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); if (p.a === '0' || p.a === '1') return NO('réservée aux propriétaires depuis au moins 2 ans'); var b = Math.min(p.m, 8000); return { k: 'rng', lo: 0.2 * b, hi: 0.4 * b, why: 'taux à confirmer par le SPANC' }; } },
+      'pays-de-mortagne': { t: '10 % des dépenses éligibles (étude et travaux) pour un logement construit avant le 01/01/2011, entreprises chartées, travaux après la décision d’attribution.',
+        c: function (p) { if (p.z === 'vol') return NO(NC); return { k: 'val', v: 0.1 * p.m, why: '10 % des dépenses, plafond non publié' }; } },
+      'sud-vendee-littoral': { t: 'Aides à la réhabilitation sous conditions (règlement d’aides 2025) ; montants non lisibles en ligne.',
+        c: function () { return { k: 'unk', why: 'montants non publiés en ligne : contactez le SPANC' }; } },
+      'vie-et-boulogne': { t: 'Aides pour les foyers très modestes à modestes et dans le périmètre de protection du captage d’Apremont ; montants non publiés.',
+        c: function () { return { k: 'unk', why: 'montants non publiés : contactez le SPANC' }; } }
+    };
+    var NONE = ['cap-atlantique', 'chateaubriant-derval', 'clisson-sevre-et-maine', 'estuaire-et-sillon', 'ile-d-yeu', 'la-roche-sur-yon-agglomeration', 'ocean-marais-de-monts', 'pays-d-ancenis', 'pays-de-blain', 'pays-des-achards', 'pontchateau-saint-gildas', 'terres-de-montaigu'];
+    var nzs = function (s) { return String(s).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/œ/g, 'oe').replace(/[^a-z0-9]+/g, ' ').trim(); };
+    var sopts = $$('#sa-communes option'), sc = $('#sa-c', sa), se = $('#sa-e', sa), scr = $('#sa-c-r', sa), out = $('.result', sa), shown = false, commune = '';
+    var findC = function () {
+      var v = nzs(sc.value); scr.textContent = ''; commune = '';
+      if (v.length < 2) return;
+      var hit = sopts.filter(function (o) { return nzs(o.value) === v; })[0];
+      if (!hit) { var c = sopts.filter(function (o) { return nzs(o.value).indexOf(v) === 0; }); if (c.length === 1) hit = c[0]; }
+      if (hit) { se.value = hit.getAttribute('data-s'); commune = hit.value; scr.textContent = hit.value + '\u00a0: ' + se.options[se.selectedIndex].text; }
+      else if (v.length > 3 && !sopts.some(function (o) { return nzs(o.value).indexOf(v) === 0; })) scr.textContent = 'Commune introuvable en Loire-Atlantique et en Vendée\u00a0: choisissez l’intercommunalité.';
+    };
+    var cap = function (s) { return s.charAt(0).toUpperCase() + s.slice(1); };
+    var li = function (h, a, b) { return '<li><b>' + h + '</b> — ' + a + (b ? ' <span class="src">' + b + '</span>' : '') + '</li>'; };
+    var amt = function (r) {
+      if (r.k === 'val') return fmt(r.v); if (r.k === 'max') return 'jusqu’à ' + fmt(r.v);
+      if (r.k === 'rng') return rng(Math.round(r.lo / 10) * 10, Math.round(r.hi / 10) * 10); return 'montant à confirmer';
+    };
+    var run = function () {
+      var slug = se.value;
+      if (!slug) { out.hidden = false; out.innerHTML = '<p class="sim-warn">Choisissez votre commune ou votre intercommunalité pour voir les aides de votre territoire.</p>'; return; }
+      var n = Math.max(1, Math.min(12, parseInt($('#sa-n', sa).value, 10) || 1)), rv = $('#sa-r', sa).value.replace(/[^0-9]/g, '');
+      var p = { n: n, r: rv === '' ? null : parseInt(rv, 10), st: $('#sa-s', sa).value, z: $('#sa-z', sa).value, a: $('#sa-a', sa).value, f: $('#sa-f', sa).value, m: Math.max(0, parseFloat($('#sa-m', sa).value) || 0) };
+      p.cat = catOf(n, p.r); p.mo11 = p.r !== null && p.r <= plafA('mo', n) * 1.1;
+      var name = se.options[se.selectedIndex].text, L = LOC[slug], r = L ? L.c(p) : null, ok = [], ko = [];
+      var fiche = '<a href="/spanc/' + slug + '#aides-aux-travaux">fiche ' + esc(name) + '</a>';
+      if (!L) { r = { k: 'none' }; ok.push(li('Aide de l’intercommunalité : aucune', 'rien trouvé pour ' + esc(name) + ' dans les documents publiés.', fiche)); }
+      else if (r.k === 'no') ko.push(li('Aide de l’intercommunalité (' + esc(name) + ')', cap(r.why) + '.', fiche));
+      else ok.push(li('Aide de l’intercommunalité (' + esc(name) + ') : ' + amt(r), esc(L.t) + (r.why ? ' <i>' + cap(r.why) + '.</i>' : ''), fiche));
+      var localOk = L && r.k !== 'no';
+      if (p.st === 'po' || p.st === 'acq') {
+        if (p.cat === 'tmo' && localOk) ok.push(li('Anah : complément possible', 'pour un propriétaire occupant très modeste, seulement en complément de l’aide de votre intercommunalité : taux de 35 % au plus, sur 20 000 € HT de travaux au plus. Montant fixé selon une instruction de l’Anah, à confirmer auprès de France Rénov’.', '<a href="https://www.anah.gouv.fr/sites/default/files/2026-07/Deliberation-2026-23_Regime-aides-applicable-aux-proprietaires-occupants.pdf" rel="noopener" target="_blank">délibération Anah n°\u00a02026-23</a>'));
+        else if (p.cat === 'tmo') ko.push(li('Anah', 'elle n’intervient qu’en complément d’une aide de collectivité, absente ici.'));
+        else if (!p.cat && localOk) ok.push(li('Anah : si vous êtes très modeste', 'complément possible pour un propriétaire occupant très modeste, uniquement avec une aide de collectivité. Indiquez votre revenu fiscal pour vérifier.'));
+        else if (!p.cat) ko.push(li('Anah', 'elle n’intervient qu’en complément d’une aide de collectivité, absente ici.'));
+        else ko.push(li('Anah', 'réservée aux propriétaires occupants très modestes (' + CATL[p.cat] + ' ici).'));
+      } else ko.push(li('Anah', 'pour l’assainissement, elle ne vise que les propriétaires occupants très modestes.'));
+      var eco = p.st !== 'rs' && p.f !== 'micro';
+      if (eco) ok.push(li('Éco-PTZ : jusqu’à 10 000 € à 0 %', 'prêt sans intérêts sur 15 ans au plus, sans condition de ressources, pour une résidence principale de plus de 2 ans' + (p.f === 'nsp' ? ', si la filière ne consomme pas d’électricité (micro-station exclue)' : '') + (p.st === 'acq' ? ' (une fois l’achat signé)' : '') + '. Entreprise RGE facultative.', '<a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F19905" rel="noopener" target="_blank">service-public, vérifié le 01/09/2026</a>'));
+      else ko.push(li('Éco-PTZ', p.st === 'rs' ? 'réservé aux résidences principales.' : 'il ne finance pas les dispositifs qui consomment de l’énergie, comme les micro-stations.'));
+      ok.push(li('TVA à 10 %', 'au lieu de 20 %, dans un logement achevé depuis plus de 2 ans : l’entreprise l’applique directement sur le devis.', '<a href="https://bofip.impots.gouv.fr/node/358116" rel="noopener" target="_blank">BOFiP</a>'));
+      ok.push(li('À demander aussi', 'retraité : votre caisse de retraite (aide ou prêt possible, montants non publiés) ; allocataire : le prêt amélioration de l’habitat de la CAF.'));
+      var big, aid = 0, ex = '';
+      if (r.k === 'val') { big = fmt(r.v) + ' d’aide locale estimée'; aid = r.v; }
+      else if (r.k === 'max') { big = 'Jusqu’à ' + fmt(r.v) + ' d’aide locale'; aid = r.v; }
+      else if (r.k === 'rng') big = amt(r) + ' d’aide locale';
+      else if (r.k === 'unk') big = 'Aide locale à confirmer';
+      else big = eco ? 'Éco-PTZ jusqu’à 10 000 € à 0 %' : 'Pas d’aide locale pour votre cas';
+      var sub = (r.k !== 'no' && r.k !== 'none' && eco) ? '+ éco-PTZ jusqu’à 10 000 € à 0 %' : '';
+      if (p.m > 0 && (r.k === 'val' || r.k === 'max' || r.k === 'no' || r.k === 'none')) {
+        var rest = Math.max(0, p.m - aid), mens = Math.min(rest, 10000) / 180;
+        ex = '<div class="note"><strong>Exemple sur vos chiffres' + (r.k === 'max' ? ' (aide maximale)' : '') + '</strong>' + fmt(p.m) + ' TTC de travaux' + (aid ? ' − ' + fmt(aid) + ' d’aide locale' : ', sans aide locale') + ' = <b>' + fmt(rest) + ' à votre charge</b>' +
+          (eco && rest > 0 ? (rest <= 10000 ? ', finançables en totalité' : ', dont 10 000 € finançables') + ' par l’éco-PTZ : environ ' + fmt(mens) + ' par mois sur 15 ans, sans intérêts (hors frais éventuels de la banque).' : '.') + '</div>';
+      } else if (r.k === 'rng' || r.k === 'unk') ex = '<p class="fine">Reste à charge : impossible à chiffrer précisément sans le barème de votre intercommunalité. Le professionnel ou le SPANC vous le confirme.</p>';
+      var tips = [];
+      if (p.z === 'nc') tips.push('Déposez la demande d’aide <b>avant de signer le devis</b> : c’est une condition presque partout.');
+      if (p.z === 'vente' && p.st === 'acq') tips.push('Acquéreur : vous avez <b>1 an après l’acte</b> pour faire les travaux. Faites-les chiffrer avant de signer : le coût entre dans la négociation.');
+      if (p.z === 'vente' && p.st !== 'acq') tips.push('Vendeur : vous n’êtes pas obligé de faire les travaux avant la vente, mais un devis chiffré rassure l’acquéreur et cadre la négociation.');
+      if (p.z === 'vol') tips.push('Sans non-conformité signalée, les aides locales ne s’appliquent pas en général : demandez un contrôle au SPANC si votre installation est ancienne.');
+      out.hidden = false;
+      out.innerHTML = ty('<div class="small">' + (p.cat ? 'Profil : ' + CATL[p.cat] + ' (barème Anah 2026, ' + n + ' pers.)' : 'Profil de revenus non renseigné') + ' · ' + esc(commune || name) + '</div>' +
+        '<div class="big">' + big + '</div>' + (sub ? '<p class="sim-sub">' + sub + '</p>' : '') +
+        '<ul class="sim-list">' + ok.join('') + '</ul>' + ex +
+        (tips.length ? '<ul class="sim-tips">' + tips.map(function (x) { return '<li>' + x + '</li>'; }).join('') + '</ul>' : '') +
+        (ko.length ? '<details class="sim-ko"><summary>Aides écartées pour votre cas (' + ko.length + ')</summary><ul>' + ko.join('') + '</ul></details>' : '') +
+        '<p class="fine">Estimation indicative à partir des règles publiées (dates sur les fiches et dans les sources ci-dessous). Les aides locales changent souvent : la décision revient à l’intercommunalité.</p>');
+      var precis = ('Simulateur aides : ' + (commune ? commune + ', ' : '') + name + ' · ' + n + ' pers., ' + (p.cat ? CATL[p.cat] : 'revenus non indiqués') + ' · ' +
+        { po: 'propriétaire occupant', pb: 'bailleur', acq: 'acquéreur', rs: 'résidence secondaire' }[p.st] + ' · ' + { nc: 'non-conformité SPANC', vente: 'vente/achat', vol: 'travaux volontaires' }[p.z] +
+        ' · travaux ' + fmt(p.m) + ' TTC · aide locale : ' + (r.k === 'no' || r.k === 'none' ? 'aucune' : amt(r)) + ' · éco-PTZ : ' + (eco ? 'oui' : 'non')).replace(/ /g, ' ');
+      if (precis.length > 300) precis = precis.slice(0, 299) + '…';
+      var cta = document.getElementById('demande');
+      if (cta) {
+        var np = document.createElement('div'); np.className = 'sim-cta';
+        np.innerHTML = ty('<a class="btn cta" href="#demande">Recevoir mon estimation et 1 ou 2 devis →</a><p class="small">Gratuit et sans engagement : votre estimation est jointe à la demande, et 1 ou 2 professionnels de votre secteur vous proposent un devis, avec votre accord.</p>');
+        $('a', np).setAttribute('data-precis', precis);
+        $('a', np).setAttribute('data-projet', p.st === 'acq' ? 'Achat d’une maison avec installation non conforme' : 'Mise aux normes / réhabilitation');
+        $('a', np).setAttribute('data-proprio', p.st === 'acq' ? 'En cours d’achat' : 'Propriétaire');
+        out.appendChild(np);
+      }
+    };
+    sc.addEventListener('input', function () { findC(); if (shown) run(); });
+    sc.addEventListener('change', function () { findC(); if (shown) run(); });
+    $$('select,input', sa).forEach(function (el) { if (el !== sc) { el.addEventListener('change', function () { if (el === se) { scr.textContent = ''; commune = ''; } if (shown) run(); }); if (el.type === 'number' || el.type === 'text') el.addEventListener('input', function () { if (shown) run(); }); } });
+    $('[data-sim-go]', sa).addEventListener('click', function () { shown = true; run(); });
+  }
+  document.addEventListener('input', function (e) { if (e.target && e.target.id === 'ld-precisions') e.target.dataset.auto = '0'; });
+  /* Préremplissage du formulaire depuis un simulateur (lien portant data-precis) */
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest ? e.target.closest('a[data-precis]') : null; if (!a) return;
+    var lf2 = document.getElementById('demande'); if (!lf2) return;
+    var pr = $('#ld-precisions', lf2);
+    if (pr && (!pr.value || pr.dataset.auto === '1')) { pr.value = a.getAttribute('data-precis'); pr.dataset.auto = '1'; }
+    [['#ld-projet', 'data-projet'], ['#ld-proprio', 'data-proprio']].forEach(function (x) {
+      var s = $(x[0], lf2), v = a.getAttribute(x[1]); if (!s || !v) return;
+      $$('option', s).forEach(function (o) { if (o.textContent === v) s.value = o.value || o.textContent; });
+    });
+    setTimeout(function () { var cp = $('#ld-cp', lf2); if (cp) cp.focus({ preventScroll: true }); }, 400);
+  });
 })();
