@@ -289,3 +289,24 @@ input[type=text],input[type=email],input[type=tel],textarea{font:inherit;padding
 .lead-teaser span{font-size:.9rem;color:var(--muted)}
 #demande{scroll-margin-top:84px}
 @media (max-width:640px){.ill{overflow-x:auto;-webkit-overflow-scrolling:touch;margin-left:-4px;margin-right:-4px}.ill img{min-width:640px}.ill::after{content:"← Faites glisser pour voir tout le schéma →";display:block;text-align:center;font-size:.8rem;color:var(--muted);margin-top:6px;position:sticky;left:0;width:calc(100vw - 40px)}}
+
+/* ===== Simulateur d'aides (octobre 2026) ===== */
+.tool.sim{border:2px solid var(--brand-2);overflow-wrap:break-word}
+.sim .result[hidden]{display:none}
+.sim [data-sim-go]{width:100%;margin-top:4px}
+.sim-sub{font-weight:700;color:var(--ink-2);margin:.35em 0 0}
+.sim-list,.sim-tips{padding-left:1.15em}
+.sim-list li,.sim-ko li{margin:.5em 0}
+.sim .src{display:block;font-size:.82rem;color:var(--muted)}
+.sim-tips{margin:.9em 0 0;font-size:.95rem}
+.sim-ko{margin-top:.9em;font-size:.92rem}
+.sim-ko summary{cursor:pointer;font-weight:650;color:var(--ink-2);padding:6px 0}
+.sim-ko ul{padding-left:1.15em}
+.sim-cta{margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}
+.sim-cta .btn{width:100%;white-space:normal;text-align:center;line-height:1.3}
+.sim-cta .small{margin:.5em 0 0}
+.sim-warn{margin:0;font-weight:650;color:var(--warn)}
+.sim-meta{margin-top:12px}
+.sim-mention{margin:.2em 0 1em;font-weight:650}
+.sim-encart .btn{margin-top:8px}
+@media (min-width:621px){.sim [data-sim-go],.sim-cta .btn{width:auto}}
