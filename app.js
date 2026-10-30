@@ -372,6 +372,21 @@
     };
     cq.addEventListener('input', cgo); cq.addEventListener('change', cgo);
   }
+  /* ---------- 12 bis. Pages « SPANC par commune » : filtre du tableau ---------- */
+  var fc = document.getElementById('filtre-communes');
+  if (fc) {
+    var nzf = function (s) { return String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/œ/g, 'oe').replace(/[^a-z0-9]+/g, ' ').trim(); };
+    var ftb = document.getElementById(fc.getAttribute('data-filter'));
+    var frows = ftb ? [].slice.call(ftb.querySelectorAll('tbody tr')) : [];
+    var fr = document.getElementById('filtre-communes-r');
+    var ff = function () {
+      var v = nzf(fc.value), n = 0;
+      frows.forEach(function (tr) { var ok = !v || (' ' + nzf(tr.getAttribute('data-q'))).indexOf(' ' + v) !== -1; tr.style.display = ok ? '' : 'none'; if (ok) n++; });
+      if (fr) fr.textContent = n === 0 ? 'Aucune commune trouvée : vérifiez l’orthographe ou tapez le début du nom.' : (n + (n > 1 ? ' communes affichées.' : ' commune affichée.'));
+    };
+    fc.addEventListener('input', ff);
+    try { var q0 = new URLSearchParams(location.search).get('commune'); if (q0) { fc.value = q0; ff(); } } catch (e) {}
+  }
   /* ---------- 13. Simulateur « Quelles aides pour votre assainissement ? » ----------
      Plafonds de revenus Anah 2026 hors Île-de-France (guide des aides de l'Anah, édition septembre 2026).
      Aides locales : reprises des fiches /spanc/* (fiches ANIL et documents des collectivités, dates indiquées sur chaque fiche).
