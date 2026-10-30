@@ -2158,7 +2158,7 @@ Aucune aide locale propre à Terres de Montaigu n’a été trouvée dans les do
 Pénalités en cas de non-conformité
 Redevance majorée jusqu'à 400 % en cas d'obstacle au contrôle ou de non-réalisation des travaux après une vente. Une pénalité annuelle au titre de l'article L1331-8 est prévue, sans que son montant de base soit précisé.
 Communes concernées
-Liste des communes non trouvée sur une source officielle dédiée au SPANC.
+9 communes (découpage intercommunal officiel, Insee) : Cugand-la-Bernardière, La Boissière-de-Montaigu, La Bruffière, L’Herbergement, Montaigu-Vendée, Montréverd, Rocheservière, Saint-Philbert-de-Bouaine, Treize-Septiers.
 Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 Le contrôle de vente d'une installation de moins de 20 équivalents-habitants est facturé 169 € TTC (grille 2023, délibération du 12/12/2022). Les autres tarifs ne sont pas publiés en ligne.
@@ -2166,7 +2166,7 @@ Tous les combien a lieu le contrôle périodique ?
 Le contrôle périodique a lieu tous les 10 ans, conformément à la délibération du 18/12/2017 applicable depuis le 01/01/2018.
 Qui contacter pour une demande de contrôle ?
 Le service assainissement de Terres de Montaigu est joignable au 02 51 46 45 45 ou par courriel à assainissement@terresdemontaigu.fr. Une démarche en ligne permet de demander un contrôle.
-Limites de cette fiche. Tous les tarifs sauf la vente (169 € TTC, grille 2023) sont non trouvés : grilles 2024, 2025 et 2026 adoptées mais non publiées en ligne. Liste des communes non trouvée. Nombre d'installations non trouvé. Aides locales non trouvées. Mode de gestion non précisé dans le règlement. Page officielle ANC non accessible lors de la recherche. Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Tous les tarifs sauf la vente (169 € TTC, grille 2023) sont non trouvés : grilles 2024, 2025 et 2026 adoptées mais non publiées en ligne. Liste des communes reprise du découpage intercommunal officiel (Insee), faute de liste sur la page SPANC. Nombre d'installations non trouvé. Aides locales non trouvées. Mode de gestion non précisé dans le règlement. Page officielle ANC non accessible lors de la recherche. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -2310,7 +2310,7 @@ Aucune aide locale propre à Océan Marais de Monts n’a été trouvée dans le
 Chiffres locaux
 Environ 2 800 installations
 Communes concernées
-Communes non listées sur la page SPANC.
+5 communes (découpage intercommunal officiel, Insee) : La Barre-de-Monts, Le Perrier, Notre-Dame-de-Monts, Saint-Jean-de-Monts, Soullans.
 Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 Le contrôle lors d'une cession immobilière est facturé 110 € TTC pour une installation standard et 220 € TTC au-delà de 20 équivalents-habitants (année non précisée).
@@ -2318,7 +2318,7 @@ Combien coûtent les contrôles d'une installation neuve ?
 Le contrôle de conception coûte 60 € et le contrôle de réalisation 110 € (tarifs affichés pour 2026, mention HT/TTC non précisée).
 Qui contacter au SPANC d'Océan Marais de Monts ?
 Le SPANC est joignable au 02 51 58 45 88 ou par courriel à assainissement@omdm.fr, à la Maison du Développement Intercommunal, 46 place de la Paix à Saint-Jean-de-Monts.
-Limites de cette fiche. Tarif du contrôle périodique et de la contre-visite non trouvés. Année du tarif de vente non précisée ; HT/TTC non précisé pour conception et réalisation. Aides locales non trouvées. Pénalités non trouvées. Liste des communes non trouvée. Mode de gestion non trouvé (aucun délégataire mentionné). Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Tarif du contrôle périodique et de la contre-visite non trouvés. Année du tarif de vente non précisée ; HT/TTC non précisé pour conception et réalisation. Aides locales non trouvées. Pénalités non trouvées. Liste des communes reprise du découpage intercommunal officiel (Insee), faute de liste sur la page SPANC. Mode de gestion non trouvé (aucun délégataire mentionné). Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -2462,7 +2462,7 @@ Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % 
 Pénalités en cas de non-conformité
 Obstacle au contrôle : 200 % de la redevance de contrôle, renouvelable chaque année. Absence d'installation ou travaux non réalisés : montant égal aux redevances de conception et de bonne exécution majoré de 200 %, renouvelable annuellement (non appliqué si les travaux sont réalisés sous 12 mois). Installation non autorisée : montant égal à la redevance de bonne exécution (ou conception + exécution).
 Communes concernées
-Territoire de 43 communes (68 643 habitants DGF 2019 d'après le règlement) ; liste non publiée sur la page SPANC.
+42 communes (découpage intercommunal officiel, Insee) : Bessay, Chaillé-les-Marais, Champagné-les-Marais, Chasnais, Château-Guibert, Corpe, Grues, La Bretonnière-la-Claye, La Caillère-Saint-Hilaire, La Chapelle-Thémer, La Couture, La Jaudonnière, La Réorthe, La Taillée, La Tranche-sur-Mer, Lairoux, Le Gué-de-Velluire, Les Magnils-Reigniers, Les Pineaux, Luçon, L’Aiguillon-la-Presqu’île, L’Île-d’Elle, Mareuil-sur-Lay-Dissais, Moreilles, Moutiers-sur-le-Lay, Nalliers, Puyravault, Péault, Rosnay, Saint-Aubin-la-Plaine, Saint-Denis-du-Payré, Saint-Jean-d’Hermine, Saint-Juire-Champgillon, Saint-Martin-Lars-en-Sainte-Hermine, Saint-Michel-en-l’Herm, Saint-Étienne-de-Brillouet, Sainte-Gemme-la-Plaine, Sainte-Pexine, Sainte-Radégonde-des-Noyers, Thiré, Triaize, Vouillé-les-Marais.
 Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 Le diagnostic de vente est facturé 160 € pour toutes les installations. Un contrôle complémentaire après avis défavorable coûte 50 € (année et mention HT/TTC non précisées).
@@ -2470,7 +2470,7 @@ Combien coûte le contrôle périodique ?
 Le contrôle de bon fonctionnement périodique coûte 160 € pour une installation jusqu'à 20 EH et 280 € au-delà. Il a lieu tous les 8 ans, avec un contrôle annuel possible tant que des travaux obligatoires sont en attente.
 Qui contacter au SPANC de Sud Vendée Littoral ?
 Le SPANC est joignable au 02 51 30 51 15 ou par courriel à spanc@sudvendeelittoral.fr. Il est installé 22 route de Nantes à Sainte-Hermine.
-Limites de cette fiche. Année et mention HT/TTC des tarifs non précisées. Règlement d'aides 2025 en PDF scanné : montants des aides non trouvés. Nombre d'installations non trouvé. Liste des 43 communes non trouvée. Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Année et mention HT/TTC des tarifs non précisées. Règlement d'aides 2025 en PDF scanné : montants des aides non trouvés. Nombre d'installations non trouvé. Liste des communes reprise du découpage intercommunal officiel (Insee), faute de liste sur la page SPANC. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -2599,7 +2599,7 @@ Aides aux travaux
 Subvention de 700 € pour les propriétaires occupants ou bailleurs d'un logement de plus de 15 ans (résidence principale ou secondaire), hors mise aux normes consécutive à une vente, sous réserve d'un diagnostic préalable et du respect de la procédure du SPANC. Cumul possible avec l'Anah et l'éco-PTZ (fiche ANIL à jour au 25/03/2026).
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
 Communes concernées
-Liste des communes non trouvée sur la page SPANC.
+15 communes (découpage intercommunal officiel, Insee) : Benet, Bouillé-Courdault, Damvix, Faymoreau, Le Mazeau, Liez, Maillezais, Maillé, Puy-de-Serre, Rives-d’Autise, Saint-Hilaire-des-Loges, Saint-Pierre-le-Vieux, Saint-Sigismond, Vix, Xanton-Chassenon.
 Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 Le contrôle en cas de cession immobilière est facturé 200 € (année et mention HT/TTC non précisées).
@@ -2607,7 +2607,7 @@ Combien coûtent les contrôles d'une installation neuve ou réhabilitée ?
 Un forfait de 150 € couvre la conception, l'implantation et la bonne exécution, pour une installation neuve comme pour une réhabilitation.
 Y a-t-il une aide pour les travaux ?
 Oui, une subvention de 700 € est proposée aux propriétaires d'un logement de plus de 15 ans, hors mise aux normes liée à une vente, après diagnostic préalable. Elle est cumulable avec l'Anah et l'éco-PTZ.
-Limites de cette fiche. Année des tarifs non précisée ; HT/TTC non précisé. Tarif de la contre-visite non trouvé. Pénalités non trouvées (règlement de service en PDF illisible). Nombre d'installations non trouvé. Liste des communes non trouvée. Mode de gestion non précisé. Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Année des tarifs non précisée ; HT/TTC non précisé. Tarif de la contre-visite non trouvé. Pénalités non trouvées (règlement de service en PDF illisible). Nombre d'installations non trouvé. Liste des communes reprise du découpage intercommunal officiel (Insee), faute de liste sur la page SPANC. Mode de gestion non précisé. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -2868,7 +2868,7 @@ Aides aux travaux
 Subvention de 800 € pour les propriétaires occupants ou bailleurs d'une maison individuelle dont l'installation est classée non conforme (bâtiments sans installation exclus). Cumul possible avec l'Anah et l'éco-PTZ (fiche ANIL à jour au 26/03/2026). Un formulaire de demande de subvention au 01/09/2026 est proposé par la Communauté de communes.
 Ces aides locales se cumulent en général avec l’ éco-PTZ et la TVA à 10 % . Les conditions changent d’une année à l’autre : confirmez-les auprès du service avant de signer un devis.
 Communes concernées
-12 communes ; liste non trouvée sur les pages SPANC.
+12 communes (découpage intercommunal officiel, Insee) : Bazoges-en-Paillers, Chauché, Chavagnes-en-Paillers, Essarts-en-Bocage, La Copechagnière, La Merlatière, La Rabatelière, Les Brouzils, L’Oie, Saint-André-Goule-d’Oie, Saint-Fulgent, Sainte-Florence.
 Questions fréquentes
 Combien coûte le contrôle en cas de vente ?
 Le contrôle de vente est facturé 200,00 €. Le contrôle périodique de fonctionnement et la contre-visite coûtent 120,00 € chacun (année et mention HT/TTC non précisées).
@@ -2876,7 +2876,7 @@ Tous les combien a lieu le contrôle périodique ?
 Tous les 8 ans pour les installations conformes, 6 ans pour les non conformes et 4 ans pour les non conformes présentant un risque sanitaire. Les contrôles sont réalisés par la SAUR pour le compte de la Communauté de communes.
 Y a-t-il une aide pour les travaux ?
 Oui, une subvention de 800 € est proposée aux propriétaires d'une maison individuelle dont l'installation est classée non conforme, cumulable avec l'Anah et l'éco-PTZ.
-Limites de cette fiche. Année des tarifs non précisée ; HT/TTC non précisé. Pénalités non trouvées (règlement en PDF scanné). Nombre d'installations non trouvé. Liste des 12 communes non trouvée. Si vous constatez une erreur, écrivez-moi .
+Limites de cette fiche. Année des tarifs non précisée ; HT/TTC non précisé. Pénalités non trouvées (règlement en PDF scanné). Nombre d'installations non trouvé. Liste des communes reprise du découpage intercommunal officiel (Insee), faute de liste sur la page SPANC. Si vous constatez une erreur, écrivez-moi .
 À lire aussi
 L’assainissement individuel en Vendée
 Tous les SPANC de Vendée, les tarifs relevés, les aides et les pénalités, intercommunalité par intercommunalité.
@@ -3654,3 +3654,479 @@ Le Petit Vidangeur — grille tarifaire publique (source commerciale, page modif
 URL : https://reperes-assainissement.fr/entretien-micro-station
 
 En bref La loi impose un entretien régulier par le propriétaire et une vidange par un vidangeur agréé (arrêté du 7 septembre 2009, article 15). Une micro-station se vidange en général dès que les boues atteignent 30 % du volume : le seuil exact figure dans son guide d’utilisation. Le contrat d’entretien n’est pas obligatoire, mais il est fortement conseillé par les SPANC. Ne coupez jamais l’électricité, même pendant les vacances. Recevoir un devis gratuit 2 étapes · réponse sous 24 h ouvrées · sans engagement L’entretien d’une micro-station tient en trois règles : laisser l’appareil alimenté en permanence, faire vidanger le décanteur dès que les boues atteignent le seuil de son agrément (souvent 30 %), et faire changer les pièces d’usure à temps. La micro-station traite les eaux usées avec de l’air injecté par un compresseur. C’est efficace sur un petit terrain, mais c’est une petite usine : sans entretien, elle rejette des eaux mal traitées et le SPANC le verra au contrôle périodique. Sommaire Ce que dit la loi Quand vidanger une micro-station ? Le calendrier d’entretien Le contrat d’entretien est-il obligatoire ? Combien coûte l’entretien ? Vacances et résidence secondaire Entretien d’une micro-station : ce que dit la loi L’article 15 de l’arrêté du 7 septembre 2009 s’applique à toutes les installations, micro-stations comprises. Elles doivent être « entretenues régulièrement par le propriétaire » et vidangées par des personnes agréées par le préfet . Le texte ajoute qu’elles doivent être vérifiées et entretenues « aussi souvent que nécessaire ». L’article 16 impose un guide d’utilisation , remis au propriétaire à l’installation. Il décrit le fonctionnement et l’entretien du modèle, et contient une partie où l’on note la date et la nature de chaque intervention. Gardez-le avec les bordereaux de vidange : c’est ce que le SPANC vous demandera au contrôle périodique (voir le contrôle du SPANC ). Vous l’avez perdu ? Les guides d’utilisation des modèles agréés sont publiés sur le portail ministériel de l’assainissement non collectif. Il suffit de connaître la marque et la référence exacte de votre appareil, inscrites sur la plaque ou sur la facture. Quand vidanger une micro-station ? Pour une fosse toutes eaux, la règle est de vidanger avant que les boues dépassent 50 % du volume utile. Pour une micro-station, c’est l’avis d’agrément du modèle qui fixe le seuil , et il est plus bas. Deux exemples publiés : Le guide Innoclair Nouvelle Génération demande une vidange quand la hauteur de boues atteint 30 % du volume utile du bassin d’aération (0,63 m³ pour une cuve de 2,1 m³). Le guide d’entretien du SPANC de Charente Limousine retient aussi 30 % de remplissage du décanteur primaire , et rappelle qu’une micro-station se vidange plus souvent qu’une fosse classique. En pratique, c’est le technicien d’entretien qui mesure la hauteur de boues à chaque visite et vous dit quand appeler le vidangeur. Le vidangeur doit être agréé : la liste officielle est sur nos pages vidangeurs agréés en Loire-Atlantique et en Vendée . Le piège classique Une vidange trop tardive envoie des boues dans le traitement : odeurs, eau trouble en sortie, voire panne du compresseur. Si cela vous arrive, voir odeurs et débordement : que faire . Le calendrier d’entretien d’une micro-station Les intervalles ci-dessous viennent des documents cités en bas de page. Celui de votre modèle peut différer : le guide d’utilisation fait foi. Opération Fréquence Qui Source Contrôle visuel (odeurs, bruit, voyant d’alarme, couvercles) Fréquent, plusieurs fois par an Vous SPANC Charente Limousine, Innoclair Nettoyage du préfiltre (s’il existe) 1 à 2 fois par an Vous ou le technicien SPANC Charente Limousine Nettoyage du filtre à air du compresseur 1 fois par an Vous ou le technicien SPANC Charente Limousine, Innoclair Nettoyage des diffuseurs d’air 1 fois par an Technicien SPANC Charente Limousine Mesure de la hauteur de boues À chaque visite Technicien Innoclair Membrane du compresseur Tous les 5 ans Professionnel uniquement Innoclair Pompe de recirculation Environ 7 ans Professionnel Innoclair Compresseur Environ 15 ans Professionnel Innoclair Le contrat d’entretien est-il obligatoire ? Non, aucun texte national n’impose de signer un contrat d’entretien. L’obligation porte sur le résultat : une installation entretenue et vidangée par un professionnel agréé. Mais le SPANC de Charente Limousine le dit sans détour : le contrat proposé par le fabricant est « fortement conseillé », parce que l’entretien d’une micro-station est technique. Sans contrat, vous devez faire vous-même ce que prévoit le guide et pouvoir le prouver. Mon avis : pour une micro-station, le contrat se justifie dès que vous n’êtes pas à l’aise pour ouvrir le compresseur ou mesurer un voile de boues. Avant de signer, demandez ce qui est inclus : nombre de visites par an, mesure des boues, pièces d’usure, déplacement en cas d’alarme, délai d’intervention. Combien coûte l’entretien d’une micro-station ? Poste Montant indicatif Source Contrat d’entretien 100 à 250 € par an Fourchette de ce guide (voir le comparatif ) Vidange par un vidangeur agréé 200 à 350 € par vidange Voir entretien et vidange Électricité 168 kWh par an mesurés en essai, 249 kWh par an modélisés (environ 39 € par an aux tarifs 2020) Guide Innoclair, modèle 6 EH Membrane du compresseur 50 € HT la pièce, tous les 5 ans Guide Innoclair Pompe de recirculation 200 € HT, environ tous les 7 ans Guide Innoclair Sur 15 ans, le guide Innoclair chiffre le coût total (achat, électricité, pièces, vidanges, hors contrat) entre 11 929 € et 16 688 € HT selon le modèle et le niveau d’entretien choisi. C’est le chiffre à comparer avec un filtre compact, qui ne consomme pas d’électricité : voir micro-station ou filtre compact . Micro-station et vacances : faut-il couper le courant ? Non, jamais. Le guide Innoclair l’écrit noir sur blanc : il est interdit d’arrêter l’alimentation électrique du dispositif, même en cas d’absence. Sans air, les bactéries qui épurent l’eau meurent, et le redémarrage peut prendre des semaines avec des rejets mal traités entre-temps. Laissez le disjoncteur dédié enclenché et vérifiez que le voyant d’alarme est éteint avant de partir. Pour une résidence secondaire , la micro-station est en général déconseillée, et certains avis d’agrément l’excluent pour un usage intermittent. Vérifiez la mention dans l’avis d’agrément de votre modèle avant d’acheter, et regardez les autres solutions sur le choix de la filière . Avant le contrôle du SPANC : la checklist Le guide d’utilisation du modèle, avec la partie entretien remplie. Les bordereaux de vidange des dernières années. Les factures ou comptes rendus de visite d’entretien. Un accès dégagé aux tampons et au compresseur. Pour savoir quel SPANC vous contrôle et à quel tarif : SPANC de Loire-Atlantique et SPANC de Vendée .
+
+---
+
+# SPANC par commune en Loire-Atlantique : trouvez le vôtre
+URL : https://reperes-assainissement.fr/spanc-par-commune-loire-atlantique
+
+Les 207 communes de la Loire-Atlantique et leur SPANC : téléphone, prix du contrôle à la vente et fiche détaillée. Tapez votre commune, la réponse s’affiche.
+
+- Abbaretz : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- Aigrefeuille-sur-Maine : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Ancenis-Saint-Géréon : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Assérac : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Avessac : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Basse-Goulaine : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Batz-sur-Mer : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Besné : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Blain : SPANC Pays de Blain Communauté, tél. 02 40 87 36 35, contrôle à la vente 200 €
+- Bouaye : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Bouée : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Bouguenais : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Boussay : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Bouvron : SPANC Pays de Blain Communauté, tél. 02 40 87 36 35, contrôle à la vente 200 €
+- Brains : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Campbon : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Carquefou : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Casson : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Château-Thébaud : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Châteaubriant : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Chaumes-en-Retz : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Chauvé : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Cheix-en-Retz : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Clisson : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Conquereuil : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Corcoué-sur-Logne : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Cordemais : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Corsept : SPANC Sud Estuaire, tél. 02 40 27 03 00, contrôle à la vente 194 €
+- Couëron : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Couffé : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Crossac : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Derval : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Divatte-sur-Loire : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Donges : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Drefféac : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Erbray : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Fay-de-Bretagne : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Fégréac : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Fercé : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Frossay : SPANC Sud Estuaire, tél. 02 40 27 03 00, contrôle à la vente 194 €
+- Geneston : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Gétigné : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Gorges : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Grand-Auverné : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Grandchamp-des-Fontaines : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Guémené-Penfao : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Guenrouet : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Guérande : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Haute-Goulaine : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Herbignac : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Héric : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Indre : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Issé : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Jans : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Joué-sur-Erdre : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Juigné-des-Moutiers : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- La Baule-Escoublac : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- La Bernerie-en-Retz : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- La Boissière-du-Doré : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- La Chapelle-des-Marais : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- La Chapelle-Glain : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- La Chapelle-Heulin : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- La Chapelle-Launay : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- La Chapelle-sur-Erdre : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- La Chevallerais : SPANC Pays de Blain Communauté, tél. 02 40 87 36 35, contrôle à la vente 200 €
+- La Chevrolière : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- La Grigonnais : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- La Haie-Fouassière : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- La Limouzinière : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- La Marne : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- La Meilleraye-de-Bretagne : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- La Montagne : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- La Plaine-sur-Mer : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- La Planche : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- La Regrippière : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- La Remaudière : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- La Roche-Blanche : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- La Turballe : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Lavau-sur-Loire : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Le Bignon : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Le Cellier : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Le Croisic : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Le Gâvre : SPANC Pays de Blain Communauté, tél. 02 40 87 36 35, contrôle à la vente 200 €
+- Le Landreau : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Le Loroux-Bottereau : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Le Pallet : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Le Pellerin : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Le Pin : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Le Pouliguen : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Le Temple-de-Bretagne : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Legé : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Les Moutiers-en-Retz : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Les Sorinières : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Les Touches : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Ligné : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Loireauxence : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Louisfert : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Lusanger : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Machecoul-Saint-Même : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Maisdon-sur-Sèvre : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Malville : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Marsac-sur-Don : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Massérac : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Mauves-sur-Loire : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Mésanger : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Mesquer : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Missillac : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Moisdon-la-Rivière : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Monnières : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Montbert : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Montoir-de-Bretagne : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Montrelais : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Mouais : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Mouzeil : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Mouzillon : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Nantes : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Nort-sur-Erdre : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Notre-Dame-des-Landes : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Noyal-sur-Brutz : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Nozay : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- Orvault : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Oudon : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Paimbœuf : SPANC Sud Estuaire, tél. 02 40 27 03 00, contrôle à la vente 194 €
+- Pannecé : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Paulx : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Petit-Auverné : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Petit-Mars : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Pierric : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Piriac-sur-Mer : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Plessé : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Pont-Saint-Martin : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Pontchâteau : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Pornic : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Pornichet : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Port-Saint-Père : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Pouillé-les-Côteaux : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Préfailles : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Prinquiau : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Puceul : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- Quilly : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Remouillé : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Rezé : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Riaillé : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Rouans : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Rougé : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Ruffigné : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Saffré : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- Saint-Aignan-Grandlieu : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Saint-André-des-Eaux : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Saint-Aubin-des-Châteaux : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Saint-Brevin-les-Pins : SPANC Sud Estuaire, tél. 02 40 27 03 00, contrôle à la vente 194 €
+- Saint-Colomban : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Saint-Étienne-de-Mer-Morte : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Saint-Étienne-de-Montluc : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Saint-Fiacre-sur-Maine : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Saint-Gildas-des-Bois : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Saint-Herblain : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Saint-Hilaire-de-Chaléons : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Saint-Hilaire-de-Clisson : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Saint-Jean-de-Boiseau : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Saint-Joachim : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Saint-Julien-de-Concelles : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Saint-Julien-de-Vouvantes : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Saint-Léger-les-Vignes : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Saint-Lumine-de-Clisson : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Saint-Lumine-de-Coutais : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Saint-Lyphard : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Saint-Malo-de-Guersac : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Saint-Mars-de-Coutais : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Saint-Mars-du-Désert : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Saint-Michel-Chef-Chef : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Saint-Molf : SPANC Cap Atlantique, tél. 02 28 54 17 20, contrôle à la vente 88,72 € HT / 97,59 € TTC
+- Saint-Nazaire : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Saint-Nicolas-de-Redon : SPANC Redon Agglomération (communes du 44), tél. 02 99 70 34 34, contrôle à la vente 220 € HT
+- Saint-Père-en-Retz : SPANC Sud Estuaire, tél. 02 40 27 03 00, contrôle à la vente 194 €
+- Saint-Philbert-de-Grand-Lieu : SPANC Grand Lieu Communauté, tél. 02 51 78 47 82, contrôle à la vente 260 €
+- Saint-Sébastien-sur-Loire : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Saint-Viaud : SPANC Sud Estuaire, tél. 02 40 27 03 00, contrôle à la vente 194 €
+- Saint-Vincent-des-Landes : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Sainte-Anne-sur-Brivet : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Sainte-Luce-sur-Loire : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Sainte-Pazanne : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Sainte-Reine-de-Bretagne : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Sautron : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Savenay : SPANC Estuaire et Sillon, tél. 02 28 00 98 34, contrôle à la vente 230 € TTC
+- Sévérac : SPANC Pays de Pontchâteau – Saint-Gildas-des-Bois, tél. 02 40 45 05 30, contrôle à la vente 234 € TTC
+- Sion-les-Mines : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Soudan : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Soulvache : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Sucé-sur-Erdre : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Teillé : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Thouaré-sur-Loire : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Touvois : SPANC Sud Retz Atlantique, tél. 02 40 02 32 62, contrôle à la vente 220 €
+- Trans-sur-Erdre : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Treffieux : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- Treillières : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Trignac : SPANC CARENE – Saint-Nazaire Agglomération, tél. 02 40 17 83 00, contrôle à la vente 100,04 € HT
+- Vair-sur-Loire : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Vallet : SPANC Sèvre et Loire, tél. 02 51 71 75 71, contrôle à la vente 250 €
+- Vallons-de-l’Erdre : SPANC Pays d’Ancenis (COMPA), tél. 02 40 96 31 89, contrôle à la vente 200,00 €
+- Vay : SPANC CC de Nozay, tél. 02 40 79 51 51, contrôle à la vente 143,43 € TTC
+- Vertou : SPANC Nantes Métropole, tél. 02 40 95 99 09, contrôle à la vente voir la fiche
+- Vieillevigne : SPANC Clisson Sèvre et Maine Agglo, tél. 02 40 54 41 42, contrôle à la vente 185 €
+- Vigneux-de-Bretagne : SPANC Erdre et Gesvres, tél. 02 28 02 01 05, contrôle à la vente 310 €
+- Villeneuve-en-Retz : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+- Villepot : SPANC Châteaubriant-Derval, tél. 02 40 07 77 40, contrôle à la vente 130 €
+- Vue : SPANC Pornic Agglo Pays de Retz, tél. 02 51 74 07 16, contrôle à la vente 241 €
+
+---
+
+# SPANC par commune en Vendée : trouvez le vôtre
+URL : https://reperes-assainissement.fr/spanc-par-commune-vendee
+
+Les 253 communes de Vendée et leur SPANC : téléphone, prix du contrôle à la vente et fiche détaillée. Tapez votre commune, la réponse s’affiche.
+
+- Aizenay : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Angles : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Antigny : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Apremont : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Aubigny-Les Clouzeaux : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Auchay-sur-Vendée : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Avrillé : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Barbâtre : SPANC Île de Noirmoutier, tél. 02 51 35 89 87, contrôle à la vente 100 €
+- Bazoges-en-Paillers : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Bazoges-en-Pareds : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Beaufou : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Beaulieu-sous-la-Roche : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Beaurepaire : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Beauvoir-sur-Mer : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Bellevigny : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Benet : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Bessay : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Bois-de-Céné : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Bouillé-Courdault : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Bouin : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Bourneau : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Bournezeau : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Brem-sur-Mer : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Bretignolles-sur-Mer : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Chaillé-les-Marais : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Challans : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Champagné-les-Marais : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Chantonnay : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Chanverrie : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Chasnais : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Château-Guibert : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Châteauneuf : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Chauché : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Chavagnes-en-Paillers : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Chavagnes-les-Redoux : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Cheffois : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Coëx : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Commequiers : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Corpe : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Cugand-la-Bernardière : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- Curzon : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Damvix : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Doix lès Fontaines : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Dompierre-sur-Yon : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Essarts-en-Bocage : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Falleron : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Faymoreau : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Fontenay-le-Comte : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Fougeré : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Foussais-Payré : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Froidfond : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Givrand : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Grand’Landes : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Grosbreuil : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Grues : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Jard-sur-Mer : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- L’Aiguillon-la-Presqu’île : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- L’Aiguillon-sur-Vie : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- L’Épine : SPANC Île de Noirmoutier, tél. 02 51 35 89 87, contrôle à la vente 100 €
+- L’Herbergement : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- L’Hermenault : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- L’Île-d’Elle : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- L’Île-d’Olonne : SPANC Sables d’Olonne Agglomération, tél. 02 51 23 16 00, contrôle à la vente 140 €
+- L’Île-d’Yeu : SPANC L’Île-d’Yeu, tél. 02 51 59 59 75, contrôle à la vente 150 € HT
+- L’Oie : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- L’Orbrie : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- La Barre-de-Monts : SPANC Océan Marais de Monts, tél. 02 51 58 45 88, contrôle à la vente 110 € TTC
+- La Boissière-de-Montaigu : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- La Boissière-des-Landes : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- La Bretonnière-la-Claye : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Bruffière : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- La Caillère-Saint-Hilaire : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Chaize-Giraud : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- La Chaize-le-Vicomte : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- La Chapelle-Hermier : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- La Chapelle-Palluau : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- La Chapelle-Thémer : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Châtaigneraie : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- La Copechagnière : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- La Couture : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Ferrière : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- La Garnache : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- La Gaubretière : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- La Genétouze : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- La Guérinière : SPANC Île de Noirmoutier, tél. 02 51 35 89 87, contrôle à la vente 100 €
+- La Jaudonnière : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Jonchère : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- La Meilleraie-Tillay : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- La Merlatière : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- La Rabatelière : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- La Réorthe : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Roche-sur-Yon : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- La Taillée : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- La Tranche-sur-Mer : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Lairoux : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Landeronde : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Landevieille : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Le Bernard : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Le Boupère : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Le Champ-Saint-Père : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Le Fenouiller : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Le Girouard : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Le Givre : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Le Gué-de-Velluire : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Le Langon : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Le Mazeau : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Le Perrier : SPANC Océan Marais de Monts, tél. 02 51 58 45 88, contrôle à la vente 110 € TTC
+- Le Poiré-sur-Vie : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Le Tablier : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Les Achards : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Les Brouzils : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Les Epesses : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Les Herbiers : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Les Landes-Genusson : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Les Lucs-sur-Boulogne : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Les Magnils-Reigniers : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Les Pineaux : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Les Sables-d’Olonne : SPANC Sables d’Olonne Agglomération, tél. 02 51 23 16 00, contrôle à la vente 140 €
+- Les Velluire-sur-Vendée : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Liez : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Loge-Fougereuse : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Longèves : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Longeville-sur-Mer : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Luçon : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Maché : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Maillé : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Maillezais : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Mallièvre : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Mareuil-sur-Lay-Dissais : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Marillet : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Marsais-Sainte-Radégonde : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Martinet : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Menomblet : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Mervent : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Mesnard-la-Barotière : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Monsireigne : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Montaigu-Vendée : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- Montournais : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Montreuil : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Montréverd : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- Moreilles : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Mortagne-sur-Sèvre : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Mouchamps : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Mouilleron-le-Captif : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Mouilleron-Saint-Germain : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Moutiers-les-Mauxfaits : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Moutiers-sur-le-Lay : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Mouzeuil-Saint-Martin : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Nalliers : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Nesmy : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Nieul-le-Dolent : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Noirmoutier-en-l’Île : SPANC Île de Noirmoutier, tél. 02 51 35 89 87, contrôle à la vente 100 €
+- Notre-Dame-de-Monts : SPANC Océan Marais de Monts, tél. 02 51 58 45 88, contrôle à la vente 110 € TTC
+- Notre-Dame-de-Riez : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Palluau : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Péault : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Petosse : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Pissotte : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Poiroux : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Pouillé : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Pouzauges : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Puy-de-Serre : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Puyravault : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Réaumur : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Rives de l’Yon : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Rives-d’Autise : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Rives-du-Fougerais : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Rocheservière : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- Rochetrejoux : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Rosnay : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-André-Goule-d’Oie : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Saint-Aubin-des-Ormeaux : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Saint-Aubin-la-Plaine : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Avaugourd-des-Landes : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Saint-Benoist-sur-Mer : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Saint-Christophe-du-Ligneron : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Saint-Cyr-des-Gâts : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Saint-Cyr-en-Talmondais : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Saint-Denis-du-Payré : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Denis-la-Chevasse : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Saint-Étienne-de-Brillouet : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Étienne-du-Bois : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Saint-Fulgent : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Saint-Georges-de-Pointindoux : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Saint-Germain-de-Prinçay : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Saint-Gervais : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Saint-Gilles-Croix-de-Vie : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Saint-Hilaire-de-Riez : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Saint-Hilaire-de-Voust : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Saint-Hilaire-des-Loges : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Saint-Hilaire-la-Forêt : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Saint-Hilaire-le-Vouhis : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Saint-Jean-d’Hermine : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Jean-de-Monts : SPANC Océan Marais de Monts, tél. 02 51 58 45 88, contrôle à la vente 110 € TTC
+- Saint-Juire-Champgillon : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Julien-des-Landes : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Saint-Laurent-de-la-Salle : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Saint-Laurent-sur-Sèvre : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Saint-Maixent-sur-Vie : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Saint-Malô-du-Bois : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Saint-Mars-la-Réorthe : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Saint-Martin-de-Fraigneau : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Saint-Martin-des-Fontaines : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Saint-Martin-des-Noyers : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Saint-Martin-des-Tilleuls : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Saint-Martin-Lars-en-Sainte-Hermine : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Mathurin : SPANC Sables d’Olonne Agglomération, tél. 02 51 23 16 00, contrôle à la vente 140 €
+- Saint-Maurice-des-Noues : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Saint-Maurice-le-Girard : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Saint-Mesmin : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Saint-Michel-en-l’Herm : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Saint-Michel-le-Cloucq : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Saint-Paul-en-Pareds : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Saint-Paul-Mont-Penit : SPANC Vie et Boulogne, tél. 02 51 31 13 01, contrôle à la vente 135 € ; 250 € au-delà de 20 EH
+- Saint-Philbert-de-Bouaine : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- Saint-Pierre-du-Chemin : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Saint-Pierre-le-Vieux : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Saint-Prouant : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Saint-Révérend : SPANC Pays de Saint-Gilles-Croix-de-Vie, tél. 02 51 55 94 00, contrôle à la vente 154,55 € HT / 170 € TTC
+- Saint-Sigismond : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Saint-Urbain : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Saint-Valérien : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Saint-Vincent-Sterlanges : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Saint-Vincent-sur-Graon : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Saint-Vincent-sur-Jard : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Sainte-Cécile : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Sainte-Flaive-des-Loups : SPANC Pays des Achards, tél. 02 51 05 94 49, contrôle à la vente 165 €
+- Sainte-Florence : SPANC Pays de Saint-Fulgent-Les Essarts, tél. 02 52 61 45 54, contrôle à la vente 200,00 €
+- Sainte-Foy : SPANC Sables d’Olonne Agglomération, tél. 02 51 23 16 00, contrôle à la vente 140 €
+- Sainte-Gemme-la-Plaine : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Sainte-Pexine : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Sainte-Radégonde-des-Noyers : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Sallertaine : SPANC Challans-Gois Communauté, tél. 02 51 93 56 73, contrôle à la vente 150 €
+- Sérigné : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Sèvremont : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Sigournais : SPANC Pays de Chantonnay, tél. 02 51 94 40 23, contrôle à la vente voir la fiche
+- Soullans : SPANC Océan Marais de Monts, tél. 02 51 58 45 88, contrôle à la vente 110 € TTC
+- Tallud-Sainte-Gemme : SPANC Pays de Pouzauges, tél. 02 51 57 14 23, contrôle à la vente 150 € TTC
+- Talmont-Saint-Hilaire : SPANC Vendée Grand Littoral, tél. —, contrôle à la vente 183,60 €
+- Terval : SPANC Pays de la Châtaigneraie, tél. 02 51 69 61 43, contrôle à la vente voir la fiche
+- Thiré : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Thorigny : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Tiffauges : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Treize-Septiers : SPANC Terres de Montaigu, tél. 02 51 46 45 45, contrôle à la vente 169 € TTC
+- Treize-Vents : SPANC Pays de Mortagne, tél. 02 51 63 06 06, contrôle à la vente 130 € TTC
+- Triaize : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Vairé : SPANC Sables d’Olonne Agglomération, tél. 02 51 23 16 00, contrôle à la vente 140 €
+- Venansault : SPANC La Roche-sur-Yon Agglomération, tél. 02 51 05 55 48, contrôle à la vente voir la fiche
+- Vendrennes : SPANC Pays des Herbiers, tél. 02 51 66 82 27, contrôle à la vente voir la fiche
+- Vix : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
+- Vouillé-les-Marais : SPANC Sud Vendée Littoral, tél. 02 51 30 51 15, contrôle à la vente 160 €
+- Vouvant : SPANC Pays de Fontenay-Vendée, tél. 02 28 13 04 50, contrôle à la vente 150 €
+- Xanton-Chassenon : SPANC Vendée Sèvre Autise, tél. 02 51 50 48 80, contrôle à la vente 200 €
