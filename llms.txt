@@ -2,7 +2,7 @@
 
 > Le guide indépendant de l’assainissement individuel en Loire-Atlantique et en Vendée
 
-Guide indépendant édité par BMA Digital Studio LLC. Il explique l’assainissement non collectif (ANC) : obligations à la vente, contrôle du SPANC, filières (épandage, filtre compact, micro-station, filtre planté), prix 2026, aides (éco-PTZ, TVA à 10 %, aides intercommunales) et contacts des SPANC de Loire-Atlantique et de Vendée. Chaque affirmation renvoie à une source officielle ou à au moins deux sources de prix concordantes.
+Guide indépendant édité par Aymen Benchohra (entrepreneur individuel). Il explique l’assainissement non collectif (ANC) : obligations à la vente, contrôle du SPANC, filières (épandage, filtre compact, micro-station, filtre planté), prix 2026, aides (éco-PTZ, TVA à 10 %, aides intercommunales) et contacts des SPANC de Loire-Atlantique et de Vendée. Chaque affirmation renvoie à une source officielle ou à au moins deux sources de prix concordantes.
 
 ## Pages
 - [Repères Assainissement](https://reperes-assainissement.fr/): Vente, mise aux normes, micro-station ou filtre compact, aides 2026 : le guide indépendant de l’assainissement individuel en Loire-Atlantique et en Vendée.
@@ -70,5 +70,5 @@ Guide indépendant édité par BMA Digital Studio LLC. Il explique l’assainiss
 - [Repères Assainissement — texte intégral](https://reperes-assainissement.fr/llms-full.txt)
 
 ## Informations
-- Éditeur : BMA Digital Studio LLC — [mentions légales](https://reperes-assainissement.fr/mentions-legales)
+- Éditeur : Aymen Benchohra, entrepreneur individuel — [mentions légales](https://reperes-assainissement.fr/mentions-legales)
 - Méthode et sources : [https://reperes-assainissement.fr/a-propos](https://reperes-assainissement.fr/a-propos)
