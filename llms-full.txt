@@ -698,7 +698,7 @@ Des mises à jour : la date de mise à jour figure en haut de chaque guide.
 Ce que ce site n’est pas
 Ce site est indépendant . Il n’est affilié à aucun SPANC, aucune commune, aucune intercommunalité, aucun fabricant. Je ne suis pas installateur. Les informations sont générales : pour votre situation, le SPANC de votre commune reste l’interlocuteur officiel.
 Qui édite ce site
-Le site est édité par BMA Digital Studio LLC (voir les mentions légales ) et réalisé par Gagner du Temps , qui crée des sites et des outils pour les artisans.
+Le site est édité par Aymen Benchohra, entrepreneur individuel (voir les mentions légales ) et réalisé par Gagner du Temps , qui crée des sites et des outils pour les artisans.
 Du même auteur : Extérieur Clair (piscine, pergola, terrasse, véranda), Gagner du Temps (visibilité sur Google et suivi des devis pour les artisans) et FidéliQR (carte de fidélité par QR code pour les commerçants).
 Une erreur ? Une question ?
 Si vous repérez une information dépassée, écrivez-moi : je corrige et je cite la source. Adresse : {{EMAIL}}.
