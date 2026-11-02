@@ -288,7 +288,7 @@
         .then(function (r) { return r.json(); })
         .then(function (r) {
           if (!r || !r.ok) throw new Error('refus');
-          form.style.display = 'none'; bar2.style.width = '100%';
+          form.style.display = 'none'; bar2.style.width = '100%'; if (window.raEvent) window.raEvent('generate_lead', { page_path: location.pathname });
           msg.innerHTML = '<div class="result"><div class="big sm">Merci, votre demande est bien reçue' + (r.ref ? ' (' + r.ref + ')' : '') + '.</div><ul><li>Je vous recontacte sous 24 h ouvrées pour faire le point sur votre projet.</li><li>Un email de confirmation vient de vous être envoyé.</li><li>Vous pouvez demander la suppression de vos données à tout moment.</li></ul></div>';
         })
         .catch(function () { btn.disabled = false; btn.textContent = 'Envoyer ma demande'; msg.innerHTML = '<div class="note warn">L’envoi n’a pas fonctionné. Réessayez dans un instant, ou écrivez-moi via la page <a href="/mentions-legales">mentions légales</a>.</div>'; });
@@ -600,4 +600,42 @@
     });
     setTimeout(function () { var cp = $('#ld-cp', lf2); if (cp) cp.focus({ preventScroll: true }); }, 400);
   });
+})();
+
+/* ---------- Mesure d'audience Google Analytics, seulement après accord ---------- */
+(function () {
+  var GA_ID = 'G-5NQ7BLS8Q8', KEY = 'ra-consent', MAX = 180 * 864e5;
+  function lire() { try { var c = JSON.parse(localStorage.getItem(KEY) || 'null'); return c && Date.now() - c.t < MAX ? c.v : null; } catch (e) { return null; } }
+  function ecrire(v) { try { localStorage.setItem(KEY, JSON.stringify({ v: v, t: Date.now() })); } catch (e) {} }
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  var charge = false;
+  function charger() {
+    if (charge) return; charge = true;
+    gtag('js', new Date()); gtag('config', GA_ID);
+    var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID; document.head.appendChild(s);
+  }
+  window.raEvent = function (nom, params) { if (charge) gtag('event', nom, params || {}); };
+  function effacer() {
+    document.cookie.split(';').forEach(function (c) { var n = c.split('=')[0].trim(); if (/^_ga/.test(n)) { [location.hostname, '.' + location.hostname].forEach(function (d) { document.cookie = n + '=; Max-Age=0; path=/; domain=' + d; }); } });
+  }
+  function bandeau() {
+    if (document.getElementById('cookies')) return;
+    var b = document.createElement('div'); b.id = 'cookies'; b.className = 'cookies'; b.setAttribute('role', 'dialog'); b.setAttribute('aria-label', 'Mesure d’audience');
+    b.innerHTML = '<p>Puis-je mesurer votre visite avec Google Analytics\u00a0? Cela dépose des cookies et m’aide à savoir quelles pages sont utiles. <a href="/confidentialite#mesure-audience">En savoir plus</a></p><div class="cookies-btn"><button type="button" class="btn ghost sm" data-c="non">Refuser</button><button type="button" class="btn ghost sm" data-c="oui">Accepter</button></div>';
+    b.addEventListener('click', function (e) {
+      var v = e.target.getAttribute && e.target.getAttribute('data-c'); if (!v) return;
+      ecrire(v); b.remove(); if (v === 'oui') charger(); else effacer();
+    });
+    document.body.appendChild(b);
+  }
+  var etat = lire();
+  if (etat === 'oui') charger(); else if (etat === null) bandeau();
+  var pied = document.querySelector('.site-footer .wrap');
+  if (pied) {
+    var p = document.createElement('p'); p.className = 'cookies-lien';
+    var a = document.createElement('button'); a.type = 'button'; a.textContent = 'Gérer les cookies';
+    a.addEventListener('click', function () { bandeau(); });
+    p.appendChild(a); pied.appendChild(p);
+  }
 })();
