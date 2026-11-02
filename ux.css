@@ -46,6 +46,13 @@ form button[disabled]::after{content:"";margin-left:8px;width:13px;height:13px;v
 @media print{header,footer,nav,form,dialog,.mbar,.ux-tools,.ux-up,.ux-fab,.ux-progress,.ux-cookie,.ux-page,.ux-copy,.ux-skip,.readbar{display:none!important}body{background:#fff!important;color:#000!important;font-size:12pt}a{color:#000}details{display:block}details>*{display:block}}
 @media(max-width:860px){.logo small,.logo .tag,.logo em{display:none}}
 @media(min-width:861px) and (max-width:1120px){.site-header .nav{flex-wrap:nowrap;gap:0}.site-header .nav a{padding-left:7px;padding-right:7px;font-size:.92rem;white-space:nowrap}.logo small{display:none}}
+.ux-bar{position:sticky;top:0;z-index:50;display:flex;align-items:center;flex-wrap:wrap;gap:8px 18px;padding:10px 0;margin-bottom:1.2rem;background:var(--card,#fff);border-bottom:1px solid var(--line,#dde3e8)}
+.ux-bar .brand,.ux-bar .topnav{margin:0}
+.ux-bar .ux-tools{margin-left:auto}
+.ux-menu{display:none}
+.ux-has-wa .ux-up{bottom:76px}
+@media(max-width:700px){.ux-menu{display:inline-block}.ux-bar .topnav{display:none;order:9;width:100%;flex-direction:column;align-items:flex-start;gap:10px;padding:8px 0}.ux-bar .topnav.ux-open{display:flex}}
+.ux-lite{color:#dbe5ee!important}
 
 [data-theme=dark]{color-scheme:dark;--brand:#3cc3cb;--brand-2:#6fd8de;--brand-soft:#17333a;--ink:#e9f1f3;--ink-2:#c4d2d7;--muted:#9fb1b8;--line:#2c3e46;--bg:#10191e;--bg-2:#172329;--card:#172329;--ok:#5fd08f;--ok-soft:#173428;--warn:#f2b35c;--warn-soft:#3a2b16;--info-soft:#16303f;--info:#7cc0ef}
 [data-theme=dark] .site-header{background:rgba(16,25,30,.92)}
