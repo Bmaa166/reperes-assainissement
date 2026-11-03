@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Remplacer le nom (3)
+      - name: Remplacer le nom (4)
         env:
           SITE: "Repères Assainissement"
           URL_SITE: "https://reperes-assainissement.fr/"
@@ -45,16 +45,21 @@ jobs:
           n = 0; rest = collections.Counter()
           for p in pathlib.Path('.').rglob('*'):
               if not p.is_file() or '.git' in p.parts or p.suffix not in ext: continue
+              if '[Adresse à compléter]' in p.read_text(encoding='utf-8', errors='ignore'):
+                  p.write_text(p.read_text(encoding='utf-8').replace('[Adresse à compléter]', '44800 Saint-Herblain'), encoding='utf-8'); n += 1
               if p.name in skip or p.parent.name in ('mentions-legales', 'confidentialite'): continue
               t = p.read_text(encoding='utf-8', errors='ignore'); o = t
               for a, b in P: t = t.replace(a, b)
-              t = re.sub(r'écrivez.moi : je corrige et je cite la source\. Adresse : aymen\.benchohrapro@gmail\.com\.', 'écrivez à contact@gagnerdutemps.fr : l’information sera corrigée, avec sa source.', t)
+              t = re.sub(r'écrivez.moi\s*:\s*je corrige et je cite la source\.\s*Adresse\s*:\s*aymen\.benchohrapro@gmail\.com\.', 'écrivez à contact@gagnerdutemps.fr : l’information sera corrigée, avec sa source.', t)
+              t = re.sub(r'Signalez-la à aymen\.benchohrapro@gmail\.com\s*:\s*je corrige en citant la source\.', 'Signalez-la à contact@gagnerdutemps.fr : elle sera corrigée, avec sa source.', t)
+              t = t.replace('Je m’appelle Aymen. Les prix', 'Les prix').replace('Je m’appelle Aymen, j’habite près de Nantes et je travaille seul. Quand on', 'Quand on')
+              t = re.sub(r',?"founder":\{"@type":"Person","name":"Aymen Benchohra"[^{}]*\}', '', t)
               t = re.sub(r'"author":\s*\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}', '"author":' + org, t)
               t = re.sub(r'\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}', org, t)
               if t != o:
                   p.write_text(t, encoding='utf-8'); n += 1
               for m in re.finditer(r'.{0,45}(Aymen|Benchohra|aymen\.).{0,45}', t):
-                  rest[m.group(0)] += 1
+                  rest[p.name + ' | ' + m.group(0)] += 1
           s = open(os.environ['GITHUB_STEP_SUMMARY'], 'a')
           s.write('MODIFIES %d RESTANTS %d\n\n' % (n, sum(rest.values())))
           for k, v in rest.most_common(30): s.write('- %d x %s\n' % (v, k.replace('<', ' ').replace('>', ' ')))
