@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Remplacer le nom (2)
+      - name: Remplacer le nom (3)
         env:
           SITE: "Repères Assainissement"
           URL_SITE: "https://reperes-assainissement.fr/"
@@ -31,6 +31,8 @@ jobs:
             ('Aymen B. — J’écris ce guide à partir', '%s — Ce guide est rédigé à partir' % S),
             ('Je ne suis pas installateur.', 'Ce site n’est pas un installateur.'),
             ('Je ne suis pas ', 'Ce site n’est pas '),
+            ('"@type":"Person","name":"Aymen B."', '"@type":"Organization","name":"%s"' % S),
+            ('<name>Aymen B.</name>', '<name>%s</name>' % S),
             ('>Ma méthode<', '>La méthode<'), ('Ma méthode', 'La méthode'),
             ('Sinon, je l’indique clairement', 'Sinon, c’est indiqué clairement'),
             ('Je m’appelle Aymen. En cherchant', 'En cherchant'),
@@ -46,6 +48,7 @@ jobs:
               if p.name in skip or p.parent.name in ('mentions-legales', 'confidentialite'): continue
               t = p.read_text(encoding='utf-8', errors='ignore'); o = t
               for a, b in P: t = t.replace(a, b)
+              t = re.sub(r'écrivez.moi : je corrige et je cite la source\. Adresse : aymen\.benchohrapro@gmail\.com\.', 'écrivez à contact@gagnerdutemps.fr : l’information sera corrigée, avec sa source.', t)
               t = re.sub(r'"author":\s*\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}', '"author":' + org, t)
               t = re.sub(r'\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}', org, t)
               if t != o:
