@@ -433,14 +433,12 @@
         } },
       'pornic-agglo': { t: 'De 800 à 6 000 € selon les plafonds de ressources de l’Anah, avec un palier pour les propriétaires occupants quel que soit leur revenu (conseil communautaire du 02/02/2023).',
         c: function (p) { if (p.z === 'vol') return NO(NC); return { k: 'rng', lo: 800, hi: Math.min(6000, p.m), why: 'montant selon vos revenus : barème à demander au SPANC' }; } },
-      'sevre-et-loire': { t: '30 % plafonnés à 3 000 € (sous le plafond Anah) ou 20 % plafonnés à 2 000 € (plafond Anah majoré de 10 %), pour des travaux de 3 000 à 10 000 € TTC (conditions de 2021, à confirmer).',
+      'sevre-et-loire': { t: '10, 20 ou 30 % du montant des travaux selon les revenus (grille Anah des revenus modestes), dans la limite de 11 000 € de travaux, soit 3 300 € au maximum (SPANC, novembre 2026).',
         c: function (p) {
-          if (p.z === 'vol') return NO(NC); if (p.m < 3000) return NO('travaux d’au moins 3 000 € TTC exigés');
-          var b = Math.min(p.m, 10000);
-          if (!p.cat) return { k: 'rng', lo: Math.min(0.2 * b, 2000), hi: Math.min(0.3 * b, 3000), why: 'taux selon vos revenus' };
-          if (p.cat === 'tmo' || p.cat === 'mo') return { k: 'val', v: Math.min(0.3 * b, 3000), why: '30 % de ' + fmt(b) + ', plafonné à 3 000 € (conditions de 2021)' };
-          if (p.mo11) return { k: 'val', v: Math.min(0.2 * b, 2000), why: '20 % de ' + fmt(b) + ', plafonné à 2 000 € (conditions de 2021)' };
-          return NO('réservée aux revenus sous le plafond Anah majoré de 10 %');
+          if (p.z === 'vol') return NO(NC);
+          var b = Math.min(p.m, 11000);
+          if (p.r !== null && p.cat !== 'tmo' && p.cat !== 'mo') return NO('réservée aux revenus modestes de la grille Anah : à confirmer auprès du SPANC');
+          return { k: 'rng', lo: 0.1 * b, hi: 0.3 * b, why: 'taux de 10 à 30 % selon vos revenus : barème à demander au SPANC' };
         } },
       'nozay': { t: 'En 2025 : 40 % des travaux TTC compris entre 3 000 et 7 000 €, soit 2 800 € au plus, pour les propriétaires occupants sous plafonds de revenu (dossier monté avec SOLIHA).',
         c: function (p) {
