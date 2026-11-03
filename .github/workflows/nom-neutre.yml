@@ -10,36 +10,53 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Remplacer le nom
+      - name: Remplacer le nom (2)
         env:
           SITE: "Repères Assainissement"
           URL_SITE: "https://reperes-assainissement.fr/"
+          INIT: "RA"
         run: |
           python3 - <<'PY'
-          import os, re, pathlib
-          S = os.environ['SITE']; U = os.environ['URL_SITE']
+          import os, re, pathlib, collections
+          S = os.environ['SITE']; U = os.environ['URL_SITE']; I = os.environ['INIT']
           skip = {'mentions-legales.html', 'confidentialite.html'}
           ext = {'.html', '.txt', '.xml', '.js', '.json', '.md', '.py', '.mjs'}
-          n = 0; rest = []
+          org = '{"@type":"Organization","name":"%s","url":"%s"}' % (S, U)
+          P = [
+            ('content="Aymen B."', 'content="%s"' % S),
+            ('<span>Par Aymen B.</span>', '<span>Par %s</span>' % S),
+            ('Par Aymen B.', 'Par %s' % S),
+            ('© 2026 Aymen Benchohra, entrepreneur individuel', '© 2026 %s' % S),
+            ('AB</div><div><p><b>Aymen B.</b> — J’écris ce guide à partir', '%s</div><div><p><b>%s</b> — Ce guide est rédigé à partir' % (I, S)),
+            ('Aymen B. — J’écris ce guide à partir', '%s — Ce guide est rédigé à partir' % S),
+            ('Je ne suis pas installateur.', 'Ce site n’est pas un installateur.'),
+            ('Je ne suis pas ', 'Ce site n’est pas '),
+            ('>Ma méthode<', '>La méthode<'), ('Ma méthode', 'La méthode'),
+            ('Sinon, je l’indique clairement', 'Sinon, c’est indiqué clairement'),
+            ('Je m’appelle Aymen. En cherchant', 'En cherchant'),
+            ('j’ai trouvé beaucoup', 'on trouve beaucoup'),
+            ('Le site est édité par Aymen Benchohra, entrepreneur individuel (voir les', 'Le site est édité par une entreprise individuelle (voir les'),
+            ('Guide indépendant édité par Aymen Benchohra (entrepreneur individuel)', 'Guide indépendant édité par une entreprise individuelle'),
+            ('Éditeur : Aymen Benchohra, entrepreneur individuel', 'Éditeur : entreprise individuelle'),
+            ('écrivez-moi : je corrige et je cite la source. Adresse : aymen.benchohrapro@gmail.com.', 'écrivez à contact@gagnerdutemps.fr : l’information sera corrigée, avec sa source.'),
+          ]
+          n = 0; rest = collections.Counter()
           for p in pathlib.Path('.').rglob('*'):
               if not p.is_file() or '.git' in p.parts or p.suffix not in ext: continue
               if p.name in skip or p.parent.name in ('mentions-legales', 'confidentialite'): continue
               t = p.read_text(encoding='utf-8', errors='ignore'); o = t
-              t = t.replace('content="Aymen B."', 'content="%s"' % S)
-              t = re.sub(r'"author":\s*\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}',
-                         '"author":{"@type":"Organization","name":"%s","url":"%s"}' % (S, U), t)
-              t = t.replace('<span>Par Aymen B.</span>', '<span>Par %s</span>' % S)
-              t = t.replace('© 2026 Aymen Benchohra, entrepreneur individuel', '© 2026 %s' % S)
+              for a, b in P: t = t.replace(a, b)
+              t = re.sub(r'"author":\s*\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}', '"author":' + org, t)
+              t = re.sub(r'\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}', org, t)
               if t != o:
                   p.write_text(t, encoding='utf-8'); n += 1
-              for i, l in enumerate(t.split('\n')):
-                  for m in re.finditer(r'.{0,50}(Aymen|Benchohra).{0,50}', l):
-                      rest.append('%s:%d: %s' % (p, i + 1, m.group(0)))
-          print('FICHIERS MODIFIES', n)
-          print('RESTANTS', len(rest))
-          print('\n'.join(rest[:120]))
+              for m in re.finditer(r'.{0,45}(Aymen|Benchohra|aymen\.).{0,45}', t):
+                  rest[m.group(0)] += 1
+          s = open(os.environ['GITHUB_STEP_SUMMARY'], 'a')
+          s.write('MODIFIES %d RESTANTS %d\n\n' % (n, sum(rest.values())))
+          for k, v in rest.most_common(30): s.write('- %d x %s\n' % (v, k.replace('<', ' ').replace('>', ' ')))
           PY
           git config user.name "Nom neutre"
           git config user.email "contact@gagnerdutemps.fr"
           git add -A
-          git diff --cached --quiet || { git commit -m "Nom neutre : marque a la place du nom"; git push; }
+          git diff --cached --quiet || { git commit -m "Nom neutre : marque a la place du nom"; git pull --rebase origin nom-neutre; git push; }
