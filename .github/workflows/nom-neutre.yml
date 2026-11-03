@@ -1,0 +1,45 @@
+name: nom-neutre
+on:
+  push:
+    branches: [nom-neutre]
+    paths: ['.github/workflows/nom-neutre.yml']
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remplacer le nom
+        env:
+          SITE: "Repères Assainissement"
+          URL_SITE: "https://reperes-assainissement.fr/"
+        run: |
+          python3 - <<'PY'
+          import os, re, pathlib
+          S = os.environ['SITE']; U = os.environ['URL_SITE']
+          skip = {'mentions-legales.html', 'confidentialite.html'}
+          ext = {'.html', '.txt', '.xml', '.js', '.json', '.md', '.py', '.mjs'}
+          n = 0; rest = []
+          for p in pathlib.Path('.').rglob('*'):
+              if not p.is_file() or '.git' in p.parts or p.suffix not in ext: continue
+              if p.name in skip or p.parent.name in ('mentions-legales', 'confidentialite'): continue
+              t = p.read_text(encoding='utf-8', errors='ignore'); o = t
+              t = t.replace('content="Aymen B."', 'content="%s"' % S)
+              t = re.sub(r'"author":\s*\{"@type":\s*"Person",\s*"name":\s*"Aymen B\."[^{}]*\}',
+                         '"author":{"@type":"Organization","name":"%s","url":"%s"}' % (S, U), t)
+              t = t.replace('<span>Par Aymen B.</span>', '<span>Par %s</span>' % S)
+              t = t.replace('© 2026 Aymen Benchohra, entrepreneur individuel', '© 2026 %s' % S)
+              if t != o:
+                  p.write_text(t, encoding='utf-8'); n += 1
+              for i, l in enumerate(t.split('\n')):
+                  for m in re.finditer(r'.{0,50}(Aymen|Benchohra).{0,50}', l):
+                      rest.append('%s:%d: %s' % (p, i + 1, m.group(0)))
+          print('FICHIERS MODIFIES', n)
+          print('RESTANTS', len(rest))
+          print('\n'.join(rest[:120]))
+          PY
+          git config user.name "Nom neutre"
+          git config user.email "contact@gagnerdutemps.fr"
+          git add -A
+          git diff --cached --quiet || { git commit -m "Nom neutre : marque a la place du nom"; git push; }
