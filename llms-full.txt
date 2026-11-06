@@ -689,16 +689,16 @@ R : Oui : 12 SPANC vendéens avaient voté une majoration jusqu’à 400 % fin 2
 URL : https://reperes-assainissement.fr/a-propos
 
 Pourquoi ce guide
-Je m’appelle Aymen. En cherchant des informations fiables sur l’assainissement individuel, j’ai trouvé beaucoup de pages contradictoires, souvent datées : pénalité « de 100 % » alors qu’elle peut atteindre 400 % depuis 2021, aides de l’agence de l’eau qui n’existent plus pour les particuliers, règle de vidange « tous les 4 ans » abrogée… Ce guide rassemble ce qui est vrai aujourd’hui, en Loire-Atlantique et en Vendée.
-Ma méthode
+En cherchant des informations fiables sur l’assainissement individuel, on trouve beaucoup de pages contradictoires, souvent datées : pénalité « de 100 % » alors qu’elle peut atteindre 400 % depuis 2021, aides de l’agence de l’eau qui n’existent plus pour les particuliers, règle de vidange « tous les 4 ans » abrogée… Ce guide rassemble ce qui est vrai aujourd’hui, en Loire-Atlantique et en Vendée.
+La méthode
 Une source pour chaque affirmation : textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012), réponses ministérielles publiées au Journal officiel, fiches service-public, documents des SPANC, des préfectures et des notaires. Les sources sont listées en bas de chaque page.
-Des prix croisés : une fourchette n’est présentée comme fiable que si plusieurs sources concordent. Sinon, je l’indique clairement (« une seule source », « sources divergentes »).
+Des prix croisés : une fourchette n’est présentée comme fiable que si plusieurs sources concordent. Sinon, c’est indiqué clairement (« une seule source », « sources divergentes »).
 Pas d’invention : quand une information n’a pas pu être vérifiée, elle n’est pas publiée.
 Des mises à jour : la date de mise à jour figure en haut de chaque guide.
 Ce que ce site n’est pas
-Ce site est indépendant . Il n’est affilié à aucun SPANC, aucune commune, aucune intercommunalité, aucun fabricant. Je ne suis pas installateur. Les informations sont générales : pour votre situation, le SPANC de votre commune reste l’interlocuteur officiel.
+Ce site est indépendant . Il n’est affilié à aucun SPANC, aucune commune, aucune intercommunalité, aucun fabricant. Ce site n’est pas un installateur. Les informations sont générales : pour votre situation, le SPANC de votre commune reste l’interlocuteur officiel.
 Qui édite ce site
-Le site est édité par Aymen Benchohra, entrepreneur individuel (voir les mentions légales ) et réalisé par Gagner du Temps , qui crée des sites et des outils pour les artisans.
+Le site est édité par une entreprise individuelle (voir les mentions légales ) et réalisé par Gagner du Temps , qui crée des sites et des outils pour les artisans.
 Du même auteur : Extérieur Clair (piscine, pergola, terrasse, véranda), Gagner du Temps (visibilité sur Google et suivi des devis pour les artisans) et FidéliQR (carte de fidélité par QR code pour les commerçants).
 Une erreur ? Une question ?
 Si vous repérez une information dépassée, écrivez-moi : je corrige et je cite la source. Adresse : {{EMAIL}}.
@@ -709,7 +709,7 @@ URL : https://reperes-assainissement.fr/spanc/nantes-metropole
 
 Accueil › Loire-Atlantique › Nantes Métropole Le SPANC de Nantes Métropole
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Nantes Métropole (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle périodique : environ tous les 10 ans.
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
@@ -767,7 +767,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Nantes Métropole — Faire valider et contrôler son installation d'assainissement individuel (page officielle)
 Nantes Métropole — Rapport annuel eau et assainissement (RPQS 2024)
@@ -782,7 +782,7 @@ URL : https://reperes-assainissement.fr/spanc/carene-saint-nazaire
 
 Accueil › Loire-Atlantique › CARENE – Saint-Nazaire Agglomération Le SPANC de CARENE – Saint-Nazaire Agglomération
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur CARENE – Saint-Nazaire Agglomération (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 100,04 € HT (diagnostic lors d'une mutation d'habitation) (HT, 2024).
 Contrôle périodique : tous les 6 ans après travaux (guide 2025) ; l'ancien guide SPANC indiquait entre 5 et 6 ans.
@@ -843,7 +843,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Saint-Nazaire Agglomération — Assainissement individuel, guide des procédures (document SPANC, 2015)
 Saint-Nazaire Agglomération — Guide pratique de l'eau (2025)
@@ -855,7 +855,7 @@ URL : https://reperes-assainissement.fr/spanc/cap-atlantique
 
 Accueil › Loire-Atlantique › Cap Atlantique Le SPANC de Cap Atlantique
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Cap Atlantique (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 88,72 € HT / 97,59 € TTC (contrôle dans le cadre d'une vente immobilière) (2026).
 Contrôle périodique : tous les 4 ans, après un premier contrôle de bonne exécution ou un contrôle de fonctionnement (règlement art. 17).
@@ -917,7 +917,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CapAtlantique — Les contrôles des installations d'assainissement des eaux usées (page officielle)
 CapAtlantique — Rapport sur le prix et la qualité des services eau et assainissement (RPQS 2025)
@@ -930,7 +930,7 @@ URL : https://reperes-assainissement.fr/spanc/pornic-agglo
 
 Accueil › Loire-Atlantique › Pornic Agglo Pays de Retz Le SPANC de Pornic Agglo Pays de Retz
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pornic Agglo Pays de Retz (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
 Contrôle en cas de vente : 241 € (diagnostic à la vente ≤ 20 EH ; semi-collectif 144 € ; 20–100 EH 2 028 € ; > 100 EH 4 059 €).
 Contrôle périodique : tous les 8 ans pour les installations classées sans non-conformité lors du précédent contrôle ; tous les 4 ans pour les installations classées non conformes.
@@ -995,7 +995,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pornic Agglo — Assainissement non collectif (page officielle)
 SISPEA — Fiche du service SPANC Pornic Agglo Pays de Retz (2024)
@@ -1009,7 +1009,7 @@ URL : https://reperes-assainissement.fr/spanc/clisson-sevre-et-maine
 
 Accueil › Loire-Atlantique › Clisson Sèvre et Maine Agglo Le SPANC de Clisson Sèvre et Maine Agglo
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Clisson Sèvre et Maine Agglo (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 185 € (contrôle de conformité pour vente) (2026).
 Contrôle périodique : selon le classement de l'installation : F1/F2 tous les 9 ans ; F3/F4 tous les 4 ans ; F5 tous les 9 ans ; F6 tous les ans ; installation soumise à travaux après une vente : tous les ans.
@@ -1071,7 +1071,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Clisson Sèvre et Maine Agglo — Fonctionnement du SPANC (page officielle)
 Clisson Sèvre et Maine Agglo — Rapport sur le prix et la qualité du SPANC (RPQS 2024)
@@ -1084,7 +1084,7 @@ URL : https://reperes-assainissement.fr/spanc/erdre-et-gesvres
 
 Accueil › Loire-Atlantique › Erdre et Gesvres Le SPANC d’Erdre et Gesvres
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Erdre et Gesvres (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
 Contrôle en cas de vente : 310 € (contrôle avant vente, FAQ).
 Contrôle périodique : tous les 8 ans (délibération du 12/12/2012).
@@ -1147,7 +1147,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CCEG — SPANC, les réponses à vos questions les plus fréquentes (FAQ officielle)
 CCEG — Rapport sur le prix et la qualité du SPANC (RPQS 2018)
@@ -1162,7 +1162,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-d-ancenis
 
 Accueil › Loire-Atlantique › Pays d'Ancenis (COMPA) Le SPANC de Pays d'Ancenis (COMPA)
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays d'Ancenis (COMPA) (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 200,00 € (diagnostic vente) (2024).
 Contrôle périodique : tous les 10 ans (délibération du 20/02/2020 ; règlement art. 19 : « tous les 10 ans au maximum »).
@@ -1225,7 +1225,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 COMPA — Assainissement non collectif (page officielle)
 COMPA — Rapport sur le prix et la qualité du SPANC (RPQS 2024)
@@ -1239,7 +1239,7 @@ URL : https://reperes-assainissement.fr/spanc/sevre-et-loire
 
 Accueil › Loire-Atlantique › Sèvre et Loire Le SPANC de Sèvre et Loire
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Sèvre et Loire (Loire-Atlantique).
-Par Aymen B. Mis à jour le 03/11/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 03/11/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 250 € TTC (tarif communiqué par le SPANC en novembre 2026).
 Contrôle périodique : tous les 8 ans, redevance de 30 €/an.
@@ -1300,7 +1300,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CC Sèvre & Loire — Des changements pour l'assainissement non collectif sur le territoire (article, 2021)
 CC Sèvre & Loire — Rapport annuel du SPANC (RPQS 2018)
@@ -1312,7 +1312,7 @@ URL : https://reperes-assainissement.fr/spanc/chateaubriant-derval
 
 Accueil › Loire-Atlantique › Châteaubriant-Derval Le SPANC de Châteaubriant-Derval
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Châteaubriant-Derval (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 130 € (contrôle lors de ventes immobilières) (2021).
 Contrôle périodique : non fixée dans le RPQS (« La fréquence de contrôle ne doit pas excéder 10 ans »).
@@ -1373,7 +1373,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CC Châteaubriant-Derval — Assainissement non collectif, SPANC (page officielle)
 CC Châteaubriant-Derval — Rapport sur le prix et la qualité du SPANC (RPQS 2024)
@@ -1384,7 +1384,7 @@ URL : https://reperes-assainissement.fr/spanc/grand-lieu
 
 Accueil › Loire-Atlantique › Grand Lieu Communauté Le SPANC de Grand Lieu Communauté
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Grand Lieu Communauté (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 260 € (contrôle lors d'une vente) (2026).
 Contrôle périodique : tous les 8 ans.
@@ -1443,7 +1443,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Grand Lieu Communauté — Le service SPANC (page officielle)
 Grand Lieu Communauté — Rapport d'activités assainissement non collectif (2022)
@@ -1455,7 +1455,7 @@ URL : https://reperes-assainissement.fr/spanc/estuaire-et-sillon
 
 Accueil › Loire-Atlantique › Estuaire et Sillon Le SPANC d’Estuaire et Sillon
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Estuaire et Sillon (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 230 € TTC (contrôle pour transaction) (TTC, 2024).
 Contrôle périodique : tous les 6 ans (délibération du 24/05/2018 ; règlement art. 18).
@@ -1514,7 +1514,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CC Estuaire et Sillon — Tarifs et informations des installations d'assainissement des particuliers (page officielle)
 CC Estuaire et Sillon — Règlement de service assainissement non collectif (2023)
@@ -1525,7 +1525,7 @@ URL : https://reperes-assainissement.fr/spanc/pontchateau-saint-gildas
 
 Accueil › Loire-Atlantique › Pays de Pontchâteau – Saint-Gildas-des-Bois Le SPANC de Pays de Pontchâteau – Saint-Gildas-des-Bois
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Pontchâteau – Saint-Gildas-des-Bois (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 234 € TTC (diagnostic vente) (TTC, 2026).
 Contrôle périodique : tous les 8 ans.
@@ -1591,7 +1591,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CC du Pays de Pontchâteau – Saint-Gildas-des-Bois — Qu'est-ce que le SPANC ? (page officielle)
 CC du Pays de Pontchâteau – Saint-Gildas-des-Bois — Contact SPANC (page officielle)
@@ -1602,7 +1602,7 @@ URL : https://reperes-assainissement.fr/spanc/sud-estuaire
 
 Accueil › Loire-Atlantique › Sud Estuaire Le SPANC de Sud Estuaire
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Sud Estuaire (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 194 € (≤ 20 EH) / 459 € (≥ 20 EH) (contrôle cession immobilière) (2026).
 Contrôle périodique : tous les 7 ans (règlement art. 12) ; contrôle administratif annuel pour les installations de plus de 20 EH.
@@ -1662,7 +1662,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CC Sud Estuaire — Règlement du SPANC (2025)
 CC Sud Estuaire — Service public d'assainissement non collectif (page officielle, inaccessible lors de la recherche)
@@ -1674,7 +1674,7 @@ URL : https://reperes-assainissement.fr/spanc/sud-retz-atlantique
 
 Accueil › Loire-Atlantique › Sud Retz Atlantique Le SPANC de Sud Retz Atlantique
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Sud Retz Atlantique (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 220 € (diagnostic vente) (2025).
 Contrôle périodique : tous les 6 ans.
@@ -1739,7 +1739,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Sud Retz Atlantique — SPANC (page officielle)
 Sud Retz Atlantique — Rapport sur le prix et la qualité du service SPANC (RPQS 2025)
@@ -1750,7 +1750,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-blain
 
 Accueil › Loire-Atlantique › Pays de Blain Communauté Le SPANC de Pays de Blain Communauté
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Blain Communauté (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 200 € (bilan technique lors d'une cession immobilière) (2026).
 Contrôle périodique : tous les 6 ans (depuis le 01/01/2025, règlement art. 14-3) ; installations neuves et après transaction : visite au bout d'un an.
@@ -1814,7 +1814,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Blain Communauté — SPANC (page officielle)
 Pays de Blain Communauté — Rapport sur le prix et la qualité du SPANC (RPQS 2025)
@@ -1825,7 +1825,7 @@ URL : https://reperes-assainissement.fr/spanc/nozay
 
 Accueil › Loire-Atlantique › CC de Nozay Le SPANC de la CC de Nozay
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur CC de Nozay (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 143,43 € TTC (bilan technique / contrôle vente) (TTC, 2024-2025).
 Contrôle périodique : tous les 10 ans selon la fiche d'information (dernière campagne 2017-2020, prochaine à partir de 2027) ; le règlement 2019 indique « au moins une fois tous les huit ans ».
@@ -1886,7 +1886,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 CC de Nozay — Assainissement non collectif (page officielle)
 CC de Nozay — Fiche d'information, étapes ANC (mise à jour 29/07/2024)
@@ -1900,7 +1900,7 @@ URL : https://reperes-assainissement.fr/spanc/redon-agglomeration
 
 Accueil › Loire-Atlantique › Redon Agglomération (communes du 44) Le SPANC de Redon Agglomération (communes du 44)
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Redon Agglomération (communes du 44) (Loire-Atlantique).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 220 € HT (< 20 EH) / 400 € HT (> 20 EH) (HT, 2023).
 Contrôle périodique : 8 ans maximum entre deux contrôles pour les communes de Loire-Atlantique et du Morbihan (4 ans pour les micro-stations) ; la page ANC indique « tous les 4 à 8 ans en fonction du type de filière ».
@@ -1963,7 +1963,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Redon Agglomération — Assainissement individuel (page officielle)
 SISPEA — Rapport sur le prix et la qualité du service ANC de Redon Agglomération (RPQS 2022)
@@ -1976,7 +1976,7 @@ URL : https://reperes-assainissement.fr/spanc/la-roche-sur-yon-agglomeration
 
 Accueil › Vendée › La Roche-sur-Yon Agglomération Le SPANC de La Roche-sur-Yon Agglomération
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur La Roche-sur-Yon Agglomération (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle périodique : tous les 8 ans (installations conformes ou défauts d'entretien/usure) ; tous les 4 ans (absence d'installation ou non-conformité avec danger avéré). Le contrôle de vente doit dater de moins de 3 ans..
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
@@ -2031,7 +2031,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 La Roche-sur-Yon Agglomération — Règlement du service d'assainissement non collectif (PDF)
 SISPEA — Fiche du service SPANC de La Roche-sur-Yon Agglomération (2024)
@@ -2047,7 +2047,7 @@ URL : https://reperes-assainissement.fr/spanc/les-sables-d-olonne-agglomeration
 
 Accueil › Vendée › Les Sables d'Olonne Agglomération Le SPANC des Sables d'Olonne Agglomération
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Les Sables d'Olonne Agglomération (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 140 €.
 Contrôle périodique : tous les 4 ans (classe 1, non conforme avec risque), 6 ans (classe 2, non conforme sans risque) ou 8 ans (classe 3, conforme).
@@ -2105,7 +2105,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Les Sables d'Olonne Agglomération — Cycle de l'eau et assainissement (page officielle)
 Les Sables d'Olonne Agglomération — Règlement de service du SPANC (2017, PDF)
@@ -2118,7 +2118,7 @@ URL : https://reperes-assainissement.fr/spanc/terres-de-montaigu
 
 Accueil › Vendée › Terres de Montaigu Le SPANC de Terres de Montaigu
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Terres de Montaigu (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 169 € TTC (installations de moins de 20 EH) (TTC, 2023).
 Contrôle périodique : tous les 10 ans (délibération du 18/12/2017, applicable au 01/01/2018).
@@ -2176,7 +2176,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Terres de Montaigu — Règlement du service d'assainissement non collectif (2022, PDF)
 Terres de Montaigu — Conditions du contrôle ANC en cas de vente immobilière
@@ -2192,7 +2192,7 @@ URL : https://reperes-assainissement.fr/spanc/challans-gois
 
 Accueil › Vendée › Challans-Gois Communauté Le SPANC de Challans-Gois Communauté
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Challans-Gois Communauté (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
 Contrôle en cas de vente : 150 € (2024).
 Contrôle périodique : tous les 10 ans (4 ans pour les installations non conformes avec travaux obligatoires, 1 an en cas de vente).
@@ -2257,7 +2257,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Challans-Gois Communauté — Contrôles de l'assainissement individuel (page officielle)
 Challans-Gois Communauté — Règlement de service du SPANC (en vigueur au 01/01/2025, PDF)
@@ -2271,7 +2271,7 @@ URL : https://reperes-assainissement.fr/spanc/ocean-marais-de-monts
 
 Accueil › Vendée › Océan Marais de Monts Le SPANC d’Océan Marais de Monts
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Océan Marais de Monts (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 110 € TTC (installation standard) ; 220 € TTC (plus de 20 EH) (2026).
 Contrôle périodique : tous les 10 ans.
@@ -2328,7 +2328,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Océan Marais de Monts — Assainissement non collectif (page officielle)
 Océan Marais de Monts — Procédure usager pour les travaux d'assainissement non collectif (PDF)
@@ -2339,7 +2339,7 @@ URL : https://reperes-assainissement.fr/spanc/vendee-grand-littoral
 
 Accueil › Vendée › Vendée Grand Littoral Le SPANC de Vendée Grand Littoral
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Vendée Grand Littoral (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 7 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 7 min
 En bref
 Contrôle en cas de vente : 183,60 € (cession immobilière) (2026).
 Contrôle périodique : classe 1 : tous les 4 ans ; classe 2 : tous les 6 ans ; classe 3 : tous les 10 ans (délibération 2021_07_D15, applicable au 01/01/2022).
@@ -2404,7 +2404,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Vendée Grand Littoral — SPANC (page officielle)
 Vendée Grand Littoral — Rapport annuel assainissement 2022 (PDF)
@@ -2420,7 +2420,7 @@ URL : https://reperes-assainissement.fr/spanc/sud-vendee-littoral
 
 Accueil › Vendée › Sud Vendée Littoral Le SPANC de Sud Vendée Littoral
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Sud Vendée Littoral (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 160 € (diagnostic vente, toutes installations).
 Contrôle périodique : tous les 8 ans ; contrôle annuel possible tant que des travaux obligatoires sont en attente.
@@ -2480,7 +2480,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Sud Vendée Littoral — Assainissement SPANC (page officielle)
 Sud Vendée Littoral — Règlement intérieur du SPANC (en vigueur au 01/01/2024, PDF)
@@ -2492,7 +2492,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-fontenay-vendee
 
 Accueil › Vendée › Pays de Fontenay-Vendée Le SPANC de Pays de Fontenay-Vendée
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Fontenay-Vendée (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 150 € (2022).
 Contrôle périodique : tous les 8 ans.
@@ -2548,7 +2548,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Fontenay-Vendée — Assainissement non collectif (page officielle)
 Pays de Fontenay-Vendée — Fiche tarifs au 01/01/2022 (PDF)
@@ -2562,7 +2562,7 @@ URL : https://reperes-assainissement.fr/spanc/vendee-sevre-autise
 
 Accueil › Vendée › Vendée Sèvre Autise Le SPANC de Vendée Sèvre Autise
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Vendée Sèvre Autise (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 200 € (cession immobilière).
 Contrôle périodique : tous les 6 ans.
@@ -2617,7 +2617,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Vendée Sèvre Autise — Assainissement non collectif (page officielle)
 ANIL — Aide à l'assainissement non collectif, Vendée Sèvre Autise
@@ -2628,7 +2628,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-la-chataigneraie
 
 Accueil › Vendée › Pays de la Châtaigneraie Le SPANC de Pays de la Châtaigneraie
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de la Châtaigneraie (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
 Téléphone du service : 02 51 69 61 43.
@@ -2673,7 +2673,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de la Châtaigneraie — Service public d'assainissement non collectif (page officielle)
 SISPEA — Fiche du service SPANC du Pays de la Châtaigneraie (2022)
@@ -2686,7 +2686,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-pouzauges
 
 Accueil › Vendée › Pays de Pouzauges Le SPANC de Pays de Pouzauges
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Pouzauges (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 150 € TTC (2025).
 Contrôle périodique : tous les 10 ans.
@@ -2749,7 +2749,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Pouzauges — Assainissement non collectif (page officielle)
 Pays de Pouzauges — RPQS assainissement non collectif 2024 (PDF)
@@ -2761,7 +2761,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-des-herbiers
 
 Accueil › Vendée › Pays des Herbiers Le SPANC de Pays des Herbiers
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays des Herbiers (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle périodique : tous les 9 ans.
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
@@ -2816,7 +2816,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays des Herbiers — Assainissement non collectif SPANC (page officielle)
 Pays des Herbiers — RPQS assainissement non collectif 2024 (PDF)
@@ -2830,7 +2830,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-saint-fulgent-les-essarts
 
 Accueil › Vendée › Pays de Saint-Fulgent-Les Essarts Le SPANC de Pays de Saint-Fulgent-Les Essarts
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Saint-Fulgent-Les Essarts (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 200,00 €.
 Contrôle périodique : tous les 4 ans (non conformes avec risque sanitaire), 6 ans (non conformes) ou 8 ans (conformes).
@@ -2886,7 +2886,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Saint-Fulgent-Les Essarts — Les contrôles obligatoires (page officielle)
 Pays de Saint-Fulgent-Les Essarts — Assainissement non collectif, fosse septique (page officielle)
@@ -2899,7 +2899,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-chantonnay
 
 Accueil › Vendée › Pays de Chantonnay Le SPANC de Pays de Chantonnay
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Chantonnay (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle périodique : tous les 4 ans (non conformes à risque), 6 ans (non conformes) ou 8 ans (conformes, neuves ou réhabilitées), selon la délibération n° 2013-116 du 16/06/2013.
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
@@ -2957,7 +2957,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Chantonnay — Assainissement non collectif SPANC (page officielle)
 Pays de Chantonnay — Règlement du SPANC (PDF)
@@ -2969,7 +2969,7 @@ URL : https://reperes-assainissement.fr/spanc/vie-et-boulogne
 
 Accueil › Vendée › Vie et Boulogne Le SPANC de Vie et Boulogne
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Vie et Boulogne (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
 Contrôle en cas de vente : 135 € ; 250 € au-delà de 20 EH (2024).
 Contrôle périodique : tous les 8 ans (installations conformes), tous les 4 ans (non conformes).
@@ -3033,7 +3033,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Vie et Boulogne — Assainissement non collectif (page officielle)
 Vie et Boulogne — Rapport annuel du SPANC 2024, annexe à la délibération 2025D105 (PDF)
@@ -3046,7 +3046,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-saint-gilles-croix-de-vie
 
 Accueil › Vendée › Pays de Saint-Gilles-Croix-de-Vie Le SPANC de Pays de Saint-Gilles-Croix-de-Vie
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Saint-Gilles-Croix-de-Vie (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 6 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 6 min
 En bref
 Contrôle en cas de vente : 154,55 € HT / 170 € TTC (moins de 20 EH) (2026).
 Contrôle périodique : tous les 8 ans (installations conformes), tous les 4 ans (non conformes).
@@ -3110,7 +3110,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Saint-Gilles-Croix-de-Vie — Assainissement non collectif (page officielle)
 Pays de Saint-Gilles-Croix-de-Vie — Guide du SPANC 2026 (PDF)
@@ -3121,7 +3121,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-de-mortagne
 
 Accueil › Vendée › Pays de Mortagne Le SPANC de Pays de Mortagne
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays de Mortagne (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 5 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
 Contrôle en cas de vente : 130 € TTC.
 Contrôle périodique : tous les 8 ans (installations conformes ou non conformes sans risque), tous les 4 ans (danger sanitaire ou risque avéré de pollution).
@@ -3178,7 +3178,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays de Mortagne — Assainissement non collectif (page officielle)
 Pays de Mortagne — Règlement du SPANC applicable au 13/12/2023 (PDF)
@@ -3190,7 +3190,7 @@ URL : https://reperes-assainissement.fr/spanc/ile-de-noirmoutier
 
 Accueil › Vendée › Île de Noirmoutier Le SPANC de l’Île de Noirmoutier
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Île de Noirmoutier (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 100 €.
 Contrôle périodique : tous les 4 ans.
@@ -3248,7 +3248,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Île de Noirmoutier — Assainissement non collectif (page officielle)
 Île de Noirmoutier — Règlement du SPANC 2022 (PDF)
@@ -3258,7 +3258,7 @@ URL : https://reperes-assainissement.fr/spanc/pays-des-achards
 
 Accueil › Vendée › Pays des Achards Le SPANC de Pays des Achards
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays des Achards (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 165 € (bon fonctionnement lors d'une vente) (2024).
 Contrôle périodique : tous les 6 ans.
@@ -3317,7 +3317,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Pays des Achards — Assainissement non collectif (page officielle)
 Pays des Achards — Rapport d'activité 2024 (PDF)
@@ -3329,7 +3329,7 @@ URL : https://reperes-assainissement.fr/spanc/ile-d-yeu
 
 Accueil › Vendée › L'Île-d'Yeu Le SPANC de L'Île-d'Yeu
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur L'Île-d'Yeu (Vendée).
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 4 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 4 min
 En bref
 Contrôle en cas de vente : 150 € HT (redevance forfaitaire, contrôle lors d'une mutation immobilière) (HT, 2015).
 Contrôle périodique : dépend de la classification de l'installation lors du contrôle précédent (périodicité non chiffrée).
@@ -3386,7 +3386,7 @@ Les trois contrôles, leur fréquence, les délais de travaux et la pénalité m
 Vendre ou acheter une maison : ce que la loi impose
 Rapport SPANC de moins de 3 ans, travaux dans l’année, rôle du notaire, négociation.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Mairie de L'Île-d'Yeu — Réseaux et SPANC (page officielle)
 Mairie de L'Île-d'Yeu — Délibération du 24/02/2015 sur le contrôle de conformité lors des mutations immobilières (PDF)
@@ -3397,7 +3397,7 @@ URL : https://reperes-assainissement.fr/vidangeurs-agrees-loire-atlantique
 
 Accueil › Loire-Atlantique › Vidangeurs agréés Vidangeurs agréés en Loire-Atlantique
 La liste officielle des entreprises autorisées à vidanger une fosse, une micro-station ou un filtre, et comment la vérifier.
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 13 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 13 min
 En bref
 27 entreprises figurent dans la liste préfectorale du 6 novembre 2025, dont 22 avec un agrément encore en cours en octobre 2026.
 Seul un vidangeur agréé peut collecter et éliminer les boues : exigez le bordereau de suivi des matières de vidange.
@@ -3485,7 +3485,7 @@ L’étude de sol et de filière
 Vidangeurs agréés en Vendée
 La liste préfectorale du département voisin.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Portail interministériel ANC — liens vers les listes de vidangeurs agréés (mis à jour le 16/04/2026)
 Préfecture de la Loire-Atlantique — page Assainissement Non Collectif
@@ -3518,7 +3518,7 @@ URL : https://reperes-assainissement.fr/vidangeurs-agrees-vendee
 
 Accueil › Vendée › Vidangeurs agréés Vidangeurs agréés en Vendée
 La liste officielle des entreprises autorisées à vidanger une fosse, une micro-station ou un filtre, et comment la vérifier.
-Par Aymen B. Mis à jour le 21/10/2026 Lecture : 15 min
+Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 15 min
 En bref
 26 entreprises figurent dans la liste préfectorale du 7 décembre 2022, dont 19 avec un agrément encore en cours en octobre 2026 (7 à vérifier).
 Seul un vidangeur agréé peut collecter et éliminer les boues : exigez le bordereau de suivi des matières de vidange.
@@ -3621,7 +3621,7 @@ L’étude de sol et de filière
 Vidangeurs agréés en Loire-Atlantique
 La liste préfectorale du département voisin.
 AB
-Aymen B. — J’écris ce guide à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Je ne suis pas installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. Ma méthode .
+Repères Assainissement — Ce guide est rédigé à partir des textes officiels (Code de la santé publique, arrêtés de 2009 et de 2012, fiches service-public, documents des SPANC et des préfectures) et des prix publiés, en citant chaque source. Ce site n’est pas un installateur. Pour votre cas précis, le SPANC de votre commune reste l’interlocuteur officiel. La méthode .
 Sources consultées
 Portail interministériel ANC — liens vers les listes de vidangeurs agréés (mis à jour le 16/04/2026)
 Préfecture de la Loire-Atlantique — page Assainissement Non Collectif
