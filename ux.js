@@ -208,3 +208,6 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', ready); else ready();
   window.addEventListener('load', lisible);
 })();
+
+/* Bouton Google Sources preferees */
+(function(){var h=location.hostname.replace(/^www\./,'');if(['gagnerdutemps.fr','fideliqr.fr','reperes-assainissement.fr','exterieur-clair.fr'].indexOf(h)<0)return;function go(){if(document.getElementById('gs-pref'))return;var t=document.querySelector('article')||document.querySelector('footer')||document.querySelector('nav.site-plan');if(!t)return;var d=document.createElement('p');d.id='gs-pref';d.style.cssText='text-align:center;margin:24px 0';var a=document.createElement('a');a.href='https://www.google.com/preferences/source?q='+h;a.target='_blank';a.rel='noopener';a.textContent='\u2606 Ajouter \u00e0 mes sources pr\u00e9f\u00e9r\u00e9es sur Google';a.style.cssText='display:inline-block;padding:10px 16px;border:1px solid #dadce0;border-radius:999px;background:#fff;color:#1a73e8;font:500 15px/1.3 system-ui,sans-serif;text-decoration:none';d.appendChild(a);t.appendChild(d);}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',go);}else{go();}})();
