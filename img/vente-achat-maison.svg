@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img" aria-labelledby="t d">
 <title id="t">Vendre ou acheter une maison : les délais de l’assainissement</title>
-<desc id="d">Le vendeur fournit un rapport du SPANC de moins de 3 ans à la signature, compté depuis la date de la visite. Le notaire envoie au SPANC une attestation de vente dans le mois. Si l’installation n’est pas conforme, l’acheteur doit faire les travaux dans un délai d’un an après l’acte de vente. Sans travaux, pénalité au moins égale à la redevance, majorable jusqu’à 400 %. Rapport absent ou trop ancien : contrôle à la charge du vendeur, environ 100 à 310 €.</desc>
+<desc id="d">Le vendeur fournit un rapport du SPANC de moins de 3 ans à la signature, compté depuis la date de la visite. Le notaire envoie au SPANC une attestation de vente dans le mois. Si l’installation n’est pas conforme, l’acheteur doit faire les travaux dans un délai d’un an après l’acte de vente. Sans travaux, pénalité au moins égale à la redevance, majorable jusqu’à 400 %. Rapport absent ou trop ancien : contrôle à la charge du vendeur, de 98 à 310 €.</desc>
 <defs><clipPath id="c"><rect width="720" height="380" rx="18"/></clipPath></defs>
 <g clip-path="url(#c)" font-family="Arial,Helvetica,sans-serif">
 <rect width="720" height="380" fill="#f5fafb"/>
@@ -35,6 +35,6 @@
 <text x="590" y="270" font-size="13" fill="#3d525c" text-anchor="middle">après l’acte de vente</text>
 <rect x="24" y="302" width="672" height="62" rx="12" fill="#fff4e3" stroke="#f2a516" stroke-width="2"/>
 <text x="44" y="327" font-size="13.5" font-weight="700" fill="#b5600b">Sans travaux : pénalité au moins égale à la redevance, majorable jusqu’à 400 %</text>
-<text x="44" y="349" font-size="13" fill="#13232b">Rapport absent ou trop ancien : contrôle à la charge du vendeur, environ 100 à 310 €</text>
+<text x="44" y="349" font-size="13" fill="#13232b">Rapport absent ou trop ancien : contrôle à la charge du vendeur, de 98 à 310 €</text>
 </g>
 </svg>
