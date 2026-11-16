@@ -270,7 +270,22 @@
       var cp = $('#ld-cp', lf); if (!/^[0-9]{5}$/.test(cp.value.trim())) return bad(cp, 'Indiquez un code postal à 5 chiffres.');
       return true;
     };
-    go(0);
+    /* 16/11/2026 (BMA : alléger la demande de devis) : étape 1 réduite au projet et au code postal, les 3 autres questions passent à l'étape 2 ;
+   promesses de délai et de nombre de professionnels retirées à l'affichage ; contrôle des champs pendant la saisie. */
+(function () {
+var s2 = steps2[1], avant = s2 ? $('.checks', s2) : null, b = $('#ld-budget', lf), pr = $('#ld-proprio', lf);
+if (s2 && avant && b && pr) { var rg = b.closest('.row'), fp = pr.closest('.field'); if (rg) s2.insertBefore(rg, avant); if (fp) s2.insertBefore(fp, avant); }
+$$('.lead-pros li', lf).forEach(function (li) { if (/24|professionnels/.test(li.textContent)) li.parentNode.removeChild(li); });
+var vif = function (el, test, ac, im) {
+if (!el) return; if (ac) el.setAttribute('autocomplete', ac); if (im) el.setAttribute('inputmode', im);
+var voir = function (fin) { var v = el.value.trim(); if (v && test(v)) { el.removeAttribute('aria-invalid'); el.classList.add('ok'); } else { el.classList.remove('ok'); if (fin && v) el.setAttribute('aria-invalid', 'true'); } };
+el.addEventListener('input', function () { voir(false); }); el.addEventListener('blur', function () { voir(true); });
+};
+vif($('#ld-cp', lf), function (v) { return /^[0-9]{5}$/.test(v); }, 'postal-code', 'numeric');
+vif($('#ld-tel', lf), function (v) { return v.replace(/[^0-9]/g, '').length >= 9; }, 'tel', 'tel');
+vif($('#ld-email', lf), function (v) { return /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v); }, 'email', 'email');
+})();
+go(0);
     $('[data-next]', lf).addEventListener('click', function () { if (ok1()) { go(1); var f2 = $('#ld-prenom', lf); if (f2) f2.focus(); } });
     $('[data-prev]', lf).addEventListener('click', function () { go(0); });
     form.addEventListener('submit', function (e) {
