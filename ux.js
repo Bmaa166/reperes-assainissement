@@ -164,7 +164,6 @@
       f.addEventListener('input', function (e) { if (e.target.type !== 'search') sale = true; });
       f.addEventListener('submit', function () { setTimeout(function () { var b = f.querySelector('button[disabled]'); if (b || f.style.display === 'none') sale = false; }, 0); });
     });
-    window.addEventListener('beforeunload', function (e) { if (sale && !leaving()) { e.preventDefault(); e.returnValue = ''; } });
     var part = false; function leaving() { return part; }
     document.addEventListener('click', function (e) {
       var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;

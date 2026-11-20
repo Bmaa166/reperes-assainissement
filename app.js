@@ -274,7 +274,10 @@
    promesses de délai et de nombre de professionnels retirées à l'affichage ; contrôle des champs pendant la saisie. */
 (function () {
 var s2 = steps2[1], avant = s2 ? $('.checks', s2) : null, b = $('#ld-budget', lf), pr = $('#ld-proprio', lf);
-if (s2 && avant && b && pr) { var rg = b.closest('.row'), fp = pr.closest('.field'); if (rg) s2.insertBefore(rg, avant); if (fp) s2.insertBefore(fp, avant); }
+if (s2 && avant && b && pr) { var rg = b.closest('.row'), fp = pr.closest('.field'); /* 20/11/2026 : étape 2 réduite au prénom, au téléphone et à l'email ; le reste se replie dans « Préciser mon projet ». */
+var det = document.createElement('details'), sm = document.createElement('summary'), prc = $('#ld-precisions', lf), fpc = prc ? prc.closest('.field') : null;
+det.className = 'sim-ko'; sm.textContent = 'Préciser mon projet (facultatif)'; det.appendChild(sm); s2.insertBefore(det, avant);
+if (fpc) det.appendChild(fpc); if (rg) det.appendChild(rg); if (fp) det.appendChild(fp); }
 $$('.lead-pros li', lf).forEach(function (li) { if (/24|professionnels/.test(li.textContent)) li.parentNode.removeChild(li); });
 var vif = function (el, test, ac, im) {
 if (!el) return; if (ac) el.setAttribute('autocomplete', ac); if (im) el.setAttribute('inputmode', im);
@@ -304,7 +307,7 @@ go(0);
         .then(function (r) {
           if (!r || !r.ok) throw new Error('refus');
           form.style.display = 'none'; bar2.style.width = '100%'; if (window.raEvent) window.raEvent('generate_lead', { page_path: location.pathname });
-          msg.innerHTML = '<div class="result"><div class="big sm">Merci, votre demande est bien reçue' + (r.ref ? ' (' + r.ref + ')' : '') + '.</div><ul><li>Je vous recontacte sous 24 h ouvrées pour faire le point sur votre projet.</li><li>Un email de confirmation vient de vous être envoyé.</li><li>Vous pouvez demander la suppression de vos données à tout moment.</li></ul></div>';
+          msg.innerHTML = '<div class="result"><div class="big sm">Merci, votre demande est bien reçue.</div><ul><li>Un email de confirmation vient de vous être envoyé : regardez aussi dans vos indésirables.</li><li>Je reviens vers vous par email ou par téléphone pour faire le point sur votre projet.</li><li>Vous pouvez demander la suppression de vos données à tout moment.</li></ul></div>'; lf.scrollIntoView({ block: 'start' });
         })
         .catch(function () { btn.disabled = false; btn.textContent = 'Envoyer ma demande'; msg.innerHTML = '<div class="note warn">L’envoi n’a pas fonctionné. Réessayez dans un instant, ou écrivez-moi via la page <a href="/mentions-legales">mentions légales</a>.</div>'; });
     });
