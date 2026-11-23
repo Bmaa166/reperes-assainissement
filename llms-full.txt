@@ -138,7 +138,7 @@ Fosse + tertre d’infiltration Sur devis Plus cher qu’un épandage, aucun pri
 Les frais annexes
 Fourchettes relevées dans les tarifs publiés par des SPANC de Loire-Atlantique et de Vendée. Poste Montant Quand
 Étude de sol et de filière 350 à 800 € (souvent autour de 600 €) Avant le projet ; exigée par de nombreux SPANC
-Redevance du SPANC : contrôle de conception 40 à 175 € Avant les travaux
+Redevance du SPANC : contrôle de conception 40 à 210 € Avant les travaux
 Redevance du SPANC : contrôle de bonne exécution 78 à 190 € Pendant les travaux, avant remblaiement
 Contrôle du SPANC pour une vente de 98 à 310 € Si le rapport a plus de 3 ans
 Dépose de l’ancien système 2 000 à 5 000 € Selon la complexité (repère d’une seule source)
@@ -352,7 +352,7 @@ Q : Peut-on refuser la visite du SPANC ?
 R : Le refus expose à la même pénalité que l’absence de travaux : une somme au moins égale à la redevance, majorable jusqu’à 400 %.
 
 Q : Combien coûte un contrôle du SPANC ?
-R : Cela dépend du territoire. Dans les SPANC de Loire-Atlantique et de Vendée que j’ai relevés : 40 à 175 € pour la conception, 78 à 190 € pour la bonne exécution, de 98 à 310 € pour une vente, et pour le contrôle périodique soit un forfait (environ 75 à 190 €), soit une redevance annuelle (environ 15 à 55 € par an).
+R : Cela dépend du territoire. Dans les SPANC de Loire-Atlantique et de Vendée que j’ai relevés : 40 à 210 € pour la conception, 78 à 190 € pour la bonne exécution, de 98 à 310 € pour une vente, et pour le contrôle périodique soit un forfait (environ 75 à 190 €), soit une redevance annuelle (environ 15 à 55 € par an).
 
 Q : Y a-t-il des dérogations en zone rurale ?
 R : Non : la réglementation ne prévoit aucune dérogation aux travaux, même en zone rurale ou de montagne, selon une réponse ministérielle publiée en janvier 2023.
@@ -446,7 +446,7 @@ URL : https://reperes-assainissement.fr/etapes-travaux
 
 Créer ou refaire une installation d’assainissement suit toujours le même ordre. Le sauter, c’est risquer un avis défavorable du SPANC… une fois la tranchée creusée.
 L’étude de sol et de filière Un bureau d’études analyse le terrain (perméabilité, nappe, pente, place) et recommande une filière dimensionnée. Comptez 350 à 800 €. Elle est exigée par de nombreux SPANC.
-Le dossier de conception au SPANC Vous déposez le projet au SPANC, qui rend un avis. Un avis favorable est obligatoire avant tout travaux. Redevance : environ 40 à 175 €.
+Le dossier de conception au SPANC Vous déposez le projet au SPANC, qui rend un avis. Un avis favorable est obligatoire avant tout travaux. Redevance : environ 40 à 210 €.
 Les devis Faites chiffrer le projet validé par plusieurs entreprises, sur la même base. Vérifiez l’agrément du dispositif et la TVA à 10 % si le logement a plus de 2 ans.
 Les travaux Prévenez le SPANC à l’avance pour sa visite (au moins une semaine à Nantes Métropole, 48 h dans le Pays de Saint-Gilles, par exemple).
 Le contrôle de bonne exécution Le SPANC contrôle l’installation avant remblaiement . Redevance : environ 78 à 190 €.
@@ -1164,7 +1164,7 @@ Accueil › Loire-Atlantique › Pays d'Ancenis (COMPA) Le SPANC de Pays d'Ancen
 Contact, tarifs des contrôles, fréquence, aides et pénalités de l’assainissement individuel sur Pays d'Ancenis (COMPA) (Loire-Atlantique).
 Par Repères Assainissement Mis à jour le 21/10/2026 Lecture : 5 min
 En bref
-Contrôle en cas de vente : 200,00 € (diagnostic vente) (2024).
+Contrôle en cas de vente : 200 € (diagnostic vente, confirmé par le SPANC le 23/11/2026).
 Contrôle périodique : tous les 10 ans (délibération du 20/02/2020 ; règlement art. 19 : « tous les 10 ans au maximum »).
 Une aide locale aux travaux existe : voir les conditions ci-dessous.
 Sommaire
@@ -1187,12 +1187,13 @@ Adresse Centre administratif Les Ursulines, CS 50201, 44156 Ancenis-Saint-Géré
 Page officielle pays-ancenis.com
 Tarifs des contrôles
 Tarifs 2024 (HT ou TTC non précisé par la collectivité), tels que publiés par la collectivité.
-Contrôle de conception 68,00 €
-Contrôle de réalisation (bonne exécution) 90,00 € (contrôle de bonne exécution)
+Contrôle de conception 210 € (étude initiale) ; 70 € (modification d’étude) ; 320 € au-delà de 20 EH
+Contrôle de réalisation (bonne exécution) 170 € (1re visite) ; 320 € au-delà de 20 EH
 Contrôle périodique de bon fonctionnement 18,50 €/an (redevance annuelle du contrôle périodique de bon fonctionnement)
 Contrôle en cas de vente 200,00 € (diagnostic vente)
 Contre-visite —
-Visite ponctuelle pour attestation de conformité : 94,00 €
+Contre-visite 110 €
+Visite ponctuelle : 200 € TTC
 Tarifs 2024 relevés dans le RPQS 2024 ; HT/TTC non précisé ; tarifs 2025/2026 non trouvés. La page « contrôle des installations existantes » confirme la redevance de 200 € pour le contrôle vente.
 Pour comparer avec les autres territoires, voir les SPANC de Loire-Atlantique et le déroulé d’un contrôle .
 Fréquence des contrôles
@@ -1209,7 +1210,7 @@ Communes concernées
 20 communes dépendent de ce SPANC : Ancenis-Saint-Géréon, Le Cellier, Couffé, Ingrandes-Le Fresne-sur-Loire, Joué-sur-Erdre, Ligné, Loireauxence, Mésanger, Montrelais, Mouzeil, Oudon, Pannecé, Le Pin, Pouillé-les-Coteaux, Riaillé, La Roche-Blanche, Teillé, Trans-sur-Erdre, Vallons-de-l'Erdre, Vair-sur-Loire.
 Questions fréquentes
 Combien coûte le diagnostic de vente au Pays d'Ancenis ?
-Le diagnostic vente est facturé 200 € (tarif 2024 du RPQS, confirmé sur la page officielle). La mention HT ou TTC n'est pas précisée.
+Le diagnostic vente est facturé 200 €, selon la page officielle de la COMPA (tarif confirmé par le SPANC le 23/11/2026). Le rapport reste valable 3 ans.
 Tous les combien l'installation est-elle contrôlée ?
 La fréquence du contrôle périodique est fixée à 10 ans (délibération du 20/02/2020), soit « tous les 10 ans au maximum » selon le règlement. Ce contrôle est financé par une redevance annuelle de 18,50 € (2024).
 Qui contacter pour le SPANC de la COMPA ?
